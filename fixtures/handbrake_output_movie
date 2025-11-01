@@ -1,0 +1,2351 @@
+Version: {
+    "Arch": "x86_64",
+    "Name": "HandBrake",
+    "Official": true,
+    "RepoDate": "2023-01-22 16:36:49",
+    "RepoHash": "04413a27e6d616cddd98c2c6468aca2bf91b87b5",
+    "System": "Linux",
+    "Type": "release",
+    "Version": {
+        "Major": 1,
+        "Minor": 6,
+        "Point": 1
+    },
+    "VersionString": "1.6.1"
+}
+Progress: {
+    "Scanning": {
+        "Preview": 0,
+        "PreviewCount": 1,
+        "Progress": 0.0,
+        "SequenceID": 0,
+        "Title": 1,
+        "TitleCount": 1
+    },
+    "State": "SCANNING"
+}
+Progress: {
+    "Scanning": {
+        "Preview": 0,
+        "PreviewCount": 1,
+        "Progress": 0.0,
+        "SequenceID": 0,
+        "Title": 1,
+        "TitleCount": 1
+    },
+    "State": "SCANNING"
+}
+Progress: {
+    "Scanning": {
+        "Preview": 0,
+        "PreviewCount": 1,
+        "Progress": 0.0,
+        "SequenceID": 0,
+        "Title": 1,
+        "TitleCount": 1
+    },
+    "State": "SCANNING"
+}
+Progress: {
+    "Scanning": {
+        "Preview": 0,
+        "PreviewCount": 1,
+        "Progress": 0.0,
+        "SequenceID": 0,
+        "Title": 1,
+        "TitleCount": 1
+    },
+    "State": "SCANNING"
+}
+Progress: {
+    "Scanning": {
+        "Preview": 0,
+        "PreviewCount": 1,
+        "Progress": 0.0,
+        "SequenceID": 0,
+        "Title": 1,
+        "TitleCount": 1
+    },
+    "State": "SCANNING"
+}
+Progress: {
+    "Scanning": {
+        "Preview": 0,
+        "PreviewCount": 1,
+        "Progress": 0.0,
+        "SequenceID": 0,
+        "Title": 1,
+        "TitleCount": 1
+    },
+    "State": "SCANNING"
+}
+libdvdnav: DVD Title: WAR_FOR_PLANET_OF_THE_APES
+libdvdnav: DVD Serial Number: 4B3282D5
+libdvdnav: DVD Title (Alternative): WAR_FOR_PLANET_OF_THE_APES
+libdvdnav: DVD disk reports itself with Region mask 0x00fd0000. Regions: 02
+libdvdread: Attempting to retrieve all CSS keys
+libdvdread: This can take a _long_ time, please be patient
+libdvdread: Get key for /VIDEO_TS/VIDEO_TS.VOB at 0x00007895
+libdvdread: Elapsed time 0
+libdvdread: Get key for /VIDEO_TS/VTS_01_1.VOB at 0x00007ca7
+libdvdread: Elapsed time 0
+libdvdread: Get key for /VIDEO_TS/VTS_02_1.VOB at 0x00007d8d
+libdvdread: Elapsed time 0
+libdvdread: Get key for /VIDEO_TS/VTS_03_1.VOB at 0x00008b64
+libdvdread: Elapsed time 0
+libdvdread: Get key for /VIDEO_TS/VTS_04_0.VOB at 0x00008c7f
+libdvdread: Elapsed time 0
+libdvdread: Get key for /VIDEO_TS/VTS_04_1.VOB at 0x00009419
+libdvdread: Elapsed time 0
+libdvdread: Get key for /VIDEO_TS/VTS_05_0.VOB at 0x00009431
+libdvdread: Elapsed time 0
+libdvdread: Get key for /VIDEO_TS/VTS_05_1.VOB at 0x00009a36
+libdvdread: Elapsed time 0
+libdvdread: Get key for /VIDEO_TS/VTS_06_0.VOB at 0x00009a53
+libdvdread: Elapsed time 0
+libdvdread: Get key for /VIDEO_TS/VTS_06_1.VOB at 0x0000e8b1
+libdvdread: Elapsed time 0
+libdvdread: Get key for /VIDEO_TS/VTS_07_1.VOB at 0x0000e8cf
+libdvdread: Elapsed time 0
+libdvdread: Get key for /VIDEO_TS/VTS_08_1.VOB at 0x0003dab2
+libdvdread: Elapsed time 0
+libdvdread: Get key for /VIDEO_TS/VTS_09_0.VOB at 0x00041523
+libdvdread: Elapsed time 0
+libdvdread: Get key for /VIDEO_TS/VTS_09_1.VOB at 0x000448ea
+libdvdread: Elapsed time 0
+libdvdread: Get key for /VIDEO_TS/VTS_10_1.VOB at 0x003773dc
+libdvdread: Elapsed time 0
+libdvdread: Found 10 VTS's
+libdvdread: Elapsed time 0
+Progress: {
+    "Scanning": {
+        "Preview": 0,
+        "PreviewCount": 1,
+        "Progress": 0.033333335071802139,
+        "SequenceID": 0,
+        "Title": 1,
+        "TitleCount": 15
+    },
+    "State": "SCANNING"
+}
+Progress: {
+    "Scanning": {
+        "Preview": 0,
+        "PreviewCount": 1,
+        "Progress": 0.23333333432674408,
+        "SequenceID": 0,
+        "Title": 7,
+        "TitleCount": 15
+    },
+    "State": "SCANNING"
+}
+Progress: {
+    "Scanning": {
+        "Preview": 0,
+        "PreviewCount": 1,
+        "Progress": 0.40000000596046448,
+        "SequenceID": 0,
+        "Title": 12,
+        "TitleCount": 15
+    },
+    "State": "SCANNING"
+}
+libdvdnav: DVD disk reports itself with Region mask 0x00fd0000. Regions: 02
+Progress: {
+    "Scanning": {
+        "Preview": 0,
+        "PreviewCount": 1,
+        "Progress": 0.5,
+        "SequenceID": 0,
+        "Title": 15,
+        "TitleCount": 15
+    },
+    "State": "SCANNING"
+}
+Progress: {
+    "Scanning": {
+        "Preview": 0,
+        "PreviewCount": 1,
+        "Progress": 0.5,
+        "SequenceID": 0,
+        "Title": 15,
+        "TitleCount": 15
+    },
+    "State": "SCANNING"
+}
+Progress: {
+    "Scanning": {
+        "Preview": 0,
+        "PreviewCount": 1,
+        "Progress": 0.5,
+        "SequenceID": 0,
+        "Title": 15,
+        "TitleCount": 15
+    },
+    "State": "SCANNING"
+}
+Progress: {
+    "Scanning": {
+        "Preview": 0,
+        "PreviewCount": 1,
+        "Progress": 0.5,
+        "SequenceID": 0,
+        "Title": 15,
+        "TitleCount": 15
+    },
+    "State": "SCANNING"
+}
+Progress: {
+    "Scanning": {
+        "Preview": 0,
+        "PreviewCount": 1,
+        "Progress": 0.5,
+        "SequenceID": 0,
+        "Title": 15,
+        "TitleCount": 15
+    },
+    "State": "SCANNING"
+}
+Progress: {
+    "Scanning": {
+        "Preview": 0,
+        "PreviewCount": 1,
+        "Progress": 0.5,
+        "SequenceID": 0,
+        "Title": 15,
+        "TitleCount": 15
+    },
+    "State": "SCANNING"
+}
+Progress: {
+    "Scanning": {
+        "Preview": 0,
+        "PreviewCount": 1,
+        "Progress": 0.5,
+        "SequenceID": 0,
+        "Title": 15,
+        "TitleCount": 15
+    },
+    "State": "SCANNING"
+}
+Progress: {
+    "Scanning": {
+        "Preview": 0,
+        "PreviewCount": 1,
+        "Progress": 0.5,
+        "SequenceID": 0,
+        "Title": 15,
+        "TitleCount": 15
+    },
+    "State": "SCANNING"
+}
+Progress: {
+    "Scanning": {
+        "Preview": 0,
+        "PreviewCount": 1,
+        "Progress": 0.5,
+        "SequenceID": 0,
+        "Title": 15,
+        "TitleCount": 15
+    },
+    "State": "SCANNING"
+}
+libdvdnav: DVD disk reports itself with Region mask 0x00fd0000. Regions: 02
+Progress: {
+    "Scanning": {
+        "Preview": 1,
+        "PreviewCount": 10,
+        "Progress": 0.50714284181594849,
+        "SequenceID": 0,
+        "Title": 1,
+        "TitleCount": 7
+    },
+    "State": "SCANNING"
+}
+Progress: {
+    "Scanning": {
+        "Preview": 3,
+        "PreviewCount": 10,
+        "Progress": 0.52142858505249023,
+        "SequenceID": 0,
+        "Title": 1,
+        "TitleCount": 7
+    },
+    "State": "SCANNING"
+}
+Progress: {
+    "Scanning": {
+        "Preview": 5,
+        "PreviewCount": 10,
+        "Progress": 0.53571426868438721,
+        "SequenceID": 0,
+        "Title": 1,
+        "TitleCount": 7
+    },
+    "State": "SCANNING"
+}
+Progress: {
+    "Scanning": {
+        "Preview": 6,
+        "PreviewCount": 10,
+        "Progress": 0.54285717010498047,
+        "SequenceID": 0,
+        "Title": 1,
+        "TitleCount": 7
+    },
+    "State": "SCANNING"
+}
+Progress: {
+    "Scanning": {
+        "Preview": 8,
+        "PreviewCount": 10,
+        "Progress": 0.55714285373687744,
+        "SequenceID": 0,
+        "Title": 1,
+        "TitleCount": 7
+    },
+    "State": "SCANNING"
+}
+Progress: {
+    "Scanning": {
+        "Preview": 10,
+        "PreviewCount": 10,
+        "Progress": 0.57142859697341919,
+        "SequenceID": 0,
+        "Title": 1,
+        "TitleCount": 7
+    },
+    "State": "SCANNING"
+}
+libdvdnav: DVD disk reports itself with Region mask 0x00fd0000. Regions: 02
+Progress: {
+    "Scanning": {
+        "Preview": 2,
+        "PreviewCount": 10,
+        "Progress": 0.58571428060531616,
+        "SequenceID": 0,
+        "Title": 2,
+        "TitleCount": 7
+    },
+    "State": "SCANNING"
+}
+Progress: {
+    "Scanning": {
+        "Preview": 5,
+        "PreviewCount": 10,
+        "Progress": 0.6071428656578064,
+        "SequenceID": 0,
+        "Title": 2,
+        "TitleCount": 7
+    },
+    "State": "SCANNING"
+}
+Progress: {
+    "Scanning": {
+        "Preview": 8,
+        "PreviewCount": 10,
+        "Progress": 0.62857145071029663,
+        "SequenceID": 0,
+        "Title": 2,
+        "TitleCount": 7
+    },
+    "State": "SCANNING"
+}
+Progress: {
+    "Scanning": {
+        "Preview": 10,
+        "PreviewCount": 10,
+        "Progress": 0.6428571343421936,
+        "SequenceID": 0,
+        "Title": 2,
+        "TitleCount": 7
+    },
+    "State": "SCANNING"
+}
+libdvdnav: DVD disk reports itself with Region mask 0x00fd0000. Regions: 02
+Progress: {
+    "Scanning": {
+        "Preview": 2,
+        "PreviewCount": 10,
+        "Progress": 0.65714287757873535,
+        "SequenceID": 0,
+        "Title": 3,
+        "TitleCount": 7
+    },
+    "State": "SCANNING"
+}
+Progress: {
+    "Scanning": {
+        "Preview": 5,
+        "PreviewCount": 10,
+        "Progress": 0.67857140302658081,
+        "SequenceID": 0,
+        "Title": 3,
+        "TitleCount": 7
+    },
+    "State": "SCANNING"
+}
+Progress: {
+    "Scanning": {
+        "Preview": 7,
+        "PreviewCount": 10,
+        "Progress": 0.69285714626312256,
+        "SequenceID": 0,
+        "Title": 3,
+        "TitleCount": 7
+    },
+    "State": "SCANNING"
+}
+libdvdnav: DVD disk reports itself with Region mask 0x00fd0000. Regions: 02
+Progress: {
+    "Scanning": {
+        "Preview": 1,
+        "PreviewCount": 10,
+        "Progress": 0.72142857313156128,
+        "SequenceID": 0,
+        "Title": 4,
+        "TitleCount": 7
+    },
+    "State": "SCANNING"
+}
+Progress: {
+    "Scanning": {
+        "Preview": 2,
+        "PreviewCount": 10,
+        "Progress": 0.72857141494750977,
+        "SequenceID": 0,
+        "Title": 4,
+        "TitleCount": 7
+    },
+    "State": "SCANNING"
+}
+Progress: {
+    "Scanning": {
+        "Preview": 5,
+        "PreviewCount": 10,
+        "Progress": 0.75,
+        "SequenceID": 0,
+        "Title": 4,
+        "TitleCount": 7
+    },
+    "State": "SCANNING"
+}
+Progress: {
+    "Scanning": {
+        "Preview": 7,
+        "PreviewCount": 10,
+        "Progress": 0.76428574323654175,
+        "SequenceID": 0,
+        "Title": 4,
+        "TitleCount": 7
+    },
+    "State": "SCANNING"
+}
+Progress: {
+    "Scanning": {
+        "Preview": 9,
+        "PreviewCount": 10,
+        "Progress": 0.77857142686843872,
+        "SequenceID": 0,
+        "Title": 4,
+        "TitleCount": 7
+    },
+    "State": "SCANNING"
+}
+libdvdnav: DVD disk reports itself with Region mask 0x00fd0000. Regions: 02
+Progress: {
+    "Scanning": {
+        "Preview": 1,
+        "PreviewCount": 10,
+        "Progress": 0.79285711050033569,
+        "SequenceID": 0,
+        "Title": 5,
+        "TitleCount": 7
+    },
+    "State": "SCANNING"
+}
+Progress: {
+    "Scanning": {
+        "Preview": 1,
+        "PreviewCount": 10,
+        "Progress": 0.79285711050033569,
+        "SequenceID": 0,
+        "Title": 5,
+        "TitleCount": 7
+    },
+    "State": "SCANNING"
+}
+Progress: {
+    "Scanning": {
+        "Preview": 1,
+        "PreviewCount": 10,
+        "Progress": 0.79285711050033569,
+        "SequenceID": 0,
+        "Title": 5,
+        "TitleCount": 7
+    },
+    "State": "SCANNING"
+}
+Progress: {
+    "Scanning": {
+        "Preview": 1,
+        "PreviewCount": 10,
+        "Progress": 0.79285711050033569,
+        "SequenceID": 0,
+        "Title": 5,
+        "TitleCount": 7
+    },
+    "State": "SCANNING"
+}
+Progress: {
+    "Scanning": {
+        "Preview": 1,
+        "PreviewCount": 10,
+        "Progress": 0.79285711050033569,
+        "SequenceID": 0,
+        "Title": 5,
+        "TitleCount": 7
+    },
+    "State": "SCANNING"
+}
+Progress: {
+    "Scanning": {
+        "Preview": 1,
+        "PreviewCount": 10,
+        "Progress": 0.79285711050033569,
+        "SequenceID": 0,
+        "Title": 5,
+        "TitleCount": 7
+    },
+    "State": "SCANNING"
+}
+Progress: {
+    "Scanning": {
+        "Preview": 1,
+        "PreviewCount": 10,
+        "Progress": 0.79285711050033569,
+        "SequenceID": 0,
+        "Title": 5,
+        "TitleCount": 7
+    },
+    "State": "SCANNING"
+}
+Progress: {
+    "Scanning": {
+        "Preview": 1,
+        "PreviewCount": 10,
+        "Progress": 0.79285711050033569,
+        "SequenceID": 0,
+        "Title": 5,
+        "TitleCount": 7
+    },
+    "State": "SCANNING"
+}
+Progress: {
+    "Scanning": {
+        "Preview": 1,
+        "PreviewCount": 10,
+        "Progress": 0.79285711050033569,
+        "SequenceID": 0,
+        "Title": 5,
+        "TitleCount": 7
+    },
+    "State": "SCANNING"
+}
+Progress: {
+    "Scanning": {
+        "Preview": 1,
+        "PreviewCount": 10,
+        "Progress": 0.79285711050033569,
+        "SequenceID": 0,
+        "Title": 5,
+        "TitleCount": 7
+    },
+    "State": "SCANNING"
+}
+Progress: {
+    "Scanning": {
+        "Preview": 1,
+        "PreviewCount": 10,
+        "Progress": 0.79285711050033569,
+        "SequenceID": 0,
+        "Title": 5,
+        "TitleCount": 7
+    },
+    "State": "SCANNING"
+}
+Progress: {
+    "Scanning": {
+        "Preview": 1,
+        "PreviewCount": 10,
+        "Progress": 0.79285711050033569,
+        "SequenceID": 0,
+        "Title": 5,
+        "TitleCount": 7
+    },
+    "State": "SCANNING"
+}
+Progress: {
+    "Scanning": {
+        "Preview": 1,
+        "PreviewCount": 10,
+        "Progress": 0.79285711050033569,
+        "SequenceID": 0,
+        "Title": 5,
+        "TitleCount": 7
+    },
+    "State": "SCANNING"
+}
+Progress: {
+    "Scanning": {
+        "Preview": 1,
+        "PreviewCount": 10,
+        "Progress": 0.79285711050033569,
+        "SequenceID": 0,
+        "Title": 5,
+        "TitleCount": 7
+    },
+    "State": "SCANNING"
+}
+Progress: {
+    "Scanning": {
+        "Preview": 1,
+        "PreviewCount": 10,
+        "Progress": 0.79285711050033569,
+        "SequenceID": 0,
+        "Title": 5,
+        "TitleCount": 7
+    },
+    "State": "SCANNING"
+}
+Progress: {
+    "Scanning": {
+        "Preview": 1,
+        "PreviewCount": 10,
+        "Progress": 0.79285711050033569,
+        "SequenceID": 0,
+        "Title": 5,
+        "TitleCount": 7
+    },
+    "State": "SCANNING"
+}
+Progress: {
+    "Scanning": {
+        "Preview": 1,
+        "PreviewCount": 10,
+        "Progress": 0.79285711050033569,
+        "SequenceID": 0,
+        "Title": 5,
+        "TitleCount": 7
+    },
+    "State": "SCANNING"
+}
+Progress: {
+    "Scanning": {
+        "Preview": 1,
+        "PreviewCount": 10,
+        "Progress": 0.79285711050033569,
+        "SequenceID": 0,
+        "Title": 5,
+        "TitleCount": 7
+    },
+    "State": "SCANNING"
+}
+Progress: {
+    "Scanning": {
+        "Preview": 1,
+        "PreviewCount": 10,
+        "Progress": 0.79285711050033569,
+        "SequenceID": 0,
+        "Title": 5,
+        "TitleCount": 7
+    },
+    "State": "SCANNING"
+}
+Progress: {
+    "Scanning": {
+        "Preview": 1,
+        "PreviewCount": 10,
+        "Progress": 0.79285711050033569,
+        "SequenceID": 0,
+        "Title": 5,
+        "TitleCount": 7
+    },
+    "State": "SCANNING"
+}
+libdvdnav: DVD disk reports itself with Region mask 0x00fd0000. Regions: 02
+libdvdnav: DVD disk reports itself with Region mask 0x00fd0000. Regions: 02
+Progress: {
+    "Scanning": {
+        "Preview": 1,
+        "PreviewCount": 10,
+        "Progress": 0.86428570747375488,
+        "SequenceID": 0,
+        "Title": 6,
+        "TitleCount": 7
+    },
+    "State": "SCANNING"
+}
+Progress: {
+    "Scanning": {
+        "Preview": 3,
+        "PreviewCount": 10,
+        "Progress": 0.87857145071029663,
+        "SequenceID": 0,
+        "Title": 6,
+        "TitleCount": 7
+    },
+    "State": "SCANNING"
+}
+Progress: {
+    "Scanning": {
+        "Preview": 5,
+        "PreviewCount": 10,
+        "Progress": 0.8928571343421936,
+        "SequenceID": 0,
+        "Title": 6,
+        "TitleCount": 7
+    },
+    "State": "SCANNING"
+}
+Progress: {
+    "Scanning": {
+        "Preview": 8,
+        "PreviewCount": 10,
+        "Progress": 0.91428571939468384,
+        "SequenceID": 0,
+        "Title": 6,
+        "TitleCount": 7
+    },
+    "State": "SCANNING"
+}
+libdvdnav: DVD disk reports itself with Region mask 0x00fd0000. Regions: 02
+Progress: {
+    "Scanning": {
+        "Preview": 1,
+        "PreviewCount": 10,
+        "Progress": 0.93571430444717407,
+        "SequenceID": 0,
+        "Title": 7,
+        "TitleCount": 7
+    },
+    "State": "SCANNING"
+}
+Progress: {
+    "Scanning": {
+        "Preview": 7,
+        "PreviewCount": 10,
+        "Progress": 0.97857141494750977,
+        "SequenceID": 0,
+        "Title": 7,
+        "TitleCount": 7
+    },
+    "State": "SCANNING"
+}
+JSON Title Set: {
+    "MainFeature": 1,
+    "TitleList": [
+        {
+            "AngleCount": 1,
+            "AudioList": [
+                {
+                    "Attributes": {
+                        "AltCommentary": false,
+                        "Commentary": false,
+                        "Default": false,
+                        "Normal": true,
+                        "Secondary": false,
+                        "VisuallyImpaired": false
+                    },
+                    "BitRate": 448000,
+                    "ChannelCount": 6,
+                    "ChannelLayout": 1551,
+                    "ChannelLayoutName": "5.1(side)",
+                    "Codec": 2048,
+                    "CodecName": "ac3",
+                    "CodecParam": 86019,
+                    "Description": "English (AC3) (5.1 ch) (448 kbps)",
+                    "LFECount": 1,
+                    "Language": "English",
+                    "LanguageCode": "eng",
+                    "SampleRate": 48000,
+                    "TrackNumber": 1
+                },
+                {
+                    "Attributes": {
+                        "AltCommentary": false,
+                        "Commentary": false,
+                        "Default": false,
+                        "Normal": true,
+                        "Secondary": false,
+                        "VisuallyImpaired": false
+                    },
+                    "BitRate": 384000,
+                    "ChannelCount": 6,
+                    "ChannelLayout": 1551,
+                    "ChannelLayoutName": "5.1(side)",
+                    "Codec": 2048,
+                    "CodecName": "ac3",
+                    "CodecParam": 86019,
+                    "Description": "Francais (AC3) (5.1 ch) (384 kbps)",
+                    "LFECount": 1,
+                    "Language": "Francais",
+                    "LanguageCode": "fra",
+                    "SampleRate": 48000,
+                    "TrackNumber": 2
+                },
+                {
+                    "Attributes": {
+                        "AltCommentary": false,
+                        "Commentary": false,
+                        "Default": false,
+                        "Normal": true,
+                        "Secondary": false,
+                        "VisuallyImpaired": false
+                    },
+                    "BitRate": 384000,
+                    "ChannelCount": 6,
+                    "ChannelLayout": 1551,
+                    "ChannelLayoutName": "5.1(side)",
+                    "Codec": 2048,
+                    "CodecName": "ac3",
+                    "CodecParam": 86019,
+                    "Description": "Deutsch (AC3) (5.1 ch) (384 kbps)",
+                    "LFECount": 1,
+                    "Language": "Deutsch",
+                    "LanguageCode": "deu",
+                    "SampleRate": 48000,
+                    "TrackNumber": 3
+                },
+                {
+                    "Attributes": {
+                        "AltCommentary": false,
+                        "Commentary": true,
+                        "Default": false,
+                        "Normal": false,
+                        "Secondary": false,
+                        "VisuallyImpaired": false
+                    },
+                    "BitRate": 192000,
+                    "ChannelCount": 2,
+                    "ChannelLayout": 3,
+                    "ChannelLayoutName": "stereo",
+                    "Codec": 2048,
+                    "CodecName": "ac3",
+                    "CodecParam": 86019,
+                    "Description": "English (AC3) (Director's Commentary 1) (2.0 ch) (192 kbps)",
+                    "LFECount": 0,
+                    "Language": "English",
+                    "LanguageCode": "eng",
+                    "Name": "Commentary",
+                    "SampleRate": 48000,
+                    "TrackNumber": 4
+                }
+            ],
+            "ChapterList": [
+                {
+                    "Duration": {
+                        "Hours": 0,
+                        "Minutes": 4,
+                        "Seconds": 52,
+                        "Ticks": 26319600
+                    },
+                    "Name": "Chapter 1"
+                },
+                {
+                    "Duration": {
+                        "Hours": 0,
+                        "Minutes": 3,
+                        "Seconds": 51,
+                        "Ticks": 20786400
+                    },
+                    "Name": "Chapter 2"
+                },
+                {
+                    "Duration": {
+                        "Hours": 0,
+                        "Minutes": 3,
+                        "Seconds": 0,
+                        "Ticks": 16174800
+                    },
+                    "Name": "Chapter 3"
+                },
+                {
+                    "Duration": {
+                        "Hours": 0,
+                        "Minutes": 5,
+                        "Seconds": 52,
+                        "Ticks": 31669200
+                    },
+                    "Name": "Chapter 4"
+                },
+                {
+                    "Duration": {
+                        "Hours": 0,
+                        "Minutes": 6,
+                        "Seconds": 27,
+                        "Ticks": 34826400
+                    },
+                    "Name": "Chapter 5"
+                },
+                {
+                    "Duration": {
+                        "Hours": 0,
+                        "Minutes": 5,
+                        "Seconds": 0,
+                        "Ticks": 27007200
+                    },
+                    "Name": "Chapter 6"
+                },
+                {
+                    "Duration": {
+                        "Hours": 0,
+                        "Minutes": 3,
+                        "Seconds": 46,
+                        "Ticks": 20343600
+                    },
+                    "Name": "Chapter 7"
+                },
+                {
+                    "Duration": {
+                        "Hours": 0,
+                        "Minutes": 3,
+                        "Seconds": 25,
+                        "Ticks": 18406800
+                    },
+                    "Name": "Chapter 8"
+                },
+                {
+                    "Duration": {
+                        "Hours": 0,
+                        "Minutes": 4,
+                        "Seconds": 55,
+                        "Ticks": 26593200
+                    },
+                    "Name": "Chapter 9"
+                },
+                {
+                    "Duration": {
+                        "Hours": 0,
+                        "Minutes": 6,
+                        "Seconds": 21,
+                        "Ticks": 34297200
+                    },
+                    "Name": "Chapter 10"
+                },
+                {
+                    "Duration": {
+                        "Hours": 0,
+                        "Minutes": 4,
+                        "Seconds": 31,
+                        "Ticks": 24411600
+                    },
+                    "Name": "Chapter 11"
+                },
+                {
+                    "Duration": {
+                        "Hours": 0,
+                        "Minutes": 4,
+                        "Seconds": 24,
+                        "Ticks": 23752800
+                    },
+                    "Name": "Chapter 12"
+                },
+                {
+                    "Duration": {
+                        "Hours": 0,
+                        "Minutes": 6,
+                        "Seconds": 18,
+                        "Ticks": 34034400
+                    },
+                    "Name": "Chapter 13"
+                },
+                {
+                    "Duration": {
+                        "Hours": 0,
+                        "Minutes": 4,
+                        "Seconds": 42,
+                        "Ticks": 25398000
+                    },
+                    "Name": "Chapter 14"
+                },
+                {
+                    "Duration": {
+                        "Hours": 0,
+                        "Minutes": 4,
+                        "Seconds": 24,
+                        "Ticks": 23774400
+                    },
+                    "Name": "Chapter 15"
+                },
+                {
+                    "Duration": {
+                        "Hours": 0,
+                        "Minutes": 3,
+                        "Seconds": 55,
+                        "Ticks": 21178800
+                    },
+                    "Name": "Chapter 16"
+                },
+                {
+                    "Duration": {
+                        "Hours": 0,
+                        "Minutes": 6,
+                        "Seconds": 20,
+                        "Ticks": 34221600
+                    },
+                    "Name": "Chapter 17"
+                },
+                {
+                    "Duration": {
+                        "Hours": 0,
+                        "Minutes": 3,
+                        "Seconds": 52,
+                        "Ticks": 20862000
+                    },
+                    "Name": "Chapter 18"
+                },
+                {
+                    "Duration": {
+                        "Hours": 0,
+                        "Minutes": 4,
+                        "Seconds": 34,
+                        "Ticks": 24638400
+                    },
+                    "Name": "Chapter 19"
+                },
+                {
+                    "Duration": {
+                        "Hours": 0,
+                        "Minutes": 4,
+                        "Seconds": 52,
+                        "Ticks": 26316000
+                    },
+                    "Name": "Chapter 20"
+                },
+                {
+                    "Duration": {
+                        "Hours": 0,
+                        "Minutes": 4,
+                        "Seconds": 10,
+                        "Ticks": 22485600
+                    },
+                    "Name": "Chapter 21"
+                },
+                {
+                    "Duration": {
+                        "Hours": 0,
+                        "Minutes": 4,
+                        "Seconds": 45,
+                        "Ticks": 25650000
+                    },
+                    "Name": "Chapter 22"
+                },
+                {
+                    "Duration": {
+                        "Hours": 0,
+                        "Minutes": 6,
+                        "Seconds": 19,
+                        "Ticks": 34110000
+                    },
+                    "Name": "Chapter 23"
+                },
+                {
+                    "Duration": {
+                        "Hours": 0,
+                        "Minutes": 2,
+                        "Seconds": 37,
+                        "Ticks": 14166000
+                    },
+                    "Name": "Chapter 24"
+                },
+                {
+                    "Duration": {
+                        "Hours": 0,
+                        "Minutes": 4,
+                        "Seconds": 18,
+                        "Ticks": 23238000
+                    },
+                    "Name": "Chapter 25"
+                },
+                {
+                    "Duration": {
+                        "Hours": 0,
+                        "Minutes": 3,
+                        "Seconds": 13,
+                        "Ticks": 17337600
+                    },
+                    "Name": "Chapter 26"
+                },
+                {
+                    "Duration": {
+                        "Hours": 0,
+                        "Minutes": 6,
+                        "Seconds": 39,
+                        "Ticks": 35942400
+                    },
+                    "Name": "Chapter 27"
+                },
+                {
+                    "Duration": {
+                        "Hours": 0,
+                        "Minutes": 7,
+                        "Seconds": 0,
+                        "Ticks": 37818000
+                    },
+                    "Name": "Chapter 28"
+                },
+                {
+                    "Duration": {
+                        "Hours": 0,
+                        "Minutes": 0,
+                        "Seconds": 0,
+                        "Ticks": 43200
+                    },
+                    "Name": "Chapter 29"
+                }
+            ],
+            "Color": {
+                "ChromaLocation": 1,
+                "Format": 0,
+                "Matrix": 6,
+                "Primary": 5,
+                "Range": 1,
+                "Transfer": 1
+            },
+            "Crop": [
+                74,
+                74,
+                0,
+                0
+            ],
+            "Duration": {
+                "Hours": 2,
+                "Minutes": 14,
+                "Seconds": 24,
+                "Ticks": 725803200
+            },
+            "FrameRate": {
+                "Den": 1080000,
+                "Num": 27000000
+            },
+            "Geometry": {
+                "Height": 576,
+                "PAR": {
+                    "Den": 45,
+                    "Num": 64
+                },
+                "Width": 720
+            },
+            "Index": 1,
+            "InterlaceDetected": false,
+            "LooseCrop": [
+                74,
+                74,
+                0,
+                0
+            ],
+            "Metadata": {},
+            "Name": "WAR_FOR_PLANET_OF_THE_APES",
+            "Path": "/dev/sr0",
+            "Playlist": -1,
+            "SubtitleList": [
+                {
+                    "Attributes": {
+                        "4By3": false,
+                        "Children": false,
+                        "ClosedCaption": false,
+                        "Commentary": false,
+                        "Default": false,
+                        "Forced": false,
+                        "Large": false,
+                        "Letterbox": false,
+                        "Normal": true,
+                        "PanScan": false,
+                        "Wide": true
+                    },
+                    "Format": "bitmap",
+                    "Language": "English (Wide Screen) [VOBSUB]",
+                    "LanguageCode": "eng",
+                    "Source": 0,
+                    "SourceName": "VOBSUB",
+                    "TrackNumber": 1
+                },
+                {
+                    "Attributes": {
+                        "4By3": false,
+                        "Children": false,
+                        "ClosedCaption": false,
+                        "Commentary": false,
+                        "Default": false,
+                        "Forced": false,
+                        "Large": false,
+                        "Letterbox": true,
+                        "Normal": true,
+                        "PanScan": false,
+                        "Wide": false
+                    },
+                    "Format": "bitmap",
+                    "Language": "English (Letterbox) [VOBSUB]",
+                    "LanguageCode": "eng",
+                    "Source": 0,
+                    "SourceName": "VOBSUB",
+                    "TrackNumber": 2
+                },
+                {
+                    "Attributes": {
+                        "4By3": false,
+                        "Children": false,
+                        "ClosedCaption": false,
+                        "Commentary": false,
+                        "Default": false,
+                        "Forced": false,
+                        "Large": false,
+                        "Letterbox": false,
+                        "Normal": true,
+                        "PanScan": false,
+                        "Wide": true
+                    },
+                    "Format": "bitmap",
+                    "Language": "Francais (Wide Screen) [VOBSUB]",
+                    "LanguageCode": "fra",
+                    "Source": 0,
+                    "SourceName": "VOBSUB",
+                    "TrackNumber": 3
+                },
+                {
+                    "Attributes": {
+                        "4By3": false,
+                        "Children": false,
+                        "ClosedCaption": false,
+                        "Commentary": false,
+                        "Default": false,
+                        "Forced": false,
+                        "Large": false,
+                        "Letterbox": true,
+                        "Normal": true,
+                        "PanScan": false,
+                        "Wide": false
+                    },
+                    "Format": "bitmap",
+                    "Language": "Francais (Letterbox) [VOBSUB]",
+                    "LanguageCode": "fra",
+                    "Source": 0,
+                    "SourceName": "VOBSUB",
+                    "TrackNumber": 4
+                },
+                {
+                    "Attributes": {
+                        "4By3": false,
+                        "Children": false,
+                        "ClosedCaption": false,
+                        "Commentary": false,
+                        "Default": false,
+                        "Forced": false,
+                        "Large": false,
+                        "Letterbox": false,
+                        "Normal": true,
+                        "PanScan": false,
+                        "Wide": true
+                    },
+                    "Format": "bitmap",
+                    "Language": "Nederlands (Wide Screen) [VOBSUB]",
+                    "LanguageCode": "nld",
+                    "Source": 0,
+                    "SourceName": "VOBSUB",
+                    "TrackNumber": 5
+                },
+                {
+                    "Attributes": {
+                        "4By3": false,
+                        "Children": false,
+                        "ClosedCaption": false,
+                        "Commentary": false,
+                        "Default": false,
+                        "Forced": false,
+                        "Large": false,
+                        "Letterbox": true,
+                        "Normal": true,
+                        "PanScan": false,
+                        "Wide": false
+                    },
+                    "Format": "bitmap",
+                    "Language": "Nederlands (Letterbox) [VOBSUB]",
+                    "LanguageCode": "nld",
+                    "Source": 0,
+                    "SourceName": "VOBSUB",
+                    "TrackNumber": 6
+                },
+                {
+                    "Attributes": {
+                        "4By3": false,
+                        "Children": false,
+                        "ClosedCaption": false,
+                        "Commentary": false,
+                        "Default": false,
+                        "Forced": false,
+                        "Large": false,
+                        "Letterbox": false,
+                        "Normal": true,
+                        "PanScan": false,
+                        "Wide": true
+                    },
+                    "Format": "bitmap",
+                    "Language": "Deutsch (Wide Screen) [VOBSUB]",
+                    "LanguageCode": "deu",
+                    "Source": 0,
+                    "SourceName": "VOBSUB",
+                    "TrackNumber": 7
+                },
+                {
+                    "Attributes": {
+                        "4By3": false,
+                        "Children": false,
+                        "ClosedCaption": false,
+                        "Commentary": false,
+                        "Default": false,
+                        "Forced": false,
+                        "Large": false,
+                        "Letterbox": true,
+                        "Normal": true,
+                        "PanScan": false,
+                        "Wide": false
+                    },
+                    "Format": "bitmap",
+                    "Language": "Deutsch (Letterbox) [VOBSUB]",
+                    "LanguageCode": "deu",
+                    "Source": 0,
+                    "SourceName": "VOBSUB",
+                    "TrackNumber": 8
+                },
+                {
+                    "Attributes": {
+                        "4By3": false,
+                        "Children": false,
+                        "ClosedCaption": false,
+                        "Commentary": true,
+                        "Default": false,
+                        "Forced": false,
+                        "Large": false,
+                        "Letterbox": false,
+                        "Normal": false,
+                        "PanScan": false,
+                        "Wide": true
+                    },
+                    "Format": "bitmap",
+                    "Language": "Francais Director's Commentary (Wide Screen) [VOBSUB]",
+                    "LanguageCode": "fra",
+                    "Name": "Commentary",
+                    "Source": 0,
+                    "SourceName": "VOBSUB",
+                    "TrackNumber": 9
+                },
+                {
+                    "Attributes": {
+                        "4By3": false,
+                        "Children": false,
+                        "ClosedCaption": false,
+                        "Commentary": true,
+                        "Default": false,
+                        "Forced": false,
+                        "Large": false,
+                        "Letterbox": true,
+                        "Normal": false,
+                        "PanScan": false,
+                        "Wide": false
+                    },
+                    "Format": "bitmap",
+                    "Language": "Francais Director's Commentary (Letterbox) [VOBSUB]",
+                    "LanguageCode": "fra",
+                    "Name": "Commentary",
+                    "Source": 0,
+                    "SourceName": "VOBSUB",
+                    "TrackNumber": 10
+                },
+                {
+                    "Attributes": {
+                        "4By3": false,
+                        "Children": false,
+                        "ClosedCaption": false,
+                        "Commentary": true,
+                        "Default": false,
+                        "Forced": false,
+                        "Large": false,
+                        "Letterbox": false,
+                        "Normal": false,
+                        "PanScan": false,
+                        "Wide": true
+                    },
+                    "Format": "bitmap",
+                    "Language": "Nederlands Director's Commentary (Wide Screen) [VOBSUB]",
+                    "LanguageCode": "nld",
+                    "Name": "Commentary",
+                    "Source": 0,
+                    "SourceName": "VOBSUB",
+                    "TrackNumber": 11
+                },
+                {
+                    "Attributes": {
+                        "4By3": false,
+                        "Children": false,
+                        "ClosedCaption": false,
+                        "Commentary": true,
+                        "Default": false,
+                        "Forced": false,
+                        "Large": false,
+                        "Letterbox": true,
+                        "Normal": false,
+                        "PanScan": false,
+                        "Wide": false
+                    },
+                    "Format": "bitmap",
+                    "Language": "Nederlands Director's Commentary (Letterbox) [VOBSUB]",
+                    "LanguageCode": "nld",
+                    "Name": "Commentary",
+                    "Source": 0,
+                    "SourceName": "VOBSUB",
+                    "TrackNumber": 12
+                },
+                {
+                    "Attributes": {
+                        "4By3": false,
+                        "Children": false,
+                        "ClosedCaption": false,
+                        "Commentary": true,
+                        "Default": false,
+                        "Forced": false,
+                        "Large": false,
+                        "Letterbox": false,
+                        "Normal": false,
+                        "PanScan": false,
+                        "Wide": true
+                    },
+                    "Format": "bitmap",
+                    "Language": "Deutsch Director's Commentary (Wide Screen) [VOBSUB]",
+                    "LanguageCode": "deu",
+                    "Name": "Commentary",
+                    "Source": 0,
+                    "SourceName": "VOBSUB",
+                    "TrackNumber": 13
+                },
+                {
+                    "Attributes": {
+                        "4By3": false,
+                        "Children": false,
+                        "ClosedCaption": false,
+                        "Commentary": true,
+                        "Default": false,
+                        "Forced": false,
+                        "Large": false,
+                        "Letterbox": true,
+                        "Normal": false,
+                        "PanScan": false,
+                        "Wide": false
+                    },
+                    "Format": "bitmap",
+                    "Language": "Deutsch Director's Commentary (Letterbox) [VOBSUB]",
+                    "LanguageCode": "deu",
+                    "Name": "Commentary",
+                    "Source": 0,
+                    "SourceName": "VOBSUB",
+                    "TrackNumber": 14
+                },
+                {
+                    "Attributes": {
+                        "4By3": false,
+                        "Children": false,
+                        "ClosedCaption": false,
+                        "Commentary": false,
+                        "Default": false,
+                        "Forced": false,
+                        "Large": false,
+                        "Letterbox": false,
+                        "Normal": true,
+                        "PanScan": false,
+                        "Wide": true
+                    },
+                    "Format": "bitmap",
+                    "Language": "English (Wide Screen) [VOBSUB]",
+                    "LanguageCode": "eng",
+                    "Source": 0,
+                    "SourceName": "VOBSUB",
+                    "TrackNumber": 15
+                },
+                {
+                    "Attributes": {
+                        "4By3": false,
+                        "Children": false,
+                        "ClosedCaption": false,
+                        "Commentary": false,
+                        "Default": false,
+                        "Forced": false,
+                        "Large": false,
+                        "Letterbox": true,
+                        "Normal": true,
+                        "PanScan": false,
+                        "Wide": false
+                    },
+                    "Format": "bitmap",
+                    "Language": "English (Letterbox) [VOBSUB]",
+                    "LanguageCode": "eng",
+                    "Source": 0,
+                    "SourceName": "VOBSUB",
+                    "TrackNumber": 16
+                },
+                {
+                    "Attributes": {
+                        "4By3": false,
+                        "Children": false,
+                        "ClosedCaption": false,
+                        "Commentary": false,
+                        "Default": false,
+                        "Forced": false,
+                        "Large": false,
+                        "Letterbox": false,
+                        "Normal": true,
+                        "PanScan": false,
+                        "Wide": true
+                    },
+                    "Format": "bitmap",
+                    "Language": "Francais (Wide Screen) [VOBSUB]",
+                    "LanguageCode": "fra",
+                    "Source": 0,
+                    "SourceName": "VOBSUB",
+                    "TrackNumber": 17
+                },
+                {
+                    "Attributes": {
+                        "4By3": false,
+                        "Children": false,
+                        "ClosedCaption": false,
+                        "Commentary": false,
+                        "Default": false,
+                        "Forced": false,
+                        "Large": false,
+                        "Letterbox": true,
+                        "Normal": true,
+                        "PanScan": false,
+                        "Wide": false
+                    },
+                    "Format": "bitmap",
+                    "Language": "Francais (Letterbox) [VOBSUB]",
+                    "LanguageCode": "fra",
+                    "Source": 0,
+                    "SourceName": "VOBSUB",
+                    "TrackNumber": 18
+                },
+                {
+                    "Attributes": {
+                        "4By3": false,
+                        "Children": false,
+                        "ClosedCaption": false,
+                        "Commentary": false,
+                        "Default": false,
+                        "Forced": false,
+                        "Large": false,
+                        "Letterbox": false,
+                        "Normal": true,
+                        "PanScan": false,
+                        "Wide": true
+                    },
+                    "Format": "bitmap",
+                    "Language": "Deutsch (Wide Screen) [VOBSUB]",
+                    "LanguageCode": "deu",
+                    "Source": 0,
+                    "SourceName": "VOBSUB",
+                    "TrackNumber": 19
+                },
+                {
+                    "Attributes": {
+                        "4By3": false,
+                        "Children": false,
+                        "ClosedCaption": false,
+                        "Commentary": false,
+                        "Default": false,
+                        "Forced": false,
+                        "Large": false,
+                        "Letterbox": true,
+                        "Normal": true,
+                        "PanScan": false,
+                        "Wide": false
+                    },
+                    "Format": "bitmap",
+                    "Language": "Deutsch (Letterbox) [VOBSUB]",
+                    "LanguageCode": "deu",
+                    "Source": 0,
+                    "SourceName": "VOBSUB",
+                    "TrackNumber": 20
+                }
+            ],
+            "Type": 0,
+            "VideoCodec": "mpeg2video"
+        },
+        {
+            "AngleCount": 1,
+            "AudioList": [
+                {
+                    "Attributes": {
+                        "AltCommentary": false,
+                        "Commentary": false,
+                        "Default": false,
+                        "Normal": false,
+                        "Secondary": false,
+                        "VisuallyImpaired": false
+                    },
+                    "BitRate": 448000,
+                    "ChannelCount": 6,
+                    "ChannelLayout": 1551,
+                    "ChannelLayoutName": "5.1(side)",
+                    "Codec": 2048,
+                    "CodecName": "ac3",
+                    "CodecParam": 86019,
+                    "Description": "Unknown (AC3) (5.1 ch) (448 kbps)",
+                    "LFECount": 1,
+                    "Language": "Unknown",
+                    "LanguageCode": "und",
+                    "SampleRate": 48000,
+                    "TrackNumber": 1
+                }
+            ],
+            "ChapterList": [
+                {
+                    "Duration": {
+                        "Hours": 0,
+                        "Minutes": 0,
+                        "Seconds": 11,
+                        "Ticks": 997200
+                    },
+                    "Name": "Chapter 1"
+                },
+                {
+                    "Duration": {
+                        "Hours": 0,
+                        "Minutes": 0,
+                        "Seconds": 0,
+                        "Ticks": 43200
+                    },
+                    "Name": "Chapter 2"
+                }
+            ],
+            "Color": {
+                "ChromaLocation": 1,
+                "Format": 0,
+                "Matrix": 6,
+                "Primary": 5,
+                "Range": 1,
+                "Transfer": 1
+            },
+            "Crop": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "Duration": {
+                "Hours": 0,
+                "Minutes": 0,
+                "Seconds": 11,
+                "Ticks": 1040400
+            },
+            "FrameRate": {
+                "Den": 1080000,
+                "Num": 27000000
+            },
+            "Geometry": {
+                "Height": 576,
+                "PAR": {
+                    "Den": 45,
+                    "Num": 64
+                },
+                "Width": 720
+            },
+            "Index": 3,
+            "InterlaceDetected": false,
+            "LooseCrop": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "Metadata": {},
+            "Name": "WAR_FOR_PLANET_OF_THE_APES",
+            "Path": "/dev/sr0",
+            "Playlist": -1,
+            "SubtitleList": [],
+            "Type": 0,
+            "VideoCodec": "mpeg2video"
+        },
+        {
+            "AngleCount": 1,
+            "AudioList": [
+                {
+                    "Attributes": {
+                        "AltCommentary": false,
+                        "Commentary": false,
+                        "Default": false,
+                        "Normal": true,
+                        "Secondary": false,
+                        "VisuallyImpaired": false
+                    },
+                    "BitRate": 192000,
+                    "ChannelCount": 2,
+                    "ChannelLayout": 3,
+                    "ChannelLayoutName": "stereo",
+                    "Codec": 2048,
+                    "CodecName": "ac3",
+                    "CodecParam": 86019,
+                    "Description": "English (AC3) (2.0 ch) (192 kbps)",
+                    "LFECount": 0,
+                    "Language": "English",
+                    "LanguageCode": "eng",
+                    "SampleRate": 48000,
+                    "TrackNumber": 1
+                }
+            ],
+            "ChapterList": [
+                {
+                    "Duration": {
+                        "Hours": 0,
+                        "Minutes": 12,
+                        "Seconds": 9,
+                        "Ticks": 65592000
+                    },
+                    "Name": "Chapter 1"
+                },
+                {
+                    "Duration": {
+                        "Hours": 0,
+                        "Minutes": 0,
+                        "Seconds": 1,
+                        "Ticks": 46800
+                    },
+                    "Name": "Chapter 2"
+                }
+            ],
+            "Color": {
+                "ChromaLocation": 1,
+                "Format": 0,
+                "Matrix": 6,
+                "Primary": 5,
+                "Range": 1,
+                "Transfer": 1
+            },
+            "Crop": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "Duration": {
+                "Hours": 0,
+                "Minutes": 12,
+                "Seconds": 9,
+                "Ticks": 65638800
+            },
+            "FrameRate": {
+                "Den": 1080000,
+                "Num": 27000000
+            },
+            "Geometry": {
+                "Height": 576,
+                "PAR": {
+                    "Den": 45,
+                    "Num": 64
+                },
+                "Width": 720
+            },
+            "Index": 8,
+            "InterlaceDetected": false,
+            "LooseCrop": [
+                0,
+                0,
+                0,
+                0
+            ],
+            "Metadata": {},
+            "Name": "WAR_FOR_PLANET_OF_THE_APES",
+            "Path": "/dev/sr0",
+            "Playlist": -1,
+            "SubtitleList": [
+                {
+                    "Attributes": {
+                        "4By3": false,
+                        "Children": false,
+                        "ClosedCaption": false,
+                        "Commentary": false,
+                        "Default": false,
+                        "Forced": false,
+                        "Large": false,
+                        "Letterbox": false,
+                        "Normal": true,
+                        "PanScan": false,
+                        "Wide": true
+                    },
+                    "Format": "bitmap",
+                    "Language": "Francais (Wide Screen) [VOBSUB]",
+                    "LanguageCode": "fra",
+                    "Source": 0,
+                    "SourceName": "VOBSUB",
+                    "TrackNumber": 1
+                },
+                {
+                    "Attributes": {
+                        "4By3": false,
+                        "Children": false,
+                        "ClosedCaption": false,
+                        "Commentary": false,
+                        "Default": false,
+                        "Forced": false,
+                        "Large": false,
+                        "Letterbox": true,
+                        "Normal": true,
+                        "PanScan": false,
+                        "Wide": false
+                    },
+                    "Format": "bitmap",
+                    "Language": "Francais (Letterbox) [VOBSUB]",
+                    "LanguageCode": "fra",
+                    "Source": 0,
+                    "SourceName": "VOBSUB",
+                    "TrackNumber": 2
+                },
+                {
+                    "Attributes": {
+                        "4By3": false,
+                        "Children": false,
+                        "ClosedCaption": false,
+                        "Commentary": false,
+                        "Default": false,
+                        "Forced": false,
+                        "Large": false,
+                        "Letterbox": false,
+                        "Normal": true,
+                        "PanScan": false,
+                        "Wide": true
+                    },
+                    "Format": "bitmap",
+                    "Language": "Nederlands (Wide Screen) [VOBSUB]",
+                    "LanguageCode": "nld",
+                    "Source": 0,
+                    "SourceName": "VOBSUB",
+                    "TrackNumber": 3
+                },
+                {
+                    "Attributes": {
+                        "4By3": false,
+                        "Children": false,
+                        "ClosedCaption": false,
+                        "Commentary": false,
+                        "Default": false,
+                        "Forced": false,
+                        "Large": false,
+                        "Letterbox": true,
+                        "Normal": true,
+                        "PanScan": false,
+                        "Wide": false
+                    },
+                    "Format": "bitmap",
+                    "Language": "Nederlands (Letterbox) [VOBSUB]",
+                    "LanguageCode": "nld",
+                    "Source": 0,
+                    "SourceName": "VOBSUB",
+                    "TrackNumber": 4
+                },
+                {
+                    "Attributes": {
+                        "4By3": false,
+                        "Children": false,
+                        "ClosedCaption": false,
+                        "Commentary": false,
+                        "Default": false,
+                        "Forced": false,
+                        "Large": false,
+                        "Letterbox": false,
+                        "Normal": true,
+                        "PanScan": false,
+                        "Wide": true
+                    },
+                    "Format": "bitmap",
+                    "Language": "Deutsch (Wide Screen) [VOBSUB]",
+                    "LanguageCode": "deu",
+                    "Source": 0,
+                    "SourceName": "VOBSUB",
+                    "TrackNumber": 5
+                },
+                {
+                    "Attributes": {
+                        "4By3": false,
+                        "Children": false,
+                        "ClosedCaption": false,
+                        "Commentary": false,
+                        "Default": false,
+                        "Forced": false,
+                        "Large": false,
+                        "Letterbox": true,
+                        "Normal": true,
+                        "PanScan": false,
+                        "Wide": false
+                    },
+                    "Format": "bitmap",
+                    "Language": "Deutsch (Letterbox) [VOBSUB]",
+                    "LanguageCode": "deu",
+                    "Source": 0,
+                    "SourceName": "VOBSUB",
+                    "TrackNumber": 6
+                }
+            ],
+            "Type": 0,
+            "VideoCodec": "mpeg2video"
+        },
+        {
+            "AngleCount": 1,
+            "AudioList": [
+                {
+                    "Attributes": {
+                        "AltCommentary": false,
+                        "Commentary": false,
+                        "Default": false,
+                        "Normal": false,
+                        "Secondary": false,
+                        "VisuallyImpaired": false
+                    },
+                    "BitRate": 448000,
+                    "ChannelCount": 6,
+                    "ChannelLayout": 1551,
+                    "ChannelLayoutName": "5.1(side)",
+                    "Codec": 2048,
+                    "CodecName": "ac3",
+                    "CodecParam": 86019,
+                    "Description": "Unknown (AC3) (5.1 ch) (448 kbps)",
+                    "LFECount": 1,
+                    "Language": "Unknown",
+                    "LanguageCode": "und",
+                    "SampleRate": 48000,
+                    "TrackNumber": 1
+                },
+                {
+                    "Attributes": {
+                        "AltCommentary": false,
+                        "Commentary": false,
+                        "Default": false,
+                        "Normal": false,
+                        "Secondary": false,
+                        "VisuallyImpaired": false
+                    },
+                    "BitRate": 384000,
+                    "ChannelCount": 6,
+                    "ChannelLayout": 1551,
+                    "ChannelLayoutName": "5.1(side)",
+                    "Codec": 2048,
+                    "CodecName": "ac3",
+                    "CodecParam": 86019,
+                    "Description": "Unknown (AC3) (5.1 ch) (384 kbps)",
+                    "LFECount": 1,
+                    "Language": "Unknown",
+                    "LanguageCode": "und",
+                    "SampleRate": 48000,
+                    "TrackNumber": 2
+                },
+                {
+                    "Attributes": {
+                        "AltCommentary": false,
+                        "Commentary": false,
+                        "Default": false,
+                        "Normal": false,
+                        "Secondary": false,
+                        "VisuallyImpaired": false
+                    },
+                    "BitRate": 384000,
+                    "ChannelCount": 6,
+                    "ChannelLayout": 1551,
+                    "ChannelLayoutName": "5.1(side)",
+                    "Codec": 2048,
+                    "CodecName": "ac3",
+                    "CodecParam": 86019,
+                    "Description": "Unknown (AC3) (5.1 ch) (384 kbps)",
+                    "LFECount": 1,
+                    "Language": "Unknown",
+                    "LanguageCode": "und",
+                    "SampleRate": 48000,
+                    "TrackNumber": 3
+                }
+            ],
+            "ChapterList": [
+                {
+                    "Duration": {
+                        "Hours": 0,
+                        "Minutes": 1,
+                        "Seconds": 16,
+                        "Ticks": 6876000
+                    },
+                    "Name": "Chapter 1"
+                },
+                {
+                    "Duration": {
+                        "Hours": 0,
+                        "Minutes": 0,
+                        "Seconds": 0,
+                        "Ticks": 43200
+                    },
+                    "Name": "Chapter 2"
+                }
+            ],
+            "Color": {
+                "ChromaLocation": 1,
+                "Format": 0,
+                "Matrix": 5,
+                "Primary": 5,
+                "Range": 1,
+                "Transfer": 5
+            },
+            "Crop": [
+                2,
+                4,
+                0,
+                0
+            ],
+            "Duration": {
+                "Hours": 1,
+                "Minutes": 1,
+                "Seconds": 16,
+                "Ticks": 6919200
+            },
+            "FrameRate": {
+                "Den": 1080000,
+                "Num": 27000000
+            },
+            "Geometry": {
+                "Height": 576,
+                "PAR": {
+                    "Den": 45,
+                    "Num": 64
+                },
+                "Width": 720
+            },
+            "Index": 10,
+            "InterlaceDetected": false,
+            "LooseCrop": [
+                0,
+                4,
+                0,
+                0
+            ],
+            "Metadata": {},
+            "Name": "WAR_FOR_PLANET_OF_THE_APES",
+            "Path": "/dev/sr0",
+            "Playlist": -1,
+            "SubtitleList": [],
+            "Type": 0,
+            "VideoCodec": "mpeg2video"
+        },
+        {
+            "AngleCount": 1,
+            "AudioList": [
+                {
+                    "Attributes": {
+                        "AltCommentary": false,
+                        "Commentary": false,
+                        "Default": false,
+                        "Normal": false,
+                        "Secondary": false,
+                        "VisuallyImpaired": false
+                    },
+                    "BitRate": 448000,
+                    "ChannelCount": 6,
+                    "ChannelLayout": 1551,
+                    "ChannelLayoutName": "5.1(side)",
+                    "Codec": 2048,
+                    "CodecName": "ac3",
+                    "CodecParam": 86019,
+                    "Description": "Unknown (AC3) (5.1 ch) (448 kbps)",
+                    "LFECount": 1,
+                    "Language": "Unknown",
+                    "LanguageCode": "und",
+                    "SampleRate": 48000,
+                    "TrackNumber": 1
+                },
+                {
+                    "Attributes": {
+                        "AltCommentary": false,
+                        "Commentary": false,
+                        "Default": false,
+                        "Normal": false,
+                        "Secondary": false,
+                        "VisuallyImpaired": false
+                    },
+                    "BitRate": 384000,
+                    "ChannelCount": 6,
+                    "ChannelLayout": 1551,
+                    "ChannelLayoutName": "5.1(side)",
+                    "Codec": 2048,
+                    "CodecName": "ac3",
+                    "CodecParam": 86019,
+                    "Description": "Unknown (AC3) (5.1 ch) (384 kbps)",
+                    "LFECount": 1,
+                    "Language": "Unknown",
+                    "LanguageCode": "und",
+                    "SampleRate": 48000,
+                    "TrackNumber": 2
+                }
+            ],
+            "ChapterList": [
+                {
+                    "Duration": {
+                        "Hours": 0,
+                        "Minutes": 1,
+                        "Seconds": 6,
+                        "Ticks": 5976000
+                    },
+                    "Name": "Chapter 1"
+                },
+                {
+                    "Duration": {
+                        "Hours": 0,
+                        "Minutes": 0,
+                        "Seconds": 0,
+                        "Ticks": 43200
+                    },
+                    "Name": "Chapter 2"
+                }
+            ],
+            "Color": {
+                "ChromaLocation": 1,
+                "Format": 0,
+                "Matrix": 5,
+                "Primary": 5,
+                "Range": 1,
+                "Transfer": 5
+            },
+            "Crop": [
+                2,
+                4,
+                0,
+                0
+            ],
+            "Duration": {
+                "Hours": 0,
+                "Minutes": 1,
+                "Seconds": 6,
+                "Ticks": 6019200
+            },
+            "FrameRate": {
+                "Den": 1080000,
+                "Num": 27000000
+            },
+            "Geometry": {
+                "Height": 576,
+                "PAR": {
+                    "Den": 45,
+                    "Num": 64
+                },
+                "Width": 720
+            },
+            "Index": 11,
+            "InterlaceDetected": false,
+            "LooseCrop": [
+                0,
+                4,
+                0,
+                0
+            ],
+            "Metadata": {},
+            "Name": "WAR_FOR_PLANET_OF_THE_APES",
+            "Path": "/dev/sr0",
+            "Playlist": -1,
+            "SubtitleList": [],
+            "Type": 0,
+            "VideoCodec": "mpeg2video"
+        },
+        {
+            "AngleCount": 1,
+            "AudioList": [
+                {
+                    "Attributes": {
+                        "AltCommentary": false,
+                        "Commentary": false,
+                        "Default": false,
+                        "Normal": false,
+                        "Secondary": false,
+                        "VisuallyImpaired": false
+                    },
+                    "BitRate": 192000,
+                    "ChannelCount": 2,
+                    "ChannelLayout": 3,
+                    "ChannelLayoutName": "stereo",
+                    "Codec": 2048,
+                    "CodecName": "ac3",
+                    "CodecParam": 86019,
+                    "Description": "Unknown (AC3) (2.0 ch) (192 kbps)",
+                    "LFECount": 0,
+                    "Language": "Unknown",
+                    "LanguageCode": "und",
+                    "SampleRate": 48000,
+                    "TrackNumber": 1
+                }
+            ],
+            "ChapterList": [
+                {
+                    "Duration": {
+                        "Hours": 0,
+                        "Minutes": 0,
+                        "Seconds": 39,
+                        "Ticks": 3466800
+                    },
+                    "Name": "Chapter 1"
+                },
+                {
+                    "Duration": {
+                        "Hours": 0,
+                        "Minutes": 0,
+                        "Seconds": 1,
+                        "Ticks": 46800
+                    },
+                    "Name": "Chapter 2"
+                }
+            ],
+            "Color": {
+                "ChromaLocation": 1,
+                "Format": 0,
+                "Matrix": 5,
+                "Primary": 5,
+                "Range": 1,
+                "Transfer": 5
+            },
+            "Crop": [
+                2,
+                4,
+                0,
+                0
+            ],
+            "Duration": {
+                "Hours": 0,
+                "Minutes": 0,
+                "Seconds": 39,
+                "Ticks": 3513600
+            },
+            "FrameRate": {
+                "Den": 1080000,
+                "Num": 27000000
+            },
+            "Geometry": {
+                "Height": 576,
+                "PAR": {
+                    "Den": 45,
+                    "Num": 64
+                },
+                "Width": 720
+            },
+            "Index": 12,
+            "InterlaceDetected": false,
+            "LooseCrop": [
+                2,
+                0,
+                0,
+                0
+            ],
+            "Metadata": {},
+            "Name": "WAR_FOR_PLANET_OF_THE_APES",
+            "Path": "/dev/sr0",
+            "Playlist": -1,
+            "SubtitleList": [],
+            "Type": 0,
+            "VideoCodec": "mpeg2video"
+        },
+        {
+            "AngleCount": 1,
+            "AudioList": [
+                {
+                    "Attributes": {
+                        "AltCommentary": false,
+                        "Commentary": false,
+                        "Default": false,
+                        "Normal": false,
+                        "Secondary": false,
+                        "VisuallyImpaired": false
+                    },
+                    "BitRate": 192000,
+                    "ChannelCount": 2,
+                    "ChannelLayout": 3,
+                    "ChannelLayoutName": "stereo",
+                    "Codec": 2048,
+                    "CodecName": "ac3",
+                    "CodecParam": 86019,
+                    "Description": "Unknown (AC3) (2.0 ch) (192 kbps)",
+                    "LFECount": 0,
+                    "Language": "Unknown",
+                    "LanguageCode": "und",
+                    "SampleRate": 48000,
+                    "TrackNumber": 1
+                }
+            ],
+            "ChapterList": [
+                {
+                    "Duration": {
+                        "Hours": 0,
+                        "Minutes": 0,
+                        "Seconds": 11,
+                        "Ticks": 990000
+                    },
+                    "Name": "Chapter 1"
+                },
+                {
+                    "Duration": {
+                        "Hours": 0,
+                        "Minutes": 0,
+                        "Seconds": 1,
+                        "Ticks": 46800
+                    },
+                    "Name": "Chapter 2"
+                }
+            ],
+            "Color": {
+                "ChromaLocation": 1,
+                "Format": 0,
+                "Matrix": 5,
+                "Primary": 5,
+                "Range": 1,
+                "Transfer": 5
+            },
+            "Crop": [
+                2,
+                4,
+                0,
+                0
+            ],
+            "Duration": {
+                "Hours": 0,
+                "Minutes": 0,
+                "Seconds": 11,
+                "Ticks": 1036800
+            },
+            "FrameRate": {
+                "Den": 1080000,
+                "Num": 27000000
+            },
+            "Geometry": {
+                "Height": 576,
+                "PAR": {
+                    "Den": 45,
+                    "Num": 64
+                },
+                "Width": 720
+            },
+            "Index": 15,
+            "InterlaceDetected": false,
+            "LooseCrop": [
+                2,
+                4,
+                0,
+                0
+            ],
+            "Metadata": {},
+            "Name": "WAR_FOR_PLANET_OF_THE_APES",
+            "Path": "/dev/sr0",
+            "Playlist": -1,
+            "SubtitleList": [],
+            "Type": 0,
+            "VideoCodec": "mpeg2video"
+        }
+    ]
+}
+

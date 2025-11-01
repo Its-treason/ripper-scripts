@@ -1,0 +1,1363 @@
+{
+  "MainFeature": 5,
+  "TitleList": [
+    {
+      "AngleCount": 1,
+      "AudioList": [
+        {
+          "Attributes": {
+            "AltCommentary": false,
+            "Commentary": false,
+            "Default": false,
+            "Normal": false,
+            "Secondary": false,
+            "VisuallyImpaired": false
+          },
+          "BitRate": 224000,
+          "ChannelCount": 2,
+          "ChannelLayout": 3,
+          "ChannelLayoutName": "stereo",
+          "Codec": 2048,
+          "CodecName": "ac3",
+          "CodecParam": 86019,
+          "Description": "Deutsch (AC3) (2.0 ch) (224 kbps)",
+          "LFECount": 0,
+          "Language": "Deutsch",
+          "LanguageCode": "deu",
+          "SampleRate": 48000,
+          "TrackNumber": 1
+        }
+      ],
+      "ChapterList": [
+        { "Duration": { "Hours": 0, "Minutes": 0, "Seconds": 11, "Ticks": 1026000 }, "Name": "Chapter 1" }
+      ],
+      "Color": { "ChromaLocation": 1, "Format": 0, "Matrix": 6, "Primary": 6, "Range": 1, "Transfer": 6 },
+      "Crop": [2, 0, 112, 134],
+      "Duration": { "Hours": 0, "Minutes": 0, "Seconds": 11, "Ticks": 1026000 },
+      "FrameRate": { "Den": 1080000, "Num": 27000000 },
+      "Geometry": { "Height": 576, "PAR": { "Den": 45, "Num": 64 }, "Width": 720 },
+      "Index": 2,
+      "InterlaceDetected": false,
+      "LooseCrop": [2, 0, 76, 106],
+      "Metadata": {},
+      "Name": "DOCTOR_WHO_DISC1",
+      "Path": "/dev/sr0",
+      "Playlist": -1,
+      "SubtitleList": [
+        {
+          "Attributes": {
+            "4By3": false,
+            "Children": false,
+            "ClosedCaption": false,
+            "Commentary": false,
+            "Default": false,
+            "Forced": false,
+            "Large": false,
+            "Letterbox": false,
+            "Normal": false,
+            "PanScan": false,
+            "Wide": true
+          },
+          "Format": "bitmap",
+          "Language": "Deutsch (Wide Screen) [VOBSUB]",
+          "LanguageCode": "deu",
+          "Source": 0,
+          "SourceName": "VOBSUB",
+          "TrackNumber": 1
+        }
+      ],
+      "Type": 0,
+      "VideoCodec": "mpeg2video"
+    },
+    {
+      "AngleCount": 1,
+      "AudioList": [
+        {
+          "Attributes": {
+            "AltCommentary": false,
+            "Commentary": false,
+            "Default": false,
+            "Normal": false,
+            "Secondary": false,
+            "VisuallyImpaired": false
+          },
+          "BitRate": 448000,
+          "ChannelCount": 6,
+          "ChannelLayout": 1551,
+          "ChannelLayoutName": "5.1(side)",
+          "Codec": 2048,
+          "CodecName": "ac3",
+          "CodecParam": 86019,
+          "Description": "Deutsch (AC3) (5.1 ch) (448 kbps)",
+          "LFECount": 1,
+          "Language": "Deutsch",
+          "LanguageCode": "deu",
+          "SampleRate": 48000,
+          "TrackNumber": 1
+        }
+      ],
+      "ChapterList": [
+        { "Duration": { "Hours": 0, "Minutes": 0, "Seconds": 24, "Ticks": 2163600 }, "Name": "Chapter 1" }
+      ],
+      "Color": { "ChromaLocation": 1, "Format": 0, "Matrix": 6, "Primary": 6, "Range": 1, "Transfer": 6 },
+      "Crop": [0, 0, 0, 0],
+      "Duration": { "Hours": 0, "Minutes": 0, "Seconds": 24, "Ticks": 2163600 },
+      "FrameRate": { "Den": 1080000, "Num": 27000000 },
+      "Geometry": { "Height": 576, "PAR": { "Den": 45, "Num": 64 }, "Width": 720 },
+      "Index": 3,
+      "InterlaceDetected": false,
+      "LooseCrop": [0, 0, 0, 0],
+      "Metadata": {},
+      "Name": "DOCTOR_WHO_DISC1",
+      "Path": "/dev/sr0",
+      "Playlist": -1,
+      "SubtitleList": [
+        {
+          "Attributes": {
+            "4By3": false,
+            "Children": false,
+            "ClosedCaption": false,
+            "Commentary": false,
+            "Default": false,
+            "Forced": false,
+            "Large": false,
+            "Letterbox": false,
+            "Normal": false,
+            "PanScan": false,
+            "Wide": true
+          },
+          "Format": "bitmap",
+          "Language": "Deutsch (Wide Screen) [VOBSUB]",
+          "LanguageCode": "deu",
+          "Source": 0,
+          "SourceName": "VOBSUB",
+          "TrackNumber": 1
+        }
+      ],
+      "Type": 0,
+      "VideoCodec": "mpeg2video"
+    },
+    {
+      "AngleCount": 1,
+      "AudioList": [
+        {
+          "Attributes": {
+            "AltCommentary": false,
+            "Commentary": false,
+            "Default": false,
+            "Normal": false,
+            "Secondary": false,
+            "VisuallyImpaired": false
+          },
+          "BitRate": 192000,
+          "ChannelCount": 2,
+          "ChannelLayout": 3,
+          "ChannelLayoutName": "stereo",
+          "Codec": 2048,
+          "CodecName": "ac3",
+          "CodecParam": 86019,
+          "Description": "Deutsch (AC3) (2.0 ch) (192 kbps)",
+          "LFECount": 0,
+          "Language": "Deutsch",
+          "LanguageCode": "deu",
+          "SampleRate": 48000,
+          "TrackNumber": 1
+        },
+        {
+          "Attributes": {
+            "AltCommentary": false,
+            "Commentary": false,
+            "Default": false,
+            "Normal": false,
+            "Secondary": false,
+            "VisuallyImpaired": false
+          },
+          "BitRate": 448000,
+          "ChannelCount": 6,
+          "ChannelLayout": 1551,
+          "ChannelLayoutName": "5.1(side)",
+          "Codec": 2048,
+          "CodecName": "ac3",
+          "CodecParam": 86019,
+          "Description": "English (AC3) (5.1 ch) (448 kbps)",
+          "LFECount": 1,
+          "Language": "English",
+          "LanguageCode": "eng",
+          "SampleRate": 48000,
+          "TrackNumber": 2
+        },
+        {
+          "Attributes": {
+            "AltCommentary": false,
+            "Commentary": false,
+            "Default": false,
+            "Normal": false,
+            "Secondary": false,
+            "VisuallyImpaired": false
+          },
+          "BitRate": 192000,
+          "ChannelCount": 2,
+          "ChannelLayout": 3,
+          "ChannelLayoutName": "stereo",
+          "Codec": 2048,
+          "CodecName": "ac3",
+          "CodecParam": 86019,
+          "Description": "English (AC3) (2.0 ch) (192 kbps)",
+          "LFECount": 0,
+          "Language": "English",
+          "LanguageCode": "eng",
+          "SampleRate": 48000,
+          "TrackNumber": 3
+        }
+      ],
+      "ChapterList": [
+        { "Duration": { "Hours": 0, "Minutes": 5, "Seconds": 27, "Ticks": 29419200 }, "Name": "Chapter 1" },
+        { "Duration": { "Hours": 0, "Minutes": 2, "Seconds": 28, "Ticks": 13298400 }, "Name": "Chapter 2" },
+        { "Duration": { "Hours": 0, "Minutes": 1, "Seconds": 32, "Ticks": 8298000 }, "Name": "Chapter 3" },
+        { "Duration": { "Hours": 0, "Minutes": 5, "Seconds": 26, "Ticks": 29300400 }, "Name": "Chapter 4" },
+        { "Duration": { "Hours": 0, "Minutes": 3, "Seconds": 36, "Ticks": 19396800 }, "Name": "Chapter 5" },
+        { "Duration": { "Hours": 0, "Minutes": 5, "Seconds": 35, "Ticks": 30171600 }, "Name": "Chapter 6" },
+        { "Duration": { "Hours": 0, "Minutes": 3, "Seconds": 5, "Ticks": 16660800 }, "Name": "Chapter 7" },
+        { "Duration": { "Hours": 0, "Minutes": 4, "Seconds": 41, "Ticks": 25268400 }, "Name": "Chapter 8" },
+        { "Duration": { "Hours": 0, "Minutes": 3, "Seconds": 37, "Ticks": 19558800 }, "Name": "Chapter 9" },
+        { "Duration": { "Hours": 0, "Minutes": 4, "Seconds": 42, "Ticks": 25351200 }, "Name": "Chapter 10" },
+        { "Duration": { "Hours": 0, "Minutes": 3, "Seconds": 22, "Ticks": 18136800 }, "Name": "Chapter 11" },
+        { "Duration": { "Hours": 0, "Minutes": 0, "Seconds": 46, "Ticks": 4136400 }, "Name": "Chapter 12" },
+        { "Duration": { "Hours": 0, "Minutes": 0, "Seconds": 1, "Ticks": 90000 }, "Name": "Chapter 13" }
+      ],
+      "Color": { "ChromaLocation": 1, "Format": 0, "Matrix": 5, "Primary": 5, "Range": 1, "Transfer": 5 },
+      "Crop": [0, 0, 8, 8],
+      "Duration": { "Hours": 0, "Minutes": 44, "Seconds": 16, "Ticks": 239086800 },
+      "FrameRate": { "Den": 1080000, "Num": 27000000 },
+      "Geometry": { "Height": 576, "PAR": { "Den": 45, "Num": 64 }, "Width": 720 },
+      "Index": 5,
+      "InterlaceDetected": false,
+      "LooseCrop": [0, 0, 8, 8],
+      "Metadata": {},
+      "Name": "DOCTOR_WHO_DISC1",
+      "Path": "/dev/sr0",
+      "Playlist": -1,
+      "SubtitleList": [
+        {
+          "Attributes": {
+            "4By3": false,
+            "Children": false,
+            "ClosedCaption": false,
+            "Commentary": false,
+            "Default": false,
+            "Forced": false,
+            "Large": false,
+            "Letterbox": false,
+            "Normal": false,
+            "PanScan": false,
+            "Wide": true
+          },
+          "Format": "bitmap",
+          "Language": "Deutsch (Wide Screen) [VOBSUB]",
+          "LanguageCode": "deu",
+          "Source": 0,
+          "SourceName": "VOBSUB",
+          "TrackNumber": 1
+        }
+      ],
+      "Type": 0,
+      "VideoCodec": "mpeg2video"
+    },
+    {
+      "AngleCount": 1,
+      "AudioList": [
+        {
+          "Attributes": {
+            "AltCommentary": false,
+            "Commentary": false,
+            "Default": false,
+            "Normal": false,
+            "Secondary": false,
+            "VisuallyImpaired": false
+          },
+          "BitRate": 192000,
+          "ChannelCount": 2,
+          "ChannelLayout": 3,
+          "ChannelLayoutName": "stereo",
+          "Codec": 2048,
+          "CodecName": "ac3",
+          "CodecParam": 86019,
+          "Description": "Deutsch (AC3) (2.0 ch) (192 kbps)",
+          "LFECount": 0,
+          "Language": "Deutsch",
+          "LanguageCode": "deu",
+          "SampleRate": 48000,
+          "TrackNumber": 1
+        },
+        {
+          "Attributes": {
+            "AltCommentary": false,
+            "Commentary": false,
+            "Default": false,
+            "Normal": false,
+            "Secondary": false,
+            "VisuallyImpaired": false
+          },
+          "BitRate": 448000,
+          "ChannelCount": 6,
+          "ChannelLayout": 1551,
+          "ChannelLayoutName": "5.1(side)",
+          "Codec": 2048,
+          "CodecName": "ac3",
+          "CodecParam": 86019,
+          "Description": "English (AC3) (5.1 ch) (448 kbps)",
+          "LFECount": 1,
+          "Language": "English",
+          "LanguageCode": "eng",
+          "SampleRate": 48000,
+          "TrackNumber": 2
+        },
+        {
+          "Attributes": {
+            "AltCommentary": false,
+            "Commentary": false,
+            "Default": false,
+            "Normal": false,
+            "Secondary": false,
+            "VisuallyImpaired": false
+          },
+          "BitRate": 192000,
+          "ChannelCount": 2,
+          "ChannelLayout": 3,
+          "ChannelLayoutName": "stereo",
+          "Codec": 2048,
+          "CodecName": "ac3",
+          "CodecParam": 86019,
+          "Description": "English (AC3) (2.0 ch) (192 kbps)",
+          "LFECount": 0,
+          "Language": "English",
+          "LanguageCode": "eng",
+          "SampleRate": 48000,
+          "TrackNumber": 3
+        }
+      ],
+      "ChapterList": [
+        { "Duration": { "Hours": 0, "Minutes": 5, "Seconds": 27, "Ticks": 29419200 }, "Name": "Chapter 1" },
+        { "Duration": { "Hours": 0, "Minutes": 2, "Seconds": 28, "Ticks": 13298400 }, "Name": "Chapter 2" },
+        { "Duration": { "Hours": 0, "Minutes": 1, "Seconds": 32, "Ticks": 8298000 }, "Name": "Chapter 3" },
+        { "Duration": { "Hours": 0, "Minutes": 5, "Seconds": 26, "Ticks": 29300400 }, "Name": "Chapter 4" },
+        { "Duration": { "Hours": 0, "Minutes": 3, "Seconds": 36, "Ticks": 19396800 }, "Name": "Chapter 5" },
+        { "Duration": { "Hours": 0, "Minutes": 5, "Seconds": 35, "Ticks": 30171600 }, "Name": "Chapter 6" },
+        { "Duration": { "Hours": 0, "Minutes": 3, "Seconds": 5, "Ticks": 16660800 }, "Name": "Chapter 7" },
+        { "Duration": { "Hours": 0, "Minutes": 4, "Seconds": 41, "Ticks": 25268400 }, "Name": "Chapter 8" },
+        { "Duration": { "Hours": 0, "Minutes": 3, "Seconds": 37, "Ticks": 19558800 }, "Name": "Chapter 9" },
+        { "Duration": { "Hours": 0, "Minutes": 4, "Seconds": 42, "Ticks": 25351200 }, "Name": "Chapter 10" },
+        { "Duration": { "Hours": 0, "Minutes": 3, "Seconds": 22, "Ticks": 18136800 }, "Name": "Chapter 11" },
+        { "Duration": { "Hours": 0, "Minutes": 0, "Seconds": 46, "Ticks": 4136400 }, "Name": "Chapter 12" },
+        { "Duration": { "Hours": 0, "Minutes": 0, "Seconds": 1, "Ticks": 90000 }, "Name": "Chapter 13" }
+      ],
+      "Color": { "ChromaLocation": 1, "Format": 0, "Matrix": 5, "Primary": 5, "Range": 1, "Transfer": 5 },
+      "Crop": [0, 0, 8, 8],
+      "Duration": { "Hours": 0, "Minutes": 44, "Seconds": 16, "Ticks": 239086800 },
+      "FrameRate": { "Den": 1080000, "Num": 27000000 },
+      "Geometry": { "Height": 576, "PAR": { "Den": 45, "Num": 64 }, "Width": 720 },
+      "Index": 6,
+      "InterlaceDetected": false,
+      "LooseCrop": [0, 0, 8, 8],
+      "Metadata": {},
+      "Name": "DOCTOR_WHO_DISC1",
+      "Path": "/dev/sr0",
+      "Playlist": -1,
+      "SubtitleList": [
+        {
+          "Attributes": {
+            "4By3": false,
+            "Children": false,
+            "ClosedCaption": false,
+            "Commentary": false,
+            "Default": false,
+            "Forced": false,
+            "Large": false,
+            "Letterbox": false,
+            "Normal": false,
+            "PanScan": false,
+            "Wide": true
+          },
+          "Format": "bitmap",
+          "Language": "Deutsch (Wide Screen) [VOBSUB]",
+          "LanguageCode": "deu",
+          "Source": 0,
+          "SourceName": "VOBSUB",
+          "TrackNumber": 1
+        }
+      ],
+      "Type": 0,
+      "VideoCodec": "mpeg2video"
+    },
+    {
+      "AngleCount": 1,
+      "AudioList": [
+        {
+          "Attributes": {
+            "AltCommentary": false,
+            "Commentary": false,
+            "Default": false,
+            "Normal": false,
+            "Secondary": false,
+            "VisuallyImpaired": false
+          },
+          "BitRate": 192000,
+          "ChannelCount": 2,
+          "ChannelLayout": 3,
+          "ChannelLayoutName": "stereo",
+          "Codec": 2048,
+          "CodecName": "ac3",
+          "CodecParam": 86019,
+          "Description": "Deutsch (AC3) (2.0 ch) (192 kbps)",
+          "LFECount": 0,
+          "Language": "Deutsch",
+          "LanguageCode": "deu",
+          "SampleRate": 48000,
+          "TrackNumber": 1
+        },
+        {
+          "Attributes": {
+            "AltCommentary": false,
+            "Commentary": false,
+            "Default": false,
+            "Normal": false,
+            "Secondary": false,
+            "VisuallyImpaired": false
+          },
+          "BitRate": 448000,
+          "ChannelCount": 6,
+          "ChannelLayout": 1551,
+          "ChannelLayoutName": "5.1(side)",
+          "Codec": 2048,
+          "CodecName": "ac3",
+          "CodecParam": 86019,
+          "Description": "English (AC3) (5.1 ch) (448 kbps)",
+          "LFECount": 1,
+          "Language": "English",
+          "LanguageCode": "eng",
+          "SampleRate": 48000,
+          "TrackNumber": 2
+        },
+        {
+          "Attributes": {
+            "AltCommentary": false,
+            "Commentary": false,
+            "Default": false,
+            "Normal": false,
+            "Secondary": false,
+            "VisuallyImpaired": false
+          },
+          "BitRate": 192000,
+          "ChannelCount": 2,
+          "ChannelLayout": 3,
+          "ChannelLayoutName": "stereo",
+          "Codec": 2048,
+          "CodecName": "ac3",
+          "CodecParam": 86019,
+          "Description": "English (AC3) (2.0 ch) (192 kbps)",
+          "LFECount": 0,
+          "Language": "English",
+          "LanguageCode": "eng",
+          "SampleRate": 48000,
+          "TrackNumber": 3
+        }
+      ],
+      "ChapterList": [
+        { "Duration": { "Hours": 0, "Minutes": 3, "Seconds": 49, "Ticks": 20646000 }, "Name": "Chapter 1" },
+        { "Duration": { "Hours": 0, "Minutes": 2, "Seconds": 32, "Ticks": 13669200 }, "Name": "Chapter 2" },
+        { "Duration": { "Hours": 0, "Minutes": 3, "Seconds": 33, "Ticks": 19155600 }, "Name": "Chapter 3" },
+        { "Duration": { "Hours": 0, "Minutes": 4, "Seconds": 25, "Ticks": 23882400 }, "Name": "Chapter 4" },
+        { "Duration": { "Hours": 0, "Minutes": 5, "Seconds": 8, "Ticks": 27684000 }, "Name": "Chapter 5" },
+        { "Duration": { "Hours": 0, "Minutes": 2, "Seconds": 45, "Ticks": 14846400 }, "Name": "Chapter 6" },
+        { "Duration": { "Hours": 0, "Minutes": 4, "Seconds": 45, "Ticks": 25639200 }, "Name": "Chapter 7" },
+        { "Duration": { "Hours": 0, "Minutes": 3, "Seconds": 38, "Ticks": 19634400 }, "Name": "Chapter 8" },
+        { "Duration": { "Hours": 0, "Minutes": 3, "Seconds": 26, "Ticks": 18547200 }, "Name": "Chapter 9" },
+        { "Duration": { "Hours": 0, "Minutes": 5, "Seconds": 55, "Ticks": 31964400 }, "Name": "Chapter 10" },
+        { "Duration": { "Hours": 0, "Minutes": 4, "Seconds": 5, "Ticks": 22053600 }, "Name": "Chapter 11" },
+        { "Duration": { "Hours": 0, "Minutes": 0, "Seconds": 45, "Ticks": 4089600 }, "Name": "Chapter 12" },
+        { "Duration": { "Hours": 0, "Minutes": 0, "Seconds": 1, "Ticks": 90000 }, "Name": "Chapter 13" }
+      ],
+      "Color": { "ChromaLocation": 1, "Format": 0, "Matrix": 5, "Primary": 5, "Range": 1, "Transfer": 5 },
+      "Crop": [0, 0, 10, 10],
+      "Duration": { "Hours": 0, "Minutes": 44, "Seconds": 47, "Ticks": 241902000 },
+      "FrameRate": { "Den": 1080000, "Num": 27000000 },
+      "Geometry": { "Height": 576, "PAR": { "Den": 45, "Num": 64 }, "Width": 720 },
+      "Index": 7,
+      "InterlaceDetected": false,
+      "LooseCrop": [0, 0, 10, 10],
+      "Metadata": {},
+      "Name": "DOCTOR_WHO_DISC1",
+      "Path": "/dev/sr0",
+      "Playlist": -1,
+      "SubtitleList": [
+        {
+          "Attributes": {
+            "4By3": false,
+            "Children": false,
+            "ClosedCaption": false,
+            "Commentary": false,
+            "Default": false,
+            "Forced": false,
+            "Large": false,
+            "Letterbox": false,
+            "Normal": false,
+            "PanScan": false,
+            "Wide": true
+          },
+          "Format": "bitmap",
+          "Language": "Deutsch (Wide Screen) [VOBSUB]",
+          "LanguageCode": "deu",
+          "Source": 0,
+          "SourceName": "VOBSUB",
+          "TrackNumber": 1
+        }
+      ],
+      "Type": 0,
+      "VideoCodec": "mpeg2video"
+    },
+    {
+      "AngleCount": 1,
+      "AudioList": [
+        {
+          "Attributes": {
+            "AltCommentary": false,
+            "Commentary": false,
+            "Default": false,
+            "Normal": false,
+            "Secondary": false,
+            "VisuallyImpaired": false
+          },
+          "BitRate": 192000,
+          "ChannelCount": 2,
+          "ChannelLayout": 3,
+          "ChannelLayoutName": "stereo",
+          "Codec": 2048,
+          "CodecName": "ac3",
+          "CodecParam": 86019,
+          "Description": "Deutsch (AC3) (2.0 ch) (192 kbps)",
+          "LFECount": 0,
+          "Language": "Deutsch",
+          "LanguageCode": "deu",
+          "SampleRate": 48000,
+          "TrackNumber": 1
+        },
+        {
+          "Attributes": {
+            "AltCommentary": false,
+            "Commentary": false,
+            "Default": false,
+            "Normal": false,
+            "Secondary": false,
+            "VisuallyImpaired": false
+          },
+          "BitRate": 448000,
+          "ChannelCount": 6,
+          "ChannelLayout": 1551,
+          "ChannelLayoutName": "5.1(side)",
+          "Codec": 2048,
+          "CodecName": "ac3",
+          "CodecParam": 86019,
+          "Description": "English (AC3) (5.1 ch) (448 kbps)",
+          "LFECount": 1,
+          "Language": "English",
+          "LanguageCode": "eng",
+          "SampleRate": 48000,
+          "TrackNumber": 2
+        },
+        {
+          "Attributes": {
+            "AltCommentary": false,
+            "Commentary": false,
+            "Default": false,
+            "Normal": false,
+            "Secondary": false,
+            "VisuallyImpaired": false
+          },
+          "BitRate": 192000,
+          "ChannelCount": 2,
+          "ChannelLayout": 3,
+          "ChannelLayoutName": "stereo",
+          "Codec": 2048,
+          "CodecName": "ac3",
+          "CodecParam": 86019,
+          "Description": "English (AC3) (2.0 ch) (192 kbps)",
+          "LFECount": 0,
+          "Language": "English",
+          "LanguageCode": "eng",
+          "SampleRate": 48000,
+          "TrackNumber": 3
+        }
+      ],
+      "ChapterList": [
+        { "Duration": { "Hours": 0, "Minutes": 3, "Seconds": 49, "Ticks": 20646000 }, "Name": "Chapter 1" },
+        { "Duration": { "Hours": 0, "Minutes": 2, "Seconds": 32, "Ticks": 13669200 }, "Name": "Chapter 2" },
+        { "Duration": { "Hours": 0, "Minutes": 3, "Seconds": 33, "Ticks": 19155600 }, "Name": "Chapter 3" },
+        { "Duration": { "Hours": 0, "Minutes": 4, "Seconds": 25, "Ticks": 23882400 }, "Name": "Chapter 4" },
+        { "Duration": { "Hours": 0, "Minutes": 5, "Seconds": 8, "Ticks": 27684000 }, "Name": "Chapter 5" },
+        { "Duration": { "Hours": 0, "Minutes": 2, "Seconds": 45, "Ticks": 14846400 }, "Name": "Chapter 6" },
+        { "Duration": { "Hours": 0, "Minutes": 4, "Seconds": 45, "Ticks": 25639200 }, "Name": "Chapter 7" },
+        { "Duration": { "Hours": 0, "Minutes": 3, "Seconds": 38, "Ticks": 19634400 }, "Name": "Chapter 8" },
+        { "Duration": { "Hours": 0, "Minutes": 3, "Seconds": 26, "Ticks": 18547200 }, "Name": "Chapter 9" },
+        { "Duration": { "Hours": 0, "Minutes": 5, "Seconds": 55, "Ticks": 31964400 }, "Name": "Chapter 10" },
+        { "Duration": { "Hours": 0, "Minutes": 4, "Seconds": 5, "Ticks": 22053600 }, "Name": "Chapter 11" },
+        { "Duration": { "Hours": 0, "Minutes": 0, "Seconds": 45, "Ticks": 4089600 }, "Name": "Chapter 12" },
+        { "Duration": { "Hours": 0, "Minutes": 0, "Seconds": 1, "Ticks": 90000 }, "Name": "Chapter 13" }
+      ],
+      "Color": { "ChromaLocation": 1, "Format": 0, "Matrix": 5, "Primary": 5, "Range": 1, "Transfer": 5 },
+      "Crop": [0, 0, 10, 10],
+      "Duration": { "Hours": 0, "Minutes": 44, "Seconds": 47, "Ticks": 241902000 },
+      "FrameRate": { "Den": 1080000, "Num": 27000000 },
+      "Geometry": { "Height": 576, "PAR": { "Den": 45, "Num": 64 }, "Width": 720 },
+      "Index": 8,
+      "InterlaceDetected": false,
+      "LooseCrop": [0, 0, 10, 10],
+      "Metadata": {},
+      "Name": "DOCTOR_WHO_DISC1",
+      "Path": "/dev/sr0",
+      "Playlist": -1,
+      "SubtitleList": [
+        {
+          "Attributes": {
+            "4By3": false,
+            "Children": false,
+            "ClosedCaption": false,
+            "Commentary": false,
+            "Default": false,
+            "Forced": false,
+            "Large": false,
+            "Letterbox": false,
+            "Normal": false,
+            "PanScan": false,
+            "Wide": true
+          },
+          "Format": "bitmap",
+          "Language": "Deutsch (Wide Screen) [VOBSUB]",
+          "LanguageCode": "deu",
+          "Source": 0,
+          "SourceName": "VOBSUB",
+          "TrackNumber": 1
+        }
+      ],
+      "Type": 0,
+      "VideoCodec": "mpeg2video"
+    },
+    {
+      "AngleCount": 1,
+      "AudioList": [
+        {
+          "Attributes": {
+            "AltCommentary": false,
+            "Commentary": false,
+            "Default": false,
+            "Normal": false,
+            "Secondary": false,
+            "VisuallyImpaired": false
+          },
+          "BitRate": 192000,
+          "ChannelCount": 2,
+          "ChannelLayout": 3,
+          "ChannelLayoutName": "stereo",
+          "Codec": 2048,
+          "CodecName": "ac3",
+          "CodecParam": 86019,
+          "Description": "Deutsch (AC3) (2.0 ch) (192 kbps)",
+          "LFECount": 0,
+          "Language": "Deutsch",
+          "LanguageCode": "deu",
+          "SampleRate": 48000,
+          "TrackNumber": 1
+        },
+        {
+          "Attributes": {
+            "AltCommentary": false,
+            "Commentary": false,
+            "Default": false,
+            "Normal": false,
+            "Secondary": false,
+            "VisuallyImpaired": false
+          },
+          "BitRate": 448000,
+          "ChannelCount": 6,
+          "ChannelLayout": 1551,
+          "ChannelLayoutName": "5.1(side)",
+          "Codec": 2048,
+          "CodecName": "ac3",
+          "CodecParam": 86019,
+          "Description": "English (AC3) (5.1 ch) (448 kbps)",
+          "LFECount": 1,
+          "Language": "English",
+          "LanguageCode": "eng",
+          "SampleRate": 48000,
+          "TrackNumber": 2
+        },
+        {
+          "Attributes": {
+            "AltCommentary": false,
+            "Commentary": false,
+            "Default": false,
+            "Normal": false,
+            "Secondary": false,
+            "VisuallyImpaired": false
+          },
+          "BitRate": 192000,
+          "ChannelCount": 2,
+          "ChannelLayout": 3,
+          "ChannelLayoutName": "stereo",
+          "Codec": 2048,
+          "CodecName": "ac3",
+          "CodecParam": 86019,
+          "Description": "English (AC3) (2.0 ch) (192 kbps)",
+          "LFECount": 0,
+          "Language": "English",
+          "LanguageCode": "eng",
+          "SampleRate": 48000,
+          "TrackNumber": 3
+        }
+      ],
+      "ChapterList": [
+        { "Duration": { "Hours": 0, "Minutes": 3, "Seconds": 59, "Ticks": 21531600 }, "Name": "Chapter 1" },
+        { "Duration": { "Hours": 0, "Minutes": 2, "Seconds": 26, "Ticks": 13114800 }, "Name": "Chapter 2" },
+        { "Duration": { "Hours": 0, "Minutes": 3, "Seconds": 32, "Ticks": 19105200 }, "Name": "Chapter 3" },
+        { "Duration": { "Hours": 0, "Minutes": 4, "Seconds": 43, "Ticks": 25513200 }, "Name": "Chapter 4" },
+        { "Duration": { "Hours": 0, "Minutes": 3, "Seconds": 9, "Ticks": 17006400 }, "Name": "Chapter 5" },
+        { "Duration": { "Hours": 0, "Minutes": 3, "Seconds": 28, "Ticks": 18738000 }, "Name": "Chapter 6" },
+        { "Duration": { "Hours": 0, "Minutes": 4, "Seconds": 27, "Ticks": 24048000 }, "Name": "Chapter 7" },
+        { "Duration": { "Hours": 0, "Minutes": 6, "Seconds": 1, "Ticks": 32450400 }, "Name": "Chapter 8" },
+        { "Duration": { "Hours": 0, "Minutes": 3, "Seconds": 13, "Ticks": 17391600 }, "Name": "Chapter 9" },
+        { "Duration": { "Hours": 0, "Minutes": 5, "Seconds": 13, "Ticks": 28130400 }, "Name": "Chapter 10" },
+        { "Duration": { "Hours": 0, "Minutes": 3, "Seconds": 55, "Ticks": 21193200 }, "Name": "Chapter 11" },
+        { "Duration": { "Hours": 0, "Minutes": 0, "Seconds": 45, "Ticks": 4010400 }, "Name": "Chapter 12" },
+        { "Duration": { "Hours": 0, "Minutes": 0, "Seconds": 1, "Ticks": 90000 }, "Name": "Chapter 13" }
+      ],
+      "Color": { "ChromaLocation": 1, "Format": 0, "Matrix": 5, "Primary": 5, "Range": 1, "Transfer": 5 },
+      "Crop": [0, 0, 12, 10],
+      "Duration": { "Hours": 0, "Minutes": 44, "Seconds": 52, "Ticks": 242323200 },
+      "FrameRate": { "Den": 1080000, "Num": 27000000 },
+      "Geometry": { "Height": 576, "PAR": { "Den": 45, "Num": 64 }, "Width": 720 },
+      "Index": 9,
+      "InterlaceDetected": false,
+      "LooseCrop": [0, 0, 10, 8],
+      "Metadata": {},
+      "Name": "DOCTOR_WHO_DISC1",
+      "Path": "/dev/sr0",
+      "Playlist": -1,
+      "SubtitleList": [
+        {
+          "Attributes": {
+            "4By3": false,
+            "Children": false,
+            "ClosedCaption": false,
+            "Commentary": false,
+            "Default": false,
+            "Forced": false,
+            "Large": false,
+            "Letterbox": false,
+            "Normal": false,
+            "PanScan": false,
+            "Wide": true
+          },
+          "Format": "bitmap",
+          "Language": "Deutsch (Wide Screen) [VOBSUB]",
+          "LanguageCode": "deu",
+          "Source": 0,
+          "SourceName": "VOBSUB",
+          "TrackNumber": 1
+        }
+      ],
+      "Type": 0,
+      "VideoCodec": "mpeg2video"
+    },
+    {
+      "AngleCount": 1,
+      "AudioList": [
+        {
+          "Attributes": {
+            "AltCommentary": false,
+            "Commentary": false,
+            "Default": false,
+            "Normal": false,
+            "Secondary": false,
+            "VisuallyImpaired": false
+          },
+          "BitRate": 192000,
+          "ChannelCount": 2,
+          "ChannelLayout": 3,
+          "ChannelLayoutName": "stereo",
+          "Codec": 2048,
+          "CodecName": "ac3",
+          "CodecParam": 86019,
+          "Description": "Deutsch (AC3) (2.0 ch) (192 kbps)",
+          "LFECount": 0,
+          "Language": "Deutsch",
+          "LanguageCode": "deu",
+          "SampleRate": 48000,
+          "TrackNumber": 1
+        },
+        {
+          "Attributes": {
+            "AltCommentary": false,
+            "Commentary": false,
+            "Default": false,
+            "Normal": false,
+            "Secondary": false,
+            "VisuallyImpaired": false
+          },
+          "BitRate": 448000,
+          "ChannelCount": 6,
+          "ChannelLayout": 1551,
+          "ChannelLayoutName": "5.1(side)",
+          "Codec": 2048,
+          "CodecName": "ac3",
+          "CodecParam": 86019,
+          "Description": "English (AC3) (5.1 ch) (448 kbps)",
+          "LFECount": 1,
+          "Language": "English",
+          "LanguageCode": "eng",
+          "SampleRate": 48000,
+          "TrackNumber": 2
+        },
+        {
+          "Attributes": {
+            "AltCommentary": false,
+            "Commentary": false,
+            "Default": false,
+            "Normal": false,
+            "Secondary": false,
+            "VisuallyImpaired": false
+          },
+          "BitRate": 192000,
+          "ChannelCount": 2,
+          "ChannelLayout": 3,
+          "ChannelLayoutName": "stereo",
+          "Codec": 2048,
+          "CodecName": "ac3",
+          "CodecParam": 86019,
+          "Description": "English (AC3) (2.0 ch) (192 kbps)",
+          "LFECount": 0,
+          "Language": "English",
+          "LanguageCode": "eng",
+          "SampleRate": 48000,
+          "TrackNumber": 3
+        }
+      ],
+      "ChapterList": [
+        { "Duration": { "Hours": 0, "Minutes": 3, "Seconds": 59, "Ticks": 21531600 }, "Name": "Chapter 1" },
+        { "Duration": { "Hours": 0, "Minutes": 2, "Seconds": 26, "Ticks": 13114800 }, "Name": "Chapter 2" },
+        { "Duration": { "Hours": 0, "Minutes": 3, "Seconds": 32, "Ticks": 19105200 }, "Name": "Chapter 3" },
+        { "Duration": { "Hours": 0, "Minutes": 4, "Seconds": 43, "Ticks": 25513200 }, "Name": "Chapter 4" },
+        { "Duration": { "Hours": 0, "Minutes": 3, "Seconds": 9, "Ticks": 17006400 }, "Name": "Chapter 5" },
+        { "Duration": { "Hours": 0, "Minutes": 3, "Seconds": 28, "Ticks": 18738000 }, "Name": "Chapter 6" },
+        { "Duration": { "Hours": 0, "Minutes": 4, "Seconds": 27, "Ticks": 24048000 }, "Name": "Chapter 7" },
+        { "Duration": { "Hours": 0, "Minutes": 6, "Seconds": 1, "Ticks": 32450400 }, "Name": "Chapter 8" },
+        { "Duration": { "Hours": 0, "Minutes": 3, "Seconds": 13, "Ticks": 17391600 }, "Name": "Chapter 9" },
+        { "Duration": { "Hours": 0, "Minutes": 5, "Seconds": 13, "Ticks": 28130400 }, "Name": "Chapter 10" },
+        { "Duration": { "Hours": 0, "Minutes": 3, "Seconds": 55, "Ticks": 21193200 }, "Name": "Chapter 11" },
+        { "Duration": { "Hours": 0, "Minutes": 0, "Seconds": 45, "Ticks": 4010400 }, "Name": "Chapter 12" },
+        { "Duration": { "Hours": 0, "Minutes": 0, "Seconds": 1, "Ticks": 90000 }, "Name": "Chapter 13" }
+      ],
+      "Color": { "ChromaLocation": 1, "Format": 0, "Matrix": 5, "Primary": 5, "Range": 1, "Transfer": 5 },
+      "Crop": [0, 0, 12, 10],
+      "Duration": { "Hours": 0, "Minutes": 44, "Seconds": 52, "Ticks": 242323200 },
+      "FrameRate": { "Den": 1080000, "Num": 27000000 },
+      "Geometry": { "Height": 576, "PAR": { "Den": 45, "Num": 64 }, "Width": 720 },
+      "Index": 10,
+      "InterlaceDetected": false,
+      "LooseCrop": [0, 0, 10, 8],
+      "Metadata": {},
+      "Name": "DOCTOR_WHO_DISC1",
+      "Path": "/dev/sr0",
+      "Playlist": -1,
+      "SubtitleList": [
+        {
+          "Attributes": {
+            "4By3": false,
+            "Children": false,
+            "ClosedCaption": false,
+            "Commentary": false,
+            "Default": false,
+            "Forced": false,
+            "Large": false,
+            "Letterbox": false,
+            "Normal": false,
+            "PanScan": false,
+            "Wide": true
+          },
+          "Format": "bitmap",
+          "Language": "Deutsch (Wide Screen) [VOBSUB]",
+          "LanguageCode": "deu",
+          "Source": 0,
+          "SourceName": "VOBSUB",
+          "TrackNumber": 1
+        }
+      ],
+      "Type": 0,
+      "VideoCodec": "mpeg2video"
+    },
+    {
+      "AngleCount": 1,
+      "AudioList": [
+        {
+          "Attributes": {
+            "AltCommentary": false,
+            "Commentary": false,
+            "Default": false,
+            "Normal": false,
+            "Secondary": false,
+            "VisuallyImpaired": false
+          },
+          "BitRate": 192000,
+          "ChannelCount": 2,
+          "ChannelLayout": 3,
+          "ChannelLayoutName": "stereo",
+          "Codec": 2048,
+          "CodecName": "ac3",
+          "CodecParam": 86019,
+          "Description": "English (AC3) (2.0 ch) (192 kbps)",
+          "LFECount": 0,
+          "Language": "English",
+          "LanguageCode": "eng",
+          "SampleRate": 48000,
+          "TrackNumber": 1
+        }
+      ],
+      "ChapterList": [
+        { "Duration": { "Hours": 0, "Minutes": 11, "Seconds": 44, "Ticks": 63316800 }, "Name": "Chapter 1" },
+        { "Duration": { "Hours": 0, "Minutes": 0, "Seconds": 0, "Ticks": 43200 }, "Name": "Chapter 2" }
+      ],
+      "Color": { "ChromaLocation": 1, "Format": 0, "Matrix": 5, "Primary": 5, "Range": 1, "Transfer": 5 },
+      "Crop": [0, 2, 0, 0],
+      "Duration": { "Hours": 0, "Minutes": 11, "Seconds": 44, "Ticks": 63360000 },
+      "FrameRate": { "Den": 1080000, "Num": 27000000 },
+      "Geometry": { "Height": 576, "PAR": { "Den": 45, "Num": 64 }, "Width": 720 },
+      "Index": 11,
+      "InterlaceDetected": false,
+      "LooseCrop": [0, 0, 0, 0],
+      "Metadata": {},
+      "Name": "DOCTOR_WHO_DISC1",
+      "Path": "/dev/sr0",
+      "Playlist": -1,
+      "SubtitleList": [
+        {
+          "Attributes": {
+            "4By3": false,
+            "Children": false,
+            "ClosedCaption": false,
+            "Commentary": false,
+            "Default": false,
+            "Forced": false,
+            "Large": false,
+            "Letterbox": false,
+            "Normal": false,
+            "PanScan": false,
+            "Wide": true
+          },
+          "Format": "bitmap",
+          "Language": "Deutsch (Wide Screen) [VOBSUB]",
+          "LanguageCode": "deu",
+          "Source": 0,
+          "SourceName": "VOBSUB",
+          "TrackNumber": 1
+        }
+      ],
+      "Type": 0,
+      "VideoCodec": "mpeg2video"
+    },
+    {
+      "AngleCount": 1,
+      "AudioList": [
+        {
+          "Attributes": {
+            "AltCommentary": false,
+            "Commentary": false,
+            "Default": false,
+            "Normal": false,
+            "Secondary": false,
+            "VisuallyImpaired": false
+          },
+          "BitRate": 192000,
+          "ChannelCount": 2,
+          "ChannelLayout": 3,
+          "ChannelLayoutName": "stereo",
+          "Codec": 2048,
+          "CodecName": "ac3",
+          "CodecParam": 86019,
+          "Description": "English (AC3) (2.0 ch) (192 kbps)",
+          "LFECount": 0,
+          "Language": "English",
+          "LanguageCode": "eng",
+          "SampleRate": 48000,
+          "TrackNumber": 1
+        }
+      ],
+      "ChapterList": [
+        { "Duration": { "Hours": 0, "Minutes": 3, "Seconds": 22, "Ticks": 18190800 }, "Name": "Chapter 1" },
+        { "Duration": { "Hours": 0, "Minutes": 0, "Seconds": 0, "Ticks": 43200 }, "Name": "Chapter 2" }
+      ],
+      "Color": { "ChromaLocation": 1, "Format": 0, "Matrix": 5, "Primary": 5, "Range": 1, "Transfer": 5 },
+      "Crop": [0, 0, 4, 0],
+      "Duration": { "Hours": 0, "Minutes": 3, "Seconds": 22, "Ticks": 18234000 },
+      "FrameRate": { "Den": 1080000, "Num": 27000000 },
+      "Geometry": { "Height": 576, "PAR": { "Den": 45, "Num": 64 }, "Width": 720 },
+      "Index": 12,
+      "InterlaceDetected": false,
+      "LooseCrop": [0, 0, 4, 0],
+      "Metadata": {},
+      "Name": "DOCTOR_WHO_DISC1",
+      "Path": "/dev/sr0",
+      "Playlist": -1,
+      "SubtitleList": [
+        {
+          "Attributes": {
+            "4By3": false,
+            "Children": false,
+            "ClosedCaption": false,
+            "Commentary": false,
+            "Default": false,
+            "Forced": false,
+            "Large": false,
+            "Letterbox": false,
+            "Normal": false,
+            "PanScan": false,
+            "Wide": true
+          },
+          "Format": "bitmap",
+          "Language": "Deutsch (Wide Screen) [VOBSUB]",
+          "LanguageCode": "deu",
+          "Source": 0,
+          "SourceName": "VOBSUB",
+          "TrackNumber": 1
+        }
+      ],
+      "Type": 0,
+      "VideoCodec": "mpeg2video"
+    },
+    {
+      "AngleCount": 1,
+      "AudioList": [
+        {
+          "Attributes": {
+            "AltCommentary": false,
+            "Commentary": false,
+            "Default": false,
+            "Normal": false,
+            "Secondary": false,
+            "VisuallyImpaired": false
+          },
+          "BitRate": 192000,
+          "ChannelCount": 2,
+          "ChannelLayout": 3,
+          "ChannelLayoutName": "stereo",
+          "Codec": 2048,
+          "CodecName": "ac3",
+          "CodecParam": 86019,
+          "Description": "English (AC3) (2.0 ch) (192 kbps)",
+          "LFECount": 0,
+          "Language": "English",
+          "LanguageCode": "eng",
+          "SampleRate": 48000,
+          "TrackNumber": 1
+        }
+      ],
+      "ChapterList": [
+        { "Duration": { "Hours": 0, "Minutes": 7, "Seconds": 32, "Ticks": 40723200 }, "Name": "Chapter 1" },
+        { "Duration": { "Hours": 0, "Minutes": 7, "Seconds": 59, "Ticks": 43117200 }, "Name": "Chapter 2" },
+        { "Duration": { "Hours": 0, "Minutes": 0, "Seconds": 0, "Ticks": 39600 }, "Name": "Chapter 3" }
+      ],
+      "Color": { "ChromaLocation": 1, "Format": 0, "Matrix": 5, "Primary": 5, "Range": 1, "Transfer": 5 },
+      "Crop": [2, 2, 0, 0],
+      "Duration": { "Hours": 0, "Minutes": 15, "Seconds": 32, "Ticks": 83880000 },
+      "FrameRate": { "Den": 1080000, "Num": 27000000 },
+      "Geometry": { "Height": 576, "PAR": { "Den": 45, "Num": 64 }, "Width": 720 },
+      "Index": 13,
+      "InterlaceDetected": false,
+      "LooseCrop": [0, 0, 0, 0],
+      "Metadata": {},
+      "Name": "DOCTOR_WHO_DISC1",
+      "Path": "/dev/sr0",
+      "Playlist": -1,
+      "SubtitleList": [
+        {
+          "Attributes": {
+            "4By3": false,
+            "Children": false,
+            "ClosedCaption": false,
+            "Commentary": false,
+            "Default": false,
+            "Forced": false,
+            "Large": false,
+            "Letterbox": false,
+            "Normal": false,
+            "PanScan": false,
+            "Wide": true
+          },
+          "Format": "bitmap",
+          "Language": "Deutsch (Wide Screen) [VOBSUB]",
+          "LanguageCode": "deu",
+          "Source": 0,
+          "SourceName": "VOBSUB",
+          "TrackNumber": 1
+        }
+      ],
+      "Type": 0,
+      "VideoCodec": "mpeg2video"
+    },
+    {
+      "AngleCount": 1,
+      "AudioList": [
+        {
+          "Attributes": {
+            "AltCommentary": false,
+            "Commentary": false,
+            "Default": false,
+            "Normal": false,
+            "Secondary": false,
+            "VisuallyImpaired": false
+          },
+          "BitRate": 192000,
+          "ChannelCount": 2,
+          "ChannelLayout": 3,
+          "ChannelLayoutName": "stereo",
+          "Codec": 2048,
+          "CodecName": "ac3",
+          "CodecParam": 86019,
+          "Description": "English (AC3) (2.0 ch) (192 kbps)",
+          "LFECount": 0,
+          "Language": "English",
+          "LanguageCode": "eng",
+          "SampleRate": 48000,
+          "TrackNumber": 1
+        }
+      ],
+      "ChapterList": [
+        { "Duration": { "Hours": 0, "Minutes": 9, "Seconds": 35, "Ticks": 51750000 }, "Name": "Chapter 1" },
+        { "Duration": { "Hours": 0, "Minutes": 8, "Seconds": 35, "Ticks": 46314000 }, "Name": "Chapter 2" },
+        { "Duration": { "Hours": 0, "Minutes": 0, "Seconds": 0, "Ticks": 36000 }, "Name": "Chapter 3" }
+      ],
+      "Color": { "ChromaLocation": 1, "Format": 0, "Matrix": 5, "Primary": 5, "Range": 1, "Transfer": 5 },
+      "Crop": [0, 2, 0, 0],
+      "Duration": { "Hours": 0, "Minutes": 18, "Seconds": 10, "Ticks": 98100000 },
+      "FrameRate": { "Den": 1080000, "Num": 27000000 },
+      "Geometry": { "Height": 576, "PAR": { "Den": 15, "Num": 16 }, "Width": 720 },
+      "Index": 14,
+      "InterlaceDetected": false,
+      "LooseCrop": [0, 0, 0, 0],
+      "Metadata": {},
+      "Name": "DOCTOR_WHO_DISC1",
+      "Path": "/dev/sr0",
+      "Playlist": -1,
+      "SubtitleList": [
+        {
+          "Attributes": {
+            "4By3": true,
+            "Children": false,
+            "ClosedCaption": false,
+            "Commentary": false,
+            "Default": false,
+            "Forced": false,
+            "Large": false,
+            "Letterbox": false,
+            "Normal": false,
+            "PanScan": false,
+            "Wide": false
+          },
+          "Format": "bitmap",
+          "Language": "Deutsch (4:3) [VOBSUB]",
+          "LanguageCode": "deu",
+          "Source": 0,
+          "SourceName": "VOBSUB",
+          "TrackNumber": 1
+        }
+      ],
+      "Type": 0,
+      "VideoCodec": "mpeg2video"
+    },
+    {
+      "AngleCount": 1,
+      "AudioList": [
+        {
+          "Attributes": {
+            "AltCommentary": false,
+            "Commentary": false,
+            "Default": false,
+            "Normal": false,
+            "Secondary": false,
+            "VisuallyImpaired": false
+          },
+          "BitRate": 192000,
+          "ChannelCount": 2,
+          "ChannelLayout": 3,
+          "ChannelLayoutName": "stereo",
+          "Codec": 2048,
+          "CodecName": "ac3",
+          "CodecParam": 86019,
+          "Description": "English (AC3) (2.0 ch) (192 kbps)",
+          "LFECount": 0,
+          "Language": "English",
+          "LanguageCode": "eng",
+          "SampleRate": 48000,
+          "TrackNumber": 1
+        }
+      ],
+      "ChapterList": [
+        { "Duration": { "Hours": 0, "Minutes": 8, "Seconds": 24, "Ticks": 45403200 }, "Name": "Chapter 1" },
+        { "Duration": { "Hours": 0, "Minutes": 0, "Seconds": 1, "Ticks": 46800 }, "Name": "Chapter 2" }
+      ],
+      "Color": { "ChromaLocation": 1, "Format": 0, "Matrix": 5, "Primary": 5, "Range": 1, "Transfer": 5 },
+      "Crop": [0, 2, 0, 0],
+      "Duration": { "Hours": 0, "Minutes": 8, "Seconds": 25, "Ticks": 45450000 },
+      "FrameRate": { "Den": 1080000, "Num": 27000000 },
+      "Geometry": { "Height": 576, "PAR": { "Den": 45, "Num": 64 }, "Width": 720 },
+      "Index": 15,
+      "InterlaceDetected": false,
+      "LooseCrop": [0, 2, 0, 0],
+      "Metadata": {},
+      "Name": "DOCTOR_WHO_DISC1",
+      "Path": "/dev/sr0",
+      "Playlist": -1,
+      "SubtitleList": [
+        {
+          "Attributes": {
+            "4By3": false,
+            "Children": false,
+            "ClosedCaption": false,
+            "Commentary": false,
+            "Default": false,
+            "Forced": false,
+            "Large": false,
+            "Letterbox": false,
+            "Normal": false,
+            "PanScan": false,
+            "Wide": true
+          },
+          "Format": "bitmap",
+          "Language": "Deutsch (Wide Screen) [VOBSUB]",
+          "LanguageCode": "deu",
+          "Source": 0,
+          "SourceName": "VOBSUB",
+          "TrackNumber": 1
+        }
+      ],
+      "Type": 0,
+      "VideoCodec": "mpeg2video"
+    },
+    {
+      "AngleCount": 1,
+      "AudioList": [
+        {
+          "Attributes": {
+            "AltCommentary": false,
+            "Commentary": false,
+            "Default": false,
+            "Normal": false,
+            "Secondary": false,
+            "VisuallyImpaired": false
+          },
+          "BitRate": 192000,
+          "ChannelCount": 2,
+          "ChannelLayout": 3,
+          "ChannelLayoutName": "stereo",
+          "Codec": 2048,
+          "CodecName": "ac3",
+          "CodecParam": 86019,
+          "Description": "English (AC3) (2.0 ch) (192 kbps)",
+          "LFECount": 0,
+          "Language": "English",
+          "LanguageCode": "eng",
+          "SampleRate": 48000,
+          "TrackNumber": 1
+        }
+      ],
+      "ChapterList": [
+        { "Duration": { "Hours": 0, "Minutes": 0, "Seconds": 30, "Ticks": 2671200 }, "Name": "Chapter 1" },
+        { "Duration": { "Hours": 0, "Minutes": 0, "Seconds": 52, "Ticks": 4665600 }, "Name": "Chapter 2" },
+        { "Duration": { "Hours": 0, "Minutes": 0, "Seconds": 33, "Ticks": 2962800 }, "Name": "Chapter 3" },
+        { "Duration": { "Hours": 0, "Minutes": 0, "Seconds": 23, "Ticks": 2088000 }, "Name": "Chapter 4" },
+        { "Duration": { "Hours": 0, "Minutes": 0, "Seconds": 0, "Ticks": 32400 }, "Name": "Chapter 5" }
+      ],
+      "Color": { "ChromaLocation": 1, "Format": 0, "Matrix": 5, "Primary": 5, "Range": 1, "Transfer": 5 },
+      "Crop": [0, 2, 2, 0],
+      "Duration": { "Hours": 0, "Minutes": 2, "Seconds": 18, "Ticks": 12420000 },
+      "FrameRate": { "Den": 1080000, "Num": 27000000 },
+      "Geometry": { "Height": 576, "PAR": { "Den": 45, "Num": 64 }, "Width": 720 },
+      "Index": 16,
+      "InterlaceDetected": false,
+      "LooseCrop": [0, 0, 0, 0],
+      "Metadata": {},
+      "Name": "DOCTOR_WHO_DISC1",
+      "Path": "/dev/sr0",
+      "Playlist": -1,
+      "SubtitleList": [
+        {
+          "Attributes": {
+            "4By3": false,
+            "Children": false,
+            "ClosedCaption": false,
+            "Commentary": false,
+            "Default": false,
+            "Forced": false,
+            "Large": false,
+            "Letterbox": false,
+            "Normal": false,
+            "PanScan": false,
+            "Wide": true
+          },
+          "Format": "bitmap",
+          "Language": "Deutsch (Wide Screen) [VOBSUB]",
+          "LanguageCode": "deu",
+          "Source": 0,
+          "SourceName": "VOBSUB",
+          "TrackNumber": 1
+        }
+      ],
+      "Type": 0,
+      "VideoCodec": "mpeg2video"
+    },
+    {
+      "AngleCount": 1,
+      "AudioList": [
+        {
+          "Attributes": {
+            "AltCommentary": false,
+            "Commentary": false,
+            "Default": false,
+            "Normal": false,
+            "Secondary": false,
+            "VisuallyImpaired": false
+          },
+          "BitRate": 192000,
+          "ChannelCount": 2,
+          "ChannelLayout": 3,
+          "ChannelLayoutName": "stereo",
+          "Codec": 2048,
+          "CodecName": "ac3",
+          "CodecParam": 86019,
+          "Description": "English (AC3) (2.0 ch) (192 kbps)",
+          "LFECount": 0,
+          "Language": "English",
+          "LanguageCode": "eng",
+          "SampleRate": 48000,
+          "TrackNumber": 1
+        }
+      ],
+      "ChapterList": [
+        { "Duration": { "Hours": 0, "Minutes": 0, "Seconds": 48, "Ticks": 4280400 }, "Name": "Chapter 1" },
+        { "Duration": { "Hours": 0, "Minutes": 0, "Seconds": 0, "Ticks": 36000 }, "Name": "Chapter 2" }
+      ],
+      "Color": { "ChromaLocation": 1, "Format": 0, "Matrix": 5, "Primary": 5, "Range": 1, "Transfer": 5 },
+      "Crop": [0, 2, 0, 0],
+      "Duration": { "Hours": 0, "Minutes": 0, "Seconds": 47, "Ticks": 4316400 },
+      "FrameRate": { "Den": 1080000, "Num": 27000000 },
+      "Geometry": { "Height": 576, "PAR": { "Den": 45, "Num": 64 }, "Width": 720 },
+      "Index": 17,
+      "InterlaceDetected": false,
+      "LooseCrop": [0, 2, 0, 0],
+      "Metadata": {},
+      "Name": "DOCTOR_WHO_DISC1",
+      "Path": "/dev/sr0",
+      "Playlist": -1,
+      "SubtitleList": [],
+      "Type": 0,
+      "VideoCodec": "mpeg2video"
+    }
+  ]
+}

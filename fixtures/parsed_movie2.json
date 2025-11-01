@@ -1,0 +1,968 @@
+{
+  "MainFeature": 4,
+  "TitleList": [
+    {
+      "AngleCount": 1,
+      "AudioList": [
+        {
+          "Attributes": {
+            "AltCommentary": false,
+            "Commentary": false,
+            "Default": false,
+            "Normal": false,
+            "Secondary": false,
+            "VisuallyImpaired": false
+          },
+          "BitRate": 448000,
+          "ChannelCount": 6,
+          "ChannelLayout": 1551,
+          "ChannelLayoutName": "5.1(side)",
+          "Codec": 2048,
+          "CodecName": "ac3",
+          "CodecParam": 86019,
+          "Description": "Deutsch (AC3) (5.1 ch) (448 kbps)",
+          "LFECount": 1,
+          "Language": "Deutsch",
+          "LanguageCode": "deu",
+          "SampleRate": 48000,
+          "TrackNumber": 1
+        },
+        {
+          "Attributes": {
+            "AltCommentary": false,
+            "Commentary": false,
+            "Default": false,
+            "Normal": false,
+            "Secondary": false,
+            "VisuallyImpaired": false
+          },
+          "BitRate": 448000,
+          "ChannelCount": 6,
+          "ChannelLayout": 1551,
+          "ChannelLayoutName": "5.1(side)",
+          "Codec": 2048,
+          "CodecName": "ac3",
+          "CodecParam": 86019,
+          "Description": "español (AC3) (5.1 ch) (448 kbps)",
+          "LFECount": 1,
+          "Language": "español",
+          "LanguageCode": "spa",
+          "SampleRate": 48000,
+          "TrackNumber": 2
+        }
+      ],
+      "ChapterList": [
+        { "Duration": { "Hours": 0, "Minutes": 2, "Seconds": 12, "Ticks": 11869200 }, "Name": "Chapter 1" },
+        { "Duration": { "Hours": 0, "Minutes": 0, "Seconds": 0, "Ticks": 43200 }, "Name": "Chapter 2" }
+      ],
+      "Color": { "ChromaLocation": 1, "Format": 0, "Matrix": 6, "Primary": 5, "Range": 1, "Transfer": 1 },
+      "Crop": [74, 74, 0, 0],
+      "Duration": { "Hours": 0, "Minutes": 2, "Seconds": 12, "Ticks": 11912400 },
+      "FrameRate": { "Den": 1080000, "Num": 27000000 },
+      "Geometry": { "Height": 576, "PAR": { "Den": 45, "Num": 64 }, "Width": 720 },
+      "Index": 4,
+      "InterlaceDetected": false,
+      "LooseCrop": [74, 74, 0, 0],
+      "Metadata": {},
+      "Name": "GEMINI_MAN",
+      "Path": "/dev/sr0",
+      "Playlist": -1,
+      "SubtitleList": [],
+      "Type": 0,
+      "VideoCodec": "mpeg2video"
+    },
+    {
+      "AngleCount": 1,
+      "AudioList": [
+        {
+          "Attributes": {
+            "AltCommentary": false,
+            "Commentary": false,
+            "Default": false,
+            "Normal": false,
+            "Secondary": false,
+            "VisuallyImpaired": false
+          },
+          "BitRate": 448000,
+          "ChannelCount": 6,
+          "ChannelLayout": 1551,
+          "ChannelLayoutName": "5.1(side)",
+          "Codec": 2048,
+          "CodecName": "ac3",
+          "CodecParam": 86019,
+          "Description": "English (AC3) (5.1 ch) (448 kbps)",
+          "LFECount": 1,
+          "Language": "English",
+          "LanguageCode": "eng",
+          "SampleRate": 48000,
+          "TrackNumber": 1
+        }
+      ],
+      "ChapterList": [
+        { "Duration": { "Hours": 0, "Minutes": 2, "Seconds": 47, "Ticks": 15037200 }, "Name": "Chapter 1" },
+        { "Duration": { "Hours": 0, "Minutes": 0, "Seconds": 0, "Ticks": 43200 }, "Name": "Chapter 2" }
+      ],
+      "Color": { "ChromaLocation": 1, "Format": 0, "Matrix": 6, "Primary": 5, "Range": 1, "Transfer": 1 },
+      "Crop": [0, 0, 0, 0],
+      "Duration": { "Hours": 0, "Minutes": 2, "Seconds": 47, "Ticks": 15080400 },
+      "FrameRate": { "Den": 1080000, "Num": 27000000 },
+      "Geometry": { "Height": 576, "PAR": { "Den": 45, "Num": 64 }, "Width": 720 },
+      "Index": 5,
+      "InterlaceDetected": false,
+      "LooseCrop": [0, 0, 0, 0],
+      "Metadata": {},
+      "Name": "GEMINI_MAN",
+      "Path": "/dev/sr0",
+      "Playlist": -1,
+      "SubtitleList": [
+        {
+          "Attributes": {
+            "4By3": false,
+            "Children": false,
+            "ClosedCaption": false,
+            "Commentary": false,
+            "Default": false,
+            "Forced": false,
+            "Large": false,
+            "Letterbox": false,
+            "Normal": false,
+            "PanScan": false,
+            "Wide": true
+          },
+          "Format": "bitmap",
+          "Language": "English (Wide Screen) [VOBSUB]",
+          "LanguageCode": "eng",
+          "Source": 0,
+          "SourceName": "VOBSUB",
+          "TrackNumber": 1
+        },
+        {
+          "Attributes": {
+            "4By3": false,
+            "Children": false,
+            "ClosedCaption": false,
+            "Commentary": false,
+            "Default": false,
+            "Forced": false,
+            "Large": false,
+            "Letterbox": false,
+            "Normal": false,
+            "PanScan": false,
+            "Wide": true
+          },
+          "Format": "bitmap",
+          "Language": "Deutsch (Wide Screen) [VOBSUB]",
+          "LanguageCode": "deu",
+          "Source": 0,
+          "SourceName": "VOBSUB",
+          "TrackNumber": 2
+        },
+        {
+          "Attributes": {
+            "4By3": false,
+            "Children": false,
+            "ClosedCaption": false,
+            "Commentary": false,
+            "Default": false,
+            "Forced": false,
+            "Large": false,
+            "Letterbox": false,
+            "Normal": false,
+            "PanScan": false,
+            "Wide": true
+          },
+          "Format": "bitmap",
+          "Language": "español (Wide Screen) [VOBSUB]",
+          "LanguageCode": "spa",
+          "Source": 0,
+          "SourceName": "VOBSUB",
+          "TrackNumber": 3
+        },
+        {
+          "Attributes": {
+            "4By3": false,
+            "Children": false,
+            "ClosedCaption": false,
+            "Commentary": false,
+            "Default": false,
+            "Forced": false,
+            "Large": false,
+            "Letterbox": false,
+            "Normal": false,
+            "PanScan": false,
+            "Wide": true
+          },
+          "Format": "bitmap",
+          "Language": "Türkçe (Wide Screen) [VOBSUB]",
+          "LanguageCode": "tur",
+          "Source": 0,
+          "SourceName": "VOBSUB",
+          "TrackNumber": 4
+        }
+      ],
+      "Type": 0,
+      "VideoCodec": "mpeg2video"
+    },
+    {
+      "AngleCount": 1,
+      "AudioList": [
+        {
+          "Attributes": {
+            "AltCommentary": false,
+            "Commentary": false,
+            "Default": false,
+            "Normal": false,
+            "Secondary": false,
+            "VisuallyImpaired": false
+          },
+          "BitRate": 448000,
+          "ChannelCount": 6,
+          "ChannelLayout": 1551,
+          "ChannelLayoutName": "5.1(side)",
+          "Codec": 2048,
+          "CodecName": "ac3",
+          "CodecParam": 86019,
+          "Description": "English (AC3) (5.1 ch) (448 kbps)",
+          "LFECount": 1,
+          "Language": "English",
+          "LanguageCode": "eng",
+          "SampleRate": 48000,
+          "TrackNumber": 1
+        }
+      ],
+      "ChapterList": [
+        { "Duration": { "Hours": 0, "Minutes": 5, "Seconds": 27, "Ticks": 29404800 }, "Name": "Chapter 1" },
+        { "Duration": { "Hours": 0, "Minutes": 0, "Seconds": 0, "Ticks": 43200 }, "Name": "Chapter 2" }
+      ],
+      "Color": { "ChromaLocation": 1, "Format": 0, "Matrix": 6, "Primary": 5, "Range": 1, "Transfer": 1 },
+      "Crop": [0, 0, 0, 0],
+      "Duration": { "Hours": 0, "Minutes": 5, "Seconds": 27, "Ticks": 29448000 },
+      "FrameRate": { "Den": 1080000, "Num": 27000000 },
+      "Geometry": { "Height": 576, "PAR": { "Den": 45, "Num": 64 }, "Width": 720 },
+      "Index": 6,
+      "InterlaceDetected": false,
+      "LooseCrop": [0, 0, 0, 0],
+      "Metadata": {},
+      "Name": "GEMINI_MAN",
+      "Path": "/dev/sr0",
+      "Playlist": -1,
+      "SubtitleList": [
+        {
+          "Attributes": {
+            "4By3": false,
+            "Children": false,
+            "ClosedCaption": false,
+            "Commentary": false,
+            "Default": false,
+            "Forced": false,
+            "Large": false,
+            "Letterbox": false,
+            "Normal": false,
+            "PanScan": false,
+            "Wide": true
+          },
+          "Format": "bitmap",
+          "Language": "English (Wide Screen) [VOBSUB]",
+          "LanguageCode": "eng",
+          "Source": 0,
+          "SourceName": "VOBSUB",
+          "TrackNumber": 1
+        },
+        {
+          "Attributes": {
+            "4By3": false,
+            "Children": false,
+            "ClosedCaption": false,
+            "Commentary": false,
+            "Default": false,
+            "Forced": false,
+            "Large": false,
+            "Letterbox": false,
+            "Normal": false,
+            "PanScan": false,
+            "Wide": true
+          },
+          "Format": "bitmap",
+          "Language": "Deutsch (Wide Screen) [VOBSUB]",
+          "LanguageCode": "deu",
+          "Source": 0,
+          "SourceName": "VOBSUB",
+          "TrackNumber": 2
+        },
+        {
+          "Attributes": {
+            "4By3": false,
+            "Children": false,
+            "ClosedCaption": false,
+            "Commentary": false,
+            "Default": false,
+            "Forced": false,
+            "Large": false,
+            "Letterbox": false,
+            "Normal": false,
+            "PanScan": false,
+            "Wide": true
+          },
+          "Format": "bitmap",
+          "Language": "español (Wide Screen) [VOBSUB]",
+          "LanguageCode": "spa",
+          "Source": 0,
+          "SourceName": "VOBSUB",
+          "TrackNumber": 3
+        },
+        {
+          "Attributes": {
+            "4By3": false,
+            "Children": false,
+            "ClosedCaption": false,
+            "Commentary": false,
+            "Default": false,
+            "Forced": false,
+            "Large": false,
+            "Letterbox": false,
+            "Normal": false,
+            "PanScan": false,
+            "Wide": true
+          },
+          "Format": "bitmap",
+          "Language": "Türkçe (Wide Screen) [VOBSUB]",
+          "LanguageCode": "tur",
+          "Source": 0,
+          "SourceName": "VOBSUB",
+          "TrackNumber": 4
+        }
+      ],
+      "Type": 0,
+      "VideoCodec": "mpeg2video"
+    },
+    {
+      "AngleCount": 1,
+      "AudioList": [
+        {
+          "Attributes": {
+            "AltCommentary": false,
+            "Commentary": false,
+            "Default": false,
+            "Normal": false,
+            "Secondary": false,
+            "VisuallyImpaired": false
+          },
+          "BitRate": 448000,
+          "ChannelCount": 6,
+          "ChannelLayout": 1551,
+          "ChannelLayoutName": "5.1(side)",
+          "Codec": 2048,
+          "CodecName": "ac3",
+          "CodecParam": 86019,
+          "Description": "English (AC3) (5.1 ch) (448 kbps)",
+          "LFECount": 1,
+          "Language": "English",
+          "LanguageCode": "eng",
+          "SampleRate": 48000,
+          "TrackNumber": 1
+        }
+      ],
+      "ChapterList": [
+        { "Duration": { "Hours": 0, "Minutes": 4, "Seconds": 7, "Ticks": 22251600 }, "Name": "Chapter 1" },
+        { "Duration": { "Hours": 0, "Minutes": 0, "Seconds": 0, "Ticks": 43200 }, "Name": "Chapter 2" }
+      ],
+      "Color": { "ChromaLocation": 1, "Format": 0, "Matrix": 6, "Primary": 5, "Range": 1, "Transfer": 1 },
+      "Crop": [0, 0, 0, 0],
+      "Duration": { "Hours": 0, "Minutes": 4, "Seconds": 7, "Ticks": 22294800 },
+      "FrameRate": { "Den": 1080000, "Num": 27000000 },
+      "Geometry": { "Height": 576, "PAR": { "Den": 45, "Num": 64 }, "Width": 720 },
+      "Index": 8,
+      "InterlaceDetected": false,
+      "LooseCrop": [0, 0, 0, 0],
+      "Metadata": {},
+      "Name": "GEMINI_MAN",
+      "Path": "/dev/sr0",
+      "Playlist": -1,
+      "SubtitleList": [
+        {
+          "Attributes": {
+            "4By3": false,
+            "Children": false,
+            "ClosedCaption": false,
+            "Commentary": false,
+            "Default": false,
+            "Forced": false,
+            "Large": false,
+            "Letterbox": false,
+            "Normal": false,
+            "PanScan": false,
+            "Wide": true
+          },
+          "Format": "bitmap",
+          "Language": "English (Wide Screen) [VOBSUB]",
+          "LanguageCode": "eng",
+          "Source": 0,
+          "SourceName": "VOBSUB",
+          "TrackNumber": 1
+        },
+        {
+          "Attributes": {
+            "4By3": false,
+            "Children": false,
+            "ClosedCaption": false,
+            "Commentary": false,
+            "Default": false,
+            "Forced": false,
+            "Large": false,
+            "Letterbox": false,
+            "Normal": false,
+            "PanScan": false,
+            "Wide": true
+          },
+          "Format": "bitmap",
+          "Language": "Deutsch (Wide Screen) [VOBSUB]",
+          "LanguageCode": "deu",
+          "Source": 0,
+          "SourceName": "VOBSUB",
+          "TrackNumber": 2
+        },
+        {
+          "Attributes": {
+            "4By3": false,
+            "Children": false,
+            "ClosedCaption": false,
+            "Commentary": false,
+            "Default": false,
+            "Forced": false,
+            "Large": false,
+            "Letterbox": false,
+            "Normal": false,
+            "PanScan": false,
+            "Wide": true
+          },
+          "Format": "bitmap",
+          "Language": "español (Wide Screen) [VOBSUB]",
+          "LanguageCode": "spa",
+          "Source": 0,
+          "SourceName": "VOBSUB",
+          "TrackNumber": 3
+        },
+        {
+          "Attributes": {
+            "4By3": false,
+            "Children": false,
+            "ClosedCaption": false,
+            "Commentary": false,
+            "Default": false,
+            "Forced": false,
+            "Large": false,
+            "Letterbox": false,
+            "Normal": false,
+            "PanScan": false,
+            "Wide": true
+          },
+          "Format": "bitmap",
+          "Language": "Türkçe (Wide Screen) [VOBSUB]",
+          "LanguageCode": "tur",
+          "Source": 0,
+          "SourceName": "VOBSUB",
+          "TrackNumber": 4
+        }
+      ],
+      "Type": 0,
+      "VideoCodec": "mpeg2video"
+    },
+    {
+      "AngleCount": 1,
+      "AudioList": [
+        {
+          "Attributes": {
+            "AltCommentary": false,
+            "Commentary": false,
+            "Default": false,
+            "Normal": false,
+            "Secondary": false,
+            "VisuallyImpaired": false
+          },
+          "BitRate": 192000,
+          "ChannelCount": 2,
+          "ChannelLayout": 3,
+          "ChannelLayoutName": "stereo",
+          "Codec": 2048,
+          "CodecName": "ac3",
+          "CodecParam": 86019,
+          "Description": "Unknown (AC3) (2.0 ch) (192 kbps)",
+          "LFECount": 0,
+          "Language": "Unknown",
+          "LanguageCode": "und",
+          "SampleRate": 48000,
+          "TrackNumber": 1
+        }
+      ],
+      "ChapterList": [
+        { "Duration": { "Hours": 0, "Minutes": 0, "Seconds": 5, "Ticks": 450000 }, "Name": "Chapter 1" },
+        { "Duration": { "Hours": 0, "Minutes": 0, "Seconds": 5, "Ticks": 450000 }, "Name": "Chapter 2" },
+        { "Duration": { "Hours": 0, "Minutes": 0, "Seconds": 5, "Ticks": 450000 }, "Name": "Chapter 3" },
+        { "Duration": { "Hours": 0, "Minutes": 0, "Seconds": 0, "Ticks": 43200 }, "Name": "Chapter 4" }
+      ],
+      "Color": { "ChromaLocation": 1, "Format": 0, "Matrix": 6, "Primary": 5, "Range": 1, "Transfer": 1 },
+      "Crop": [0, 0, 0, 0],
+      "Duration": { "Hours": 0, "Minutes": 0, "Seconds": 15, "Ticks": 1393200 },
+      "FrameRate": { "Den": 1080000, "Num": 27000000 },
+      "Geometry": { "Height": 576, "PAR": { "Den": 45, "Num": 64 }, "Width": 720 },
+      "Index": 32,
+      "InterlaceDetected": false,
+      "LooseCrop": [0, 0, 0, 0],
+      "Metadata": {},
+      "Name": "GEMINI_MAN",
+      "Path": "/dev/sr0",
+      "Playlist": -1,
+      "SubtitleList": [],
+      "Type": 0,
+      "VideoCodec": "mpeg2video"
+    },
+    {
+      "AngleCount": 1,
+      "AudioList": [
+        {
+          "Attributes": {
+            "AltCommentary": false,
+            "Commentary": false,
+            "Default": false,
+            "Normal": false,
+            "Secondary": false,
+            "VisuallyImpaired": false
+          },
+          "BitRate": 192000,
+          "ChannelCount": 2,
+          "ChannelLayout": 3,
+          "ChannelLayoutName": "stereo",
+          "Codec": 2048,
+          "CodecName": "ac3",
+          "CodecParam": 86019,
+          "Description": "Unknown (AC3) (2.0 ch) (192 kbps)",
+          "LFECount": 0,
+          "Language": "Unknown",
+          "LanguageCode": "und",
+          "SampleRate": 48000,
+          "TrackNumber": 1
+        }
+      ],
+      "ChapterList": [
+        { "Duration": { "Hours": 0, "Minutes": 0, "Seconds": 5, "Ticks": 450000 }, "Name": "Chapter 1" },
+        { "Duration": { "Hours": 0, "Minutes": 0, "Seconds": 5, "Ticks": 450000 }, "Name": "Chapter 2" },
+        { "Duration": { "Hours": 0, "Minutes": 0, "Seconds": 5, "Ticks": 450000 }, "Name": "Chapter 3" },
+        { "Duration": { "Hours": 0, "Minutes": 0, "Seconds": 0, "Ticks": 43200 }, "Name": "Chapter 4" }
+      ],
+      "Color": { "ChromaLocation": 1, "Format": 0, "Matrix": 6, "Primary": 5, "Range": 1, "Transfer": 1 },
+      "Crop": [0, 0, 0, 0],
+      "Duration": { "Hours": 0, "Minutes": 0, "Seconds": 15, "Ticks": 1393200 },
+      "FrameRate": { "Den": 1080000, "Num": 27000000 },
+      "Geometry": { "Height": 576, "PAR": { "Den": 45, "Num": 64 }, "Width": 720 },
+      "Index": 33,
+      "InterlaceDetected": false,
+      "LooseCrop": [0, 0, 0, 0],
+      "Metadata": {},
+      "Name": "GEMINI_MAN",
+      "Path": "/dev/sr0",
+      "Playlist": -1,
+      "SubtitleList": [],
+      "Type": 0,
+      "VideoCodec": "mpeg2video"
+    },
+    {
+      "AngleCount": 1,
+      "AudioList": [
+        {
+          "Attributes": {
+            "AltCommentary": false,
+            "Commentary": false,
+            "Default": false,
+            "Normal": false,
+            "Secondary": false,
+            "VisuallyImpaired": false
+          },
+          "BitRate": 192000,
+          "ChannelCount": 2,
+          "ChannelLayout": 3,
+          "ChannelLayoutName": "stereo",
+          "Codec": 2048,
+          "CodecName": "ac3",
+          "CodecParam": 86019,
+          "Description": "Unknown (AC3) (2.0 ch) (192 kbps)",
+          "LFECount": 0,
+          "Language": "Unknown",
+          "LanguageCode": "und",
+          "SampleRate": 48000,
+          "TrackNumber": 1
+        }
+      ],
+      "ChapterList": [
+        { "Duration": { "Hours": 0, "Minutes": 0, "Seconds": 5, "Ticks": 450000 }, "Name": "Chapter 1" },
+        { "Duration": { "Hours": 0, "Minutes": 0, "Seconds": 5, "Ticks": 450000 }, "Name": "Chapter 2" },
+        { "Duration": { "Hours": 0, "Minutes": 0, "Seconds": 5, "Ticks": 450000 }, "Name": "Chapter 3" },
+        { "Duration": { "Hours": 0, "Minutes": 0, "Seconds": 0, "Ticks": 43200 }, "Name": "Chapter 4" }
+      ],
+      "Color": { "ChromaLocation": 1, "Format": 0, "Matrix": 6, "Primary": 5, "Range": 1, "Transfer": 1 },
+      "Crop": [0, 0, 0, 0],
+      "Duration": { "Hours": 0, "Minutes": 0, "Seconds": 15, "Ticks": 1393200 },
+      "FrameRate": { "Den": 1080000, "Num": 27000000 },
+      "Geometry": { "Height": 576, "PAR": { "Den": 45, "Num": 64 }, "Width": 720 },
+      "Index": 34,
+      "InterlaceDetected": false,
+      "LooseCrop": [0, 0, 0, 0],
+      "Metadata": {},
+      "Name": "GEMINI_MAN",
+      "Path": "/dev/sr0",
+      "Playlist": -1,
+      "SubtitleList": [],
+      "Type": 0,
+      "VideoCodec": "mpeg2video"
+    },
+    {
+      "AngleCount": 1,
+      "AudioList": [
+        {
+          "Attributes": {
+            "AltCommentary": false,
+            "Commentary": false,
+            "Default": false,
+            "Normal": false,
+            "Secondary": false,
+            "VisuallyImpaired": false
+          },
+          "BitRate": 448000,
+          "ChannelCount": 6,
+          "ChannelLayout": 1551,
+          "ChannelLayoutName": "5.1(side)",
+          "Codec": 2048,
+          "CodecName": "ac3",
+          "CodecParam": 86019,
+          "Description": "English (AC3) (5.1 ch) (448 kbps)",
+          "LFECount": 1,
+          "Language": "English",
+          "LanguageCode": "eng",
+          "SampleRate": 48000,
+          "TrackNumber": 1
+        },
+        {
+          "Attributes": {
+            "AltCommentary": false,
+            "Commentary": false,
+            "Default": false,
+            "Normal": false,
+            "Secondary": false,
+            "VisuallyImpaired": false
+          },
+          "BitRate": 448000,
+          "ChannelCount": 6,
+          "ChannelLayout": 1551,
+          "ChannelLayoutName": "5.1(side)",
+          "Codec": 2048,
+          "CodecName": "ac3",
+          "CodecParam": 86019,
+          "Description": "Deutsch (AC3) (5.1 ch) (448 kbps)",
+          "LFECount": 1,
+          "Language": "Deutsch",
+          "LanguageCode": "deu",
+          "SampleRate": 48000,
+          "TrackNumber": 2
+        },
+        {
+          "Attributes": {
+            "AltCommentary": false,
+            "Commentary": false,
+            "Default": false,
+            "Normal": false,
+            "Secondary": false,
+            "VisuallyImpaired": false
+          },
+          "BitRate": 448000,
+          "ChannelCount": 6,
+          "ChannelLayout": 1551,
+          "ChannelLayoutName": "5.1(side)",
+          "Codec": 2048,
+          "CodecName": "ac3",
+          "CodecParam": 86019,
+          "Description": "español (AC3) (5.1 ch) (448 kbps)",
+          "LFECount": 1,
+          "Language": "español",
+          "LanguageCode": "spa",
+          "SampleRate": 48000,
+          "TrackNumber": 3
+        },
+        {
+          "Attributes": {
+            "AltCommentary": false,
+            "Commentary": false,
+            "Default": false,
+            "Normal": false,
+            "Secondary": false,
+            "VisuallyImpaired": false
+          },
+          "BitRate": 448000,
+          "ChannelCount": 6,
+          "ChannelLayout": 1551,
+          "ChannelLayoutName": "5.1(side)",
+          "Codec": 2048,
+          "CodecName": "ac3",
+          "CodecParam": 86019,
+          "Description": "Türkçe (AC3) (5.1 ch) (448 kbps)",
+          "LFECount": 1,
+          "Language": "Türkçe",
+          "LanguageCode": "tur",
+          "SampleRate": 48000,
+          "TrackNumber": 4
+        }
+      ],
+      "ChapterList": [
+        { "Duration": { "Hours": 0, "Minutes": 7, "Seconds": 4, "Ticks": 38124000 }, "Name": "Chapter 1" },
+        { "Duration": { "Hours": 0, "Minutes": 7, "Seconds": 50, "Ticks": 42296400 }, "Name": "Chapter 2" },
+        { "Duration": { "Hours": 0, "Minutes": 2, "Seconds": 35, "Ticks": 13935600 }, "Name": "Chapter 3" },
+        { "Duration": { "Hours": 0, "Minutes": 6, "Seconds": 11, "Ticks": 33350400 }, "Name": "Chapter 4" },
+        { "Duration": { "Hours": 0, "Minutes": 6, "Seconds": 4, "Ticks": 32792400 }, "Name": "Chapter 5" },
+        { "Duration": { "Hours": 0, "Minutes": 3, "Seconds": 2, "Ticks": 16401600 }, "Name": "Chapter 6" },
+        { "Duration": { "Hours": 0, "Minutes": 8, "Seconds": 10, "Ticks": 44092800 }, "Name": "Chapter 7" },
+        { "Duration": { "Hours": 0, "Minutes": 7, "Seconds": 26, "Ticks": 40100400 }, "Name": "Chapter 8" },
+        { "Duration": { "Hours": 0, "Minutes": 6, "Seconds": 5, "Ticks": 32878800 }, "Name": "Chapter 9" },
+        { "Duration": { "Hours": 0, "Minutes": 6, "Seconds": 28, "Ticks": 34912800 }, "Name": "Chapter 10" },
+        { "Duration": { "Hours": 0, "Minutes": 4, "Seconds": 31, "Ticks": 24415200 }, "Name": "Chapter 11" },
+        { "Duration": { "Hours": 0, "Minutes": 8, "Seconds": 12, "Ticks": 44258400 }, "Name": "Chapter 12" },
+        { "Duration": { "Hours": 0, "Minutes": 7, "Seconds": 38, "Ticks": 41263200 }, "Name": "Chapter 13" },
+        { "Duration": { "Hours": 0, "Minutes": 5, "Seconds": 8, "Ticks": 27684000 }, "Name": "Chapter 14" },
+        { "Duration": { "Hours": 0, "Minutes": 3, "Seconds": 47, "Ticks": 20386800 }, "Name": "Chapter 15" },
+        { "Duration": { "Hours": 0, "Minutes": 7, "Seconds": 53, "Ticks": 42598800 }, "Name": "Chapter 16" },
+        { "Duration": { "Hours": 0, "Minutes": 4, "Seconds": 41, "Ticks": 25300800 }, "Name": "Chapter 17" },
+        { "Duration": { "Hours": 0, "Minutes": 9, "Seconds": 29, "Ticks": 51213600 }, "Name": "Chapter 18" },
+        { "Duration": { "Hours": 0, "Minutes": 0, "Seconds": 0, "Ticks": 43200 }, "Name": "Chapter 19" }
+      ],
+      "Color": { "ChromaLocation": 1, "Format": 0, "Matrix": 6, "Primary": 5, "Range": 1, "Transfer": 1 },
+      "Crop": [12, 12, 0, 0],
+      "Duration": { "Hours": 1, "Minutes": 52, "Seconds": 13, "Ticks": 606049200 },
+      "FrameRate": { "Den": 1080000, "Num": 27000000 },
+      "Geometry": { "Height": 576, "PAR": { "Den": 45, "Num": 64 }, "Width": 720 },
+      "Index": 36,
+      "InterlaceDetected": false,
+      "LooseCrop": [12, 12, 0, 0],
+      "Metadata": {},
+      "Name": "GEMINI_MAN",
+      "Path": "/dev/sr0",
+      "Playlist": -1,
+      "SubtitleList": [
+        {
+          "Attributes": {
+            "4By3": false,
+            "Children": false,
+            "ClosedCaption": false,
+            "Commentary": false,
+            "Default": false,
+            "Forced": false,
+            "Large": false,
+            "Letterbox": false,
+            "Normal": false,
+            "PanScan": false,
+            "Wide": true
+          },
+          "Format": "bitmap",
+          "Language": "English (Wide Screen) [VOBSUB]",
+          "LanguageCode": "eng",
+          "Source": 0,
+          "SourceName": "VOBSUB",
+          "TrackNumber": 1
+        },
+        {
+          "Attributes": {
+            "4By3": false,
+            "Children": false,
+            "ClosedCaption": false,
+            "Commentary": false,
+            "Default": false,
+            "Forced": false,
+            "Large": false,
+            "Letterbox": false,
+            "Normal": false,
+            "PanScan": false,
+            "Wide": true
+          },
+          "Format": "bitmap",
+          "Language": "Deutsch (Wide Screen) [VOBSUB]",
+          "LanguageCode": "deu",
+          "Source": 0,
+          "SourceName": "VOBSUB",
+          "TrackNumber": 2
+        },
+        {
+          "Attributes": {
+            "4By3": false,
+            "Children": false,
+            "ClosedCaption": false,
+            "Commentary": false,
+            "Default": false,
+            "Forced": false,
+            "Large": false,
+            "Letterbox": false,
+            "Normal": false,
+            "PanScan": false,
+            "Wide": true
+          },
+          "Format": "bitmap",
+          "Language": "español (Wide Screen) [VOBSUB]",
+          "LanguageCode": "spa",
+          "Source": 0,
+          "SourceName": "VOBSUB",
+          "TrackNumber": 3
+        },
+        {
+          "Attributes": {
+            "4By3": false,
+            "Children": false,
+            "ClosedCaption": false,
+            "Commentary": false,
+            "Default": false,
+            "Forced": false,
+            "Large": false,
+            "Letterbox": false,
+            "Normal": false,
+            "PanScan": false,
+            "Wide": true
+          },
+          "Format": "bitmap",
+          "Language": "Türkçe (Wide Screen) [VOBSUB]",
+          "LanguageCode": "tur",
+          "Source": 0,
+          "SourceName": "VOBSUB",
+          "TrackNumber": 4
+        }
+      ],
+      "Type": 0,
+      "VideoCodec": "mpeg2video"
+    },
+    {
+      "AngleCount": 1,
+      "AudioList": [
+        {
+          "Attributes": {
+            "AltCommentary": false,
+            "Commentary": false,
+            "Default": false,
+            "Normal": false,
+            "Secondary": false,
+            "VisuallyImpaired": false
+          },
+          "BitRate": 448000,
+          "ChannelCount": 6,
+          "ChannelLayout": 1551,
+          "ChannelLayoutName": "5.1(side)",
+          "Codec": 2048,
+          "CodecName": "ac3",
+          "CodecParam": 86019,
+          "Description": "English (AC3) (5.1 ch) (448 kbps)",
+          "LFECount": 1,
+          "Language": "English",
+          "LanguageCode": "eng",
+          "SampleRate": 48000,
+          "TrackNumber": 1
+        }
+      ],
+      "ChapterList": [
+        { "Duration": { "Hours": 0, "Minutes": 17, "Seconds": 47, "Ticks": 96040800 }, "Name": "Chapter 1" },
+        { "Duration": { "Hours": 0, "Minutes": 0, "Seconds": 0, "Ticks": 43200 }, "Name": "Chapter 2" }
+      ],
+      "Color": { "ChromaLocation": 1, "Format": 0, "Matrix": 6, "Primary": 5, "Range": 1, "Transfer": 1 },
+      "Crop": [0, 0, 0, 0],
+      "Duration": { "Hours": 0, "Minutes": 17, "Seconds": 47, "Ticks": 96084000 },
+      "FrameRate": { "Den": 1080000, "Num": 27000000 },
+      "Geometry": { "Height": 576, "PAR": { "Den": 45, "Num": 64 }, "Width": 720 },
+      "Index": 37,
+      "InterlaceDetected": false,
+      "LooseCrop": [0, 0, 0, 0],
+      "Metadata": {},
+      "Name": "GEMINI_MAN",
+      "Path": "/dev/sr0",
+      "Playlist": -1,
+      "SubtitleList": [
+        {
+          "Attributes": {
+            "4By3": false,
+            "Children": false,
+            "ClosedCaption": false,
+            "Commentary": false,
+            "Default": false,
+            "Forced": false,
+            "Large": false,
+            "Letterbox": false,
+            "Normal": false,
+            "PanScan": false,
+            "Wide": true
+          },
+          "Format": "bitmap",
+          "Language": "English (Wide Screen) [VOBSUB]",
+          "LanguageCode": "eng",
+          "Source": 0,
+          "SourceName": "VOBSUB",
+          "TrackNumber": 1
+        },
+        {
+          "Attributes": {
+            "4By3": false,
+            "Children": false,
+            "ClosedCaption": false,
+            "Commentary": false,
+            "Default": false,
+            "Forced": false,
+            "Large": false,
+            "Letterbox": false,
+            "Normal": false,
+            "PanScan": false,
+            "Wide": true
+          },
+          "Format": "bitmap",
+          "Language": "Deutsch (Wide Screen) [VOBSUB]",
+          "LanguageCode": "deu",
+          "Source": 0,
+          "SourceName": "VOBSUB",
+          "TrackNumber": 2
+        },
+        {
+          "Attributes": {
+            "4By3": false,
+            "Children": false,
+            "ClosedCaption": false,
+            "Commentary": false,
+            "Default": false,
+            "Forced": false,
+            "Large": false,
+            "Letterbox": false,
+            "Normal": false,
+            "PanScan": false,
+            "Wide": true
+          },
+          "Format": "bitmap",
+          "Language": "español (Wide Screen) [VOBSUB]",
+          "LanguageCode": "spa",
+          "Source": 0,
+          "SourceName": "VOBSUB",
+          "TrackNumber": 3
+        },
+        {
+          "Attributes": {
+            "4By3": false,
+            "Children": false,
+            "ClosedCaption": false,
+            "Commentary": false,
+            "Default": false,
+            "Forced": false,
+            "Large": false,
+            "Letterbox": false,
+            "Normal": false,
+            "PanScan": false,
+            "Wide": true
+          },
+          "Format": "bitmap",
+          "Language": "Türkçe (Wide Screen) [VOBSUB]",
+          "LanguageCode": "tur",
+          "Source": 0,
+          "SourceName": "VOBSUB",
+          "TrackNumber": 4
+        }
+      ],
+      "Type": 0,
+      "VideoCodec": "mpeg2video"
+    }
+  ]
+}

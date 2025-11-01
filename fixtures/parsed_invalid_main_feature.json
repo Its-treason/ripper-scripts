@@ -1,0 +1,1873 @@
+{
+  "MainFeature": 1,
+  "TitleList": [
+    {
+      "AngleCount": 1,
+      "AudioList": [
+        {
+          "Attributes": {
+            "AltCommentary": false,
+            "Commentary": false,
+            "Default": false,
+            "Normal": false,
+            "Secondary": false,
+            "VisuallyImpaired": false
+          },
+          "BitRate": 448000,
+          "ChannelCount": 6,
+          "ChannelLayout": 1551,
+          "ChannelLayoutName": "5.1(side)",
+          "Codec": 2048,
+          "CodecName": "ac3",
+          "CodecParam": 86019,
+          "Description": "English (AC3) (5.1 ch) (448 kbps)",
+          "LFECount": 1,
+          "Language": "English",
+          "LanguageCode": "eng",
+          "SampleRate": 48000,
+          "TrackNumber": 1
+        },
+        {
+          "Attributes": {
+            "AltCommentary": false,
+            "Commentary": false,
+            "Default": false,
+            "Normal": false,
+            "Secondary": false,
+            "VisuallyImpaired": false
+          },
+          "BitRate": 384000,
+          "ChannelCount": 6,
+          "ChannelLayout": 1551,
+          "ChannelLayoutName": "5.1(side)",
+          "Codec": 2048,
+          "CodecName": "ac3",
+          "CodecParam": 86019,
+          "Description": "English (AC3) (5.1 ch) (384 kbps)",
+          "LFECount": 1,
+          "Language": "English",
+          "LanguageCode": "eng",
+          "SampleRate": 48000,
+          "TrackNumber": 2
+        },
+        {
+          "Attributes": {
+            "AltCommentary": false,
+            "Commentary": false,
+            "Default": false,
+            "Normal": false,
+            "Secondary": false,
+            "VisuallyImpaired": false
+          },
+          "BitRate": 384000,
+          "ChannelCount": 6,
+          "ChannelLayout": 1551,
+          "ChannelLayoutName": "5.1(side)",
+          "Codec": 2048,
+          "CodecName": "ac3",
+          "CodecParam": 86019,
+          "Description": "Deutsch (AC3) (5.1 ch) (384 kbps)",
+          "LFECount": 1,
+          "Language": "Deutsch",
+          "LanguageCode": "deu",
+          "SampleRate": 48000,
+          "TrackNumber": 3
+        },
+        {
+          "Attributes": {
+            "AltCommentary": false,
+            "Commentary": false,
+            "Default": false,
+            "Normal": false,
+            "Secondary": false,
+            "VisuallyImpaired": false
+          },
+          "BitRate": 384000,
+          "ChannelCount": 6,
+          "ChannelLayout": 1551,
+          "ChannelLayoutName": "5.1(side)",
+          "Codec": 2048,
+          "CodecName": "ac3",
+          "CodecParam": 86019,
+          "Description": "русский (AC3) (5.1 ch) (384 kbps)",
+          "LFECount": 1,
+          "Language": "русский",
+          "LanguageCode": "rus",
+          "SampleRate": 48000,
+          "TrackNumber": 4
+        },
+        {
+          "Attributes": {
+            "AltCommentary": false,
+            "Commentary": false,
+            "Default": false,
+            "Normal": false,
+            "Secondary": false,
+            "VisuallyImpaired": false
+          },
+          "BitRate": 384000,
+          "ChannelCount": 6,
+          "ChannelLayout": 1551,
+          "ChannelLayoutName": "5.1(side)",
+          "Codec": 2048,
+          "CodecName": "ac3",
+          "CodecParam": 86019,
+          "Description": "español (AC3) (5.1 ch) (384 kbps)",
+          "LFECount": 1,
+          "Language": "español",
+          "LanguageCode": "spa",
+          "SampleRate": 48000,
+          "TrackNumber": 5
+        }
+      ],
+      "ChapterList": [
+        { "Duration": { "Hours": 0, "Minutes": 6, "Seconds": 49, "Ticks": 36802800 }, "Name": "Chapter 1" },
+        { "Duration": { "Hours": 0, "Minutes": 6, "Seconds": 33, "Ticks": 35373600 }, "Name": "Chapter 2" },
+        { "Duration": { "Hours": 0, "Minutes": 6, "Seconds": 24, "Ticks": 34581600 }, "Name": "Chapter 3" },
+        { "Duration": { "Hours": 0, "Minutes": 4, "Seconds": 18, "Ticks": 23191200 }, "Name": "Chapter 4" },
+        { "Duration": { "Hours": 0, "Minutes": 6, "Seconds": 48, "Ticks": 36738000 }, "Name": "Chapter 5" },
+        { "Duration": { "Hours": 0, "Minutes": 9, "Seconds": 7, "Ticks": 49226400 }, "Name": "Chapter 6" },
+        { "Duration": { "Hours": 0, "Minutes": 4, "Seconds": 46, "Ticks": 25711200 }, "Name": "Chapter 7" },
+        { "Duration": { "Hours": 0, "Minutes": 6, "Seconds": 39, "Ticks": 35928000 }, "Name": "Chapter 8" },
+        { "Duration": { "Hours": 0, "Minutes": 8, "Seconds": 31, "Ticks": 45993600 }, "Name": "Chapter 9" },
+        { "Duration": { "Hours": 0, "Minutes": 6, "Seconds": 15, "Ticks": 33735600 }, "Name": "Chapter 10" },
+        { "Duration": { "Hours": 0, "Minutes": 3, "Seconds": 34, "Ticks": 19263600 }, "Name": "Chapter 11" },
+        { "Duration": { "Hours": 0, "Minutes": 6, "Seconds": 17, "Ticks": 33955200 }, "Name": "Chapter 12" },
+        { "Duration": { "Hours": 0, "Minutes": 7, "Seconds": 15, "Ticks": 39193200 }, "Name": "Chapter 13" },
+        { "Duration": { "Hours": 0, "Minutes": 4, "Seconds": 7, "Ticks": 22215600 }, "Name": "Chapter 14" },
+        { "Duration": { "Hours": 0, "Minutes": 7, "Seconds": 6, "Ticks": 38336400 }, "Name": "Chapter 15" },
+        { "Duration": { "Hours": 0, "Minutes": 10, "Seconds": 22, "Ticks": 55936800 }, "Name": "Chapter 16" }
+      ],
+      "Color": { "ChromaLocation": 1, "Format": 0, "Matrix": 6, "Primary": 5, "Range": 1, "Transfer": 1 },
+      "Crop": [74, 74, 0, 0],
+      "Duration": { "Hours": 1, "Minutes": 44, "Seconds": 50, "Ticks": 566182800 },
+      "FrameRate": { "Den": 1080000, "Num": 27000000 },
+      "Geometry": { "Height": 576, "PAR": { "Den": 45, "Num": 64 }, "Width": 720 },
+      "Index": 1,
+      "InterlaceDetected": false,
+      "LooseCrop": [74, 74, 0, 0],
+      "Metadata": {},
+      "Name": "BLOODSHOT",
+      "Path": "/dev/sr0",
+      "Playlist": -1,
+      "SubtitleList": [
+        {
+          "Attributes": {
+            "4By3": false,
+            "Children": false,
+            "ClosedCaption": false,
+            "Commentary": false,
+            "Default": false,
+            "Forced": false,
+            "Large": false,
+            "Letterbox": false,
+            "Normal": false,
+            "PanScan": false,
+            "Wide": true
+          },
+          "Format": "bitmap",
+          "Language": "English (Wide Screen) [VOBSUB]",
+          "LanguageCode": "eng",
+          "Source": 0,
+          "SourceName": "VOBSUB",
+          "TrackNumber": 1
+        },
+        {
+          "Attributes": {
+            "4By3": false,
+            "Children": false,
+            "ClosedCaption": false,
+            "Commentary": false,
+            "Default": false,
+            "Forced": false,
+            "Large": false,
+            "Letterbox": false,
+            "Normal": false,
+            "PanScan": false,
+            "Wide": true
+          },
+          "Format": "bitmap",
+          "Language": "English (Wide Screen) [VOBSUB]",
+          "LanguageCode": "eng",
+          "Source": 0,
+          "SourceName": "VOBSUB",
+          "TrackNumber": 2
+        },
+        {
+          "Attributes": {
+            "4By3": false,
+            "Children": false,
+            "ClosedCaption": false,
+            "Commentary": false,
+            "Default": false,
+            "Forced": false,
+            "Large": false,
+            "Letterbox": false,
+            "Normal": false,
+            "PanScan": false,
+            "Wide": true
+          },
+          "Format": "bitmap",
+          "Language": "dansk (Wide Screen) [VOBSUB]",
+          "LanguageCode": "dan",
+          "Source": 0,
+          "SourceName": "VOBSUB",
+          "TrackNumber": 3
+        },
+        {
+          "Attributes": {
+            "4By3": false,
+            "Children": false,
+            "ClosedCaption": false,
+            "Commentary": false,
+            "Default": false,
+            "Forced": false,
+            "Large": false,
+            "Letterbox": false,
+            "Normal": false,
+            "PanScan": false,
+            "Wide": true
+          },
+          "Format": "bitmap",
+          "Language": "eesti (Wide Screen) [VOBSUB]",
+          "LanguageCode": "est",
+          "Source": 0,
+          "SourceName": "VOBSUB",
+          "TrackNumber": 4
+        },
+        {
+          "Attributes": {
+            "4By3": false,
+            "Children": false,
+            "ClosedCaption": false,
+            "Commentary": false,
+            "Default": false,
+            "Forced": false,
+            "Large": false,
+            "Letterbox": false,
+            "Normal": false,
+            "PanScan": false,
+            "Wide": true
+          },
+          "Format": "bitmap",
+          "Language": "suomi (Wide Screen) [VOBSUB]",
+          "LanguageCode": "fin",
+          "Source": 0,
+          "SourceName": "VOBSUB",
+          "TrackNumber": 5
+        },
+        {
+          "Attributes": {
+            "4By3": false,
+            "Children": false,
+            "ClosedCaption": false,
+            "Commentary": false,
+            "Default": false,
+            "Forced": false,
+            "Large": false,
+            "Letterbox": false,
+            "Normal": false,
+            "PanScan": false,
+            "Wide": true
+          },
+          "Format": "bitmap",
+          "Language": "Deutsch (Wide Screen) [VOBSUB]",
+          "LanguageCode": "deu",
+          "Source": 0,
+          "SourceName": "VOBSUB",
+          "TrackNumber": 6
+        },
+        {
+          "Attributes": {
+            "4By3": false,
+            "Children": false,
+            "ClosedCaption": false,
+            "Commentary": false,
+            "Default": false,
+            "Forced": false,
+            "Large": false,
+            "Letterbox": false,
+            "Normal": false,
+            "PanScan": false,
+            "Wide": true
+          },
+          "Format": "bitmap",
+          "Language": "latviešu (Wide Screen) [VOBSUB]",
+          "LanguageCode": "lav",
+          "Source": 0,
+          "SourceName": "VOBSUB",
+          "TrackNumber": 7
+        },
+        {
+          "Attributes": {
+            "4By3": false,
+            "Children": false,
+            "ClosedCaption": false,
+            "Commentary": false,
+            "Default": false,
+            "Forced": false,
+            "Large": false,
+            "Letterbox": false,
+            "Normal": false,
+            "PanScan": false,
+            "Wide": true
+          },
+          "Format": "bitmap",
+          "Language": "lietuvių (Wide Screen) [VOBSUB]",
+          "LanguageCode": "lit",
+          "Source": 0,
+          "SourceName": "VOBSUB",
+          "TrackNumber": 8
+        },
+        {
+          "Attributes": {
+            "4By3": false,
+            "Children": false,
+            "ClosedCaption": false,
+            "Commentary": false,
+            "Default": false,
+            "Forced": false,
+            "Large": false,
+            "Letterbox": false,
+            "Normal": false,
+            "PanScan": false,
+            "Wide": true
+          },
+          "Format": "bitmap",
+          "Language": "norsk (Wide Screen) [VOBSUB]",
+          "LanguageCode": "nor",
+          "Source": 0,
+          "SourceName": "VOBSUB",
+          "TrackNumber": 9
+        },
+        {
+          "Attributes": {
+            "4By3": false,
+            "Children": false,
+            "ClosedCaption": false,
+            "Commentary": false,
+            "Default": false,
+            "Forced": false,
+            "Large": false,
+            "Letterbox": false,
+            "Normal": false,
+            "PanScan": false,
+            "Wide": true
+          },
+          "Format": "bitmap",
+          "Language": "русский (Wide Screen) [VOBSUB]",
+          "LanguageCode": "rus",
+          "Source": 0,
+          "SourceName": "VOBSUB",
+          "TrackNumber": 10
+        },
+        {
+          "Attributes": {
+            "4By3": false,
+            "Children": false,
+            "ClosedCaption": false,
+            "Commentary": false,
+            "Default": false,
+            "Forced": false,
+            "Large": false,
+            "Letterbox": false,
+            "Normal": false,
+            "PanScan": false,
+            "Wide": true
+          },
+          "Format": "bitmap",
+          "Language": "español (Wide Screen) [VOBSUB]",
+          "LanguageCode": "spa",
+          "Source": 0,
+          "SourceName": "VOBSUB",
+          "TrackNumber": 11
+        },
+        {
+          "Attributes": {
+            "4By3": false,
+            "Children": false,
+            "ClosedCaption": false,
+            "Commentary": false,
+            "Default": false,
+            "Forced": false,
+            "Large": false,
+            "Letterbox": false,
+            "Normal": false,
+            "PanScan": false,
+            "Wide": true
+          },
+          "Format": "bitmap",
+          "Language": "svenska (Wide Screen) [VOBSUB]",
+          "LanguageCode": "swe",
+          "Source": 0,
+          "SourceName": "VOBSUB",
+          "TrackNumber": 12
+        },
+        {
+          "Attributes": {
+            "4By3": false,
+            "Children": false,
+            "ClosedCaption": false,
+            "Commentary": false,
+            "Default": false,
+            "Forced": false,
+            "Large": false,
+            "Letterbox": false,
+            "Normal": false,
+            "PanScan": false,
+            "Wide": true
+          },
+          "Format": "bitmap",
+          "Language": "Türkçe (Wide Screen) [VOBSUB]",
+          "LanguageCode": "tur",
+          "Source": 0,
+          "SourceName": "VOBSUB",
+          "TrackNumber": 13
+        },
+        {
+          "Attributes": {
+            "4By3": false,
+            "Children": false,
+            "ClosedCaption": false,
+            "Commentary": false,
+            "Default": false,
+            "Forced": false,
+            "Large": false,
+            "Letterbox": false,
+            "Normal": false,
+            "PanScan": false,
+            "Wide": true
+          },
+          "Format": "bitmap",
+          "Language": "українська (Wide Screen) [VOBSUB]",
+          "LanguageCode": "ukr",
+          "Source": 0,
+          "SourceName": "VOBSUB",
+          "TrackNumber": 14
+        }
+      ],
+      "Type": 0,
+      "VideoCodec": "mpeg2video"
+    },
+    {
+      "AngleCount": 1,
+      "AudioList": [
+        {
+          "Attributes": {
+            "AltCommentary": false,
+            "Commentary": false,
+            "Default": false,
+            "Normal": false,
+            "Secondary": false,
+            "VisuallyImpaired": false
+          },
+          "BitRate": 192000,
+          "ChannelCount": 2,
+          "ChannelLayout": 3,
+          "ChannelLayoutName": "stereo",
+          "Codec": 2048,
+          "CodecName": "ac3",
+          "CodecParam": 86019,
+          "Description": "English (AC3) (2.0 ch) (192 kbps)",
+          "LFECount": 0,
+          "Language": "English",
+          "LanguageCode": "eng",
+          "SampleRate": 48000,
+          "TrackNumber": 1
+        }
+      ],
+      "ChapterList": [
+        { "Duration": { "Hours": 0, "Minutes": 1, "Seconds": 59, "Ticks": 10749600 }, "Name": "Chapter 1" },
+        { "Duration": { "Hours": 0, "Minutes": 0, "Seconds": 1, "Ticks": 54000 }, "Name": "Chapter 2" }
+      ],
+      "Color": { "ChromaLocation": 1, "Format": 0, "Matrix": 6, "Primary": 5, "Range": 1, "Transfer": 1 },
+      "Crop": [76, 74, 0, 0],
+      "Duration": { "Hours": 0, "Minutes": 2, "Seconds": 0, "Ticks": 10803600 },
+      "FrameRate": { "Den": 1080000, "Num": 27000000 },
+      "Geometry": { "Height": 576, "PAR": { "Den": 45, "Num": 64 }, "Width": 720 },
+      "Index": 4,
+      "InterlaceDetected": false,
+      "LooseCrop": [72, 72, 0, 0],
+      "Metadata": {},
+      "Name": "BLOODSHOT",
+      "Path": "/dev/sr0",
+      "Playlist": -1,
+      "SubtitleList": [
+        {
+          "Attributes": {
+            "4By3": false,
+            "Children": false,
+            "ClosedCaption": false,
+            "Commentary": false,
+            "Default": false,
+            "Forced": false,
+            "Large": false,
+            "Letterbox": false,
+            "Normal": false,
+            "PanScan": false,
+            "Wide": true
+          },
+          "Format": "bitmap",
+          "Language": "English (Wide Screen) [VOBSUB]",
+          "LanguageCode": "eng",
+          "Source": 0,
+          "SourceName": "VOBSUB",
+          "TrackNumber": 1
+        },
+        {
+          "Attributes": {
+            "4By3": false,
+            "Children": false,
+            "ClosedCaption": false,
+            "Commentary": false,
+            "Default": false,
+            "Forced": false,
+            "Large": false,
+            "Letterbox": false,
+            "Normal": false,
+            "PanScan": false,
+            "Wide": true
+          },
+          "Format": "bitmap",
+          "Language": "Deutsch (Wide Screen) [VOBSUB]",
+          "LanguageCode": "deu",
+          "Source": 0,
+          "SourceName": "VOBSUB",
+          "TrackNumber": 2
+        },
+        {
+          "Attributes": {
+            "4By3": false,
+            "Children": false,
+            "ClosedCaption": false,
+            "Commentary": false,
+            "Default": false,
+            "Forced": false,
+            "Large": false,
+            "Letterbox": false,
+            "Normal": false,
+            "PanScan": false,
+            "Wide": true
+          },
+          "Format": "bitmap",
+          "Language": "español (Wide Screen) [VOBSUB]",
+          "LanguageCode": "spa",
+          "Source": 0,
+          "SourceName": "VOBSUB",
+          "TrackNumber": 3
+        }
+      ],
+      "Type": 0,
+      "VideoCodec": "mpeg2video"
+    },
+    {
+      "AngleCount": 1,
+      "AudioList": [
+        {
+          "Attributes": {
+            "AltCommentary": false,
+            "Commentary": false,
+            "Default": false,
+            "Normal": false,
+            "Secondary": false,
+            "VisuallyImpaired": false
+          },
+          "BitRate": 192000,
+          "ChannelCount": 2,
+          "ChannelLayout": 3,
+          "ChannelLayoutName": "stereo",
+          "Codec": 2048,
+          "CodecName": "ac3",
+          "CodecParam": 86019,
+          "Description": "English (AC3) (2.0 ch) (192 kbps)",
+          "LFECount": 0,
+          "Language": "English",
+          "LanguageCode": "eng",
+          "SampleRate": 48000,
+          "TrackNumber": 1
+        }
+      ],
+      "ChapterList": [
+        { "Duration": { "Hours": 0, "Minutes": 9, "Seconds": 17, "Ticks": 50112000 }, "Name": "Chapter 1" },
+        { "Duration": { "Hours": 0, "Minutes": 0, "Seconds": 1, "Ticks": 54000 }, "Name": "Chapter 2" }
+      ],
+      "Color": { "ChromaLocation": 1, "Format": 0, "Matrix": 6, "Primary": 5, "Range": 1, "Transfer": 1 },
+      "Crop": [0, 0, 0, 0],
+      "Duration": { "Hours": 0, "Minutes": 9, "Seconds": 17, "Ticks": 50166000 },
+      "FrameRate": { "Den": 1080000, "Num": 27000000 },
+      "Geometry": { "Height": 576, "PAR": { "Den": 45, "Num": 64 }, "Width": 720 },
+      "Index": 5,
+      "InterlaceDetected": false,
+      "LooseCrop": [0, 0, 0, 0],
+      "Metadata": {},
+      "Name": "BLOODSHOT",
+      "Path": "/dev/sr0",
+      "Playlist": -1,
+      "SubtitleList": [
+        {
+          "Attributes": {
+            "4By3": false,
+            "Children": false,
+            "ClosedCaption": false,
+            "Commentary": false,
+            "Default": false,
+            "Forced": false,
+            "Large": false,
+            "Letterbox": false,
+            "Normal": false,
+            "PanScan": false,
+            "Wide": true
+          },
+          "Format": "bitmap",
+          "Language": "English (Wide Screen) [VOBSUB]",
+          "LanguageCode": "eng",
+          "Source": 0,
+          "SourceName": "VOBSUB",
+          "TrackNumber": 1
+        },
+        {
+          "Attributes": {
+            "4By3": false,
+            "Children": false,
+            "ClosedCaption": false,
+            "Commentary": false,
+            "Default": false,
+            "Forced": false,
+            "Large": false,
+            "Letterbox": false,
+            "Normal": false,
+            "PanScan": false,
+            "Wide": true
+          },
+          "Format": "bitmap",
+          "Language": "Deutsch (Wide Screen) [VOBSUB]",
+          "LanguageCode": "deu",
+          "Source": 0,
+          "SourceName": "VOBSUB",
+          "TrackNumber": 2
+        },
+        {
+          "Attributes": {
+            "4By3": false,
+            "Children": false,
+            "ClosedCaption": false,
+            "Commentary": false,
+            "Default": false,
+            "Forced": false,
+            "Large": false,
+            "Letterbox": false,
+            "Normal": false,
+            "PanScan": false,
+            "Wide": true
+          },
+          "Format": "bitmap",
+          "Language": "español (Wide Screen) [VOBSUB]",
+          "LanguageCode": "spa",
+          "Source": 0,
+          "SourceName": "VOBSUB",
+          "TrackNumber": 3
+        }
+      ],
+      "Type": 0,
+      "VideoCodec": "mpeg2video"
+    },
+    {
+      "AngleCount": 1,
+      "AudioList": [
+        {
+          "Attributes": {
+            "AltCommentary": false,
+            "Commentary": false,
+            "Default": false,
+            "Normal": false,
+            "Secondary": false,
+            "VisuallyImpaired": false
+          },
+          "BitRate": 192000,
+          "ChannelCount": 2,
+          "ChannelLayout": 3,
+          "ChannelLayoutName": "stereo",
+          "Codec": 2048,
+          "CodecName": "ac3",
+          "CodecParam": 86019,
+          "Description": "English (AC3) (2.0 ch) (192 kbps)",
+          "LFECount": 0,
+          "Language": "English",
+          "LanguageCode": "eng",
+          "SampleRate": 48000,
+          "TrackNumber": 1
+        }
+      ],
+      "ChapterList": [
+        { "Duration": { "Hours": 0, "Minutes": 11, "Seconds": 13, "Ticks": 60580800 }, "Name": "Chapter 1" },
+        { "Duration": { "Hours": 0, "Minutes": 0, "Seconds": 1, "Ticks": 54000 }, "Name": "Chapter 2" }
+      ],
+      "Color": { "ChromaLocation": 1, "Format": 0, "Matrix": 6, "Primary": 5, "Range": 1, "Transfer": 1 },
+      "Crop": [0, 0, 0, 0],
+      "Duration": { "Hours": 0, "Minutes": 11, "Seconds": 13, "Ticks": 60634800 },
+      "FrameRate": { "Den": 1080000, "Num": 27000000 },
+      "Geometry": { "Height": 576, "PAR": { "Den": 45, "Num": 64 }, "Width": 720 },
+      "Index": 6,
+      "InterlaceDetected": false,
+      "LooseCrop": [0, 0, 0, 0],
+      "Metadata": {},
+      "Name": "BLOODSHOT",
+      "Path": "/dev/sr0",
+      "Playlist": -1,
+      "SubtitleList": [
+        {
+          "Attributes": {
+            "4By3": false,
+            "Children": false,
+            "ClosedCaption": false,
+            "Commentary": false,
+            "Default": false,
+            "Forced": false,
+            "Large": false,
+            "Letterbox": false,
+            "Normal": false,
+            "PanScan": false,
+            "Wide": true
+          },
+          "Format": "bitmap",
+          "Language": "English (Wide Screen) [VOBSUB]",
+          "LanguageCode": "eng",
+          "Source": 0,
+          "SourceName": "VOBSUB",
+          "TrackNumber": 1
+        },
+        {
+          "Attributes": {
+            "4By3": false,
+            "Children": false,
+            "ClosedCaption": false,
+            "Commentary": false,
+            "Default": false,
+            "Forced": false,
+            "Large": false,
+            "Letterbox": false,
+            "Normal": false,
+            "PanScan": false,
+            "Wide": true
+          },
+          "Format": "bitmap",
+          "Language": "Deutsch (Wide Screen) [VOBSUB]",
+          "LanguageCode": "deu",
+          "Source": 0,
+          "SourceName": "VOBSUB",
+          "TrackNumber": 2
+        },
+        {
+          "Attributes": {
+            "4By3": false,
+            "Children": false,
+            "ClosedCaption": false,
+            "Commentary": false,
+            "Default": false,
+            "Forced": false,
+            "Large": false,
+            "Letterbox": false,
+            "Normal": false,
+            "PanScan": false,
+            "Wide": true
+          },
+          "Format": "bitmap",
+          "Language": "español (Wide Screen) [VOBSUB]",
+          "LanguageCode": "spa",
+          "Source": 0,
+          "SourceName": "VOBSUB",
+          "TrackNumber": 3
+        }
+      ],
+      "Type": 0,
+      "VideoCodec": "mpeg2video"
+    },
+    {
+      "AngleCount": 1,
+      "AudioList": [
+        {
+          "Attributes": {
+            "AltCommentary": false,
+            "Commentary": false,
+            "Default": false,
+            "Normal": false,
+            "Secondary": false,
+            "VisuallyImpaired": false
+          },
+          "BitRate": 192000,
+          "ChannelCount": 2,
+          "ChannelLayout": 3,
+          "ChannelLayoutName": "stereo",
+          "Codec": 2048,
+          "CodecName": "ac3",
+          "CodecParam": 86019,
+          "Description": "English (AC3) (2.0 ch) (192 kbps)",
+          "LFECount": 0,
+          "Language": "English",
+          "LanguageCode": "eng",
+          "SampleRate": 48000,
+          "TrackNumber": 1
+        }
+      ],
+      "ChapterList": [
+        { "Duration": { "Hours": 0, "Minutes": 1, "Seconds": 59, "Ticks": 10749600 }, "Name": "Chapter 1" },
+        { "Duration": { "Hours": 0, "Minutes": 9, "Seconds": 17, "Ticks": 50112000 }, "Name": "Chapter 2" },
+        { "Duration": { "Hours": 0, "Minutes": 11, "Seconds": 13, "Ticks": 60580800 }, "Name": "Chapter 3" },
+        { "Duration": { "Hours": 0, "Minutes": 0, "Seconds": 1, "Ticks": 54000 }, "Name": "Chapter 4" }
+      ],
+      "Color": { "ChromaLocation": 1, "Format": 0, "Matrix": 6, "Primary": 5, "Range": 1, "Transfer": 1 },
+      "Crop": [0, 0, 0, 0],
+      "Duration": { "Hours": 0, "Minutes": 22, "Seconds": 29, "Ticks": 121496400 },
+      "FrameRate": { "Den": 1080000, "Num": 27000000 },
+      "Geometry": { "Height": 576, "PAR": { "Den": 45, "Num": 64 }, "Width": 720 },
+      "Index": 7,
+      "InterlaceDetected": false,
+      "LooseCrop": [0, 0, 0, 0],
+      "Metadata": {},
+      "Name": "BLOODSHOT",
+      "Path": "/dev/sr0",
+      "Playlist": -1,
+      "SubtitleList": [
+        {
+          "Attributes": {
+            "4By3": false,
+            "Children": false,
+            "ClosedCaption": false,
+            "Commentary": false,
+            "Default": false,
+            "Forced": false,
+            "Large": false,
+            "Letterbox": false,
+            "Normal": false,
+            "PanScan": false,
+            "Wide": true
+          },
+          "Format": "bitmap",
+          "Language": "English (Wide Screen) [VOBSUB]",
+          "LanguageCode": "eng",
+          "Source": 0,
+          "SourceName": "VOBSUB",
+          "TrackNumber": 1
+        },
+        {
+          "Attributes": {
+            "4By3": false,
+            "Children": false,
+            "ClosedCaption": false,
+            "Commentary": false,
+            "Default": false,
+            "Forced": false,
+            "Large": false,
+            "Letterbox": false,
+            "Normal": false,
+            "PanScan": false,
+            "Wide": true
+          },
+          "Format": "bitmap",
+          "Language": "Deutsch (Wide Screen) [VOBSUB]",
+          "LanguageCode": "deu",
+          "Source": 0,
+          "SourceName": "VOBSUB",
+          "TrackNumber": 2
+        },
+        {
+          "Attributes": {
+            "4By3": false,
+            "Children": false,
+            "ClosedCaption": false,
+            "Commentary": false,
+            "Default": false,
+            "Forced": false,
+            "Large": false,
+            "Letterbox": false,
+            "Normal": false,
+            "PanScan": false,
+            "Wide": true
+          },
+          "Format": "bitmap",
+          "Language": "español (Wide Screen) [VOBSUB]",
+          "LanguageCode": "spa",
+          "Source": 0,
+          "SourceName": "VOBSUB",
+          "TrackNumber": 3
+        }
+      ],
+      "Type": 0,
+      "VideoCodec": "mpeg2video"
+    },
+    {
+      "AngleCount": 1,
+      "AudioList": [
+        {
+          "Attributes": {
+            "AltCommentary": false,
+            "Commentary": false,
+            "Default": false,
+            "Normal": false,
+            "Secondary": false,
+            "VisuallyImpaired": false
+          },
+          "BitRate": 448000,
+          "ChannelCount": 6,
+          "ChannelLayout": 1551,
+          "ChannelLayoutName": "5.1(side)",
+          "Codec": 2048,
+          "CodecName": "ac3",
+          "CodecParam": 86019,
+          "Description": "English (AC3) (5.1 ch) (448 kbps)",
+          "LFECount": 1,
+          "Language": "English",
+          "LanguageCode": "eng",
+          "SampleRate": 48000,
+          "TrackNumber": 1
+        }
+      ],
+      "ChapterList": [
+        { "Duration": { "Hours": 0, "Minutes": 1, "Seconds": 18, "Ticks": 6980400 }, "Name": "Chapter 1" },
+        { "Duration": { "Hours": 0, "Minutes": 2, "Seconds": 46, "Ticks": 14896800 }, "Name": "Chapter 2" },
+        { "Duration": { "Hours": 0, "Minutes": 0, "Seconds": 27, "Ticks": 2415600 }, "Name": "Chapter 3" },
+        { "Duration": { "Hours": 0, "Minutes": 3, "Seconds": 13, "Ticks": 17380800 }, "Name": "Chapter 4" },
+        { "Duration": { "Hours": 0, "Minutes": 4, "Seconds": 26, "Ticks": 23983200 }, "Name": "Chapter 5" },
+        { "Duration": { "Hours": 0, "Minutes": 0, "Seconds": 1, "Ticks": 54000 }, "Name": "Chapter 6" }
+      ],
+      "Color": { "ChromaLocation": 1, "Format": 0, "Matrix": 6, "Primary": 5, "Range": 1, "Transfer": 1 },
+      "Crop": [76, 74, 0, 0],
+      "Duration": { "Hours": 0, "Minutes": 12, "Seconds": 10, "Ticks": 65710800 },
+      "FrameRate": { "Den": 1080000, "Num": 27000000 },
+      "Geometry": { "Height": 576, "PAR": { "Den": 45, "Num": 64 }, "Width": 720 },
+      "Index": 9,
+      "InterlaceDetected": false,
+      "LooseCrop": [0, 0, 0, 0],
+      "Metadata": {},
+      "Name": "BLOODSHOT",
+      "Path": "/dev/sr0",
+      "Playlist": -1,
+      "SubtitleList": [
+        {
+          "Attributes": {
+            "4By3": false,
+            "Children": false,
+            "ClosedCaption": false,
+            "Commentary": false,
+            "Default": false,
+            "Forced": false,
+            "Large": false,
+            "Letterbox": false,
+            "Normal": false,
+            "PanScan": false,
+            "Wide": true
+          },
+          "Format": "bitmap",
+          "Language": "English (Wide Screen) [VOBSUB]",
+          "LanguageCode": "eng",
+          "Source": 0,
+          "SourceName": "VOBSUB",
+          "TrackNumber": 1
+        },
+        {
+          "Attributes": {
+            "4By3": false,
+            "Children": false,
+            "ClosedCaption": false,
+            "Commentary": false,
+            "Default": false,
+            "Forced": false,
+            "Large": false,
+            "Letterbox": false,
+            "Normal": false,
+            "PanScan": false,
+            "Wide": true
+          },
+          "Format": "bitmap",
+          "Language": "Deutsch (Wide Screen) [VOBSUB]",
+          "LanguageCode": "deu",
+          "Source": 0,
+          "SourceName": "VOBSUB",
+          "TrackNumber": 2
+        },
+        {
+          "Attributes": {
+            "4By3": false,
+            "Children": false,
+            "ClosedCaption": false,
+            "Commentary": false,
+            "Default": false,
+            "Forced": false,
+            "Large": false,
+            "Letterbox": false,
+            "Normal": false,
+            "PanScan": false,
+            "Wide": true
+          },
+          "Format": "bitmap",
+          "Language": "español (Wide Screen) [VOBSUB]",
+          "LanguageCode": "spa",
+          "Source": 0,
+          "SourceName": "VOBSUB",
+          "TrackNumber": 3
+        }
+      ],
+      "Type": 0,
+      "VideoCodec": "mpeg2video"
+    },
+    {
+      "AngleCount": 1,
+      "AudioList": [
+        {
+          "Attributes": {
+            "AltCommentary": false,
+            "Commentary": false,
+            "Default": false,
+            "Normal": false,
+            "Secondary": false,
+            "VisuallyImpaired": false
+          },
+          "BitRate": 448000,
+          "ChannelCount": 6,
+          "ChannelLayout": 1551,
+          "ChannelLayoutName": "5.1(side)",
+          "Codec": 2048,
+          "CodecName": "ac3",
+          "CodecParam": 86019,
+          "Description": "English (AC3) (5.1 ch) (448 kbps)",
+          "LFECount": 1,
+          "Language": "English",
+          "LanguageCode": "eng",
+          "SampleRate": 48000,
+          "TrackNumber": 1
+        }
+      ],
+      "ChapterList": [
+        { "Duration": { "Hours": 0, "Minutes": 1, "Seconds": 23, "Ticks": 7434000 }, "Name": "Chapter 1" },
+        { "Duration": { "Hours": 0, "Minutes": 0, "Seconds": 1, "Ticks": 54000 }, "Name": "Chapter 2" }
+      ],
+      "Color": { "ChromaLocation": 1, "Format": 0, "Matrix": 6, "Primary": 5, "Range": 1, "Transfer": 1 },
+      "Crop": [76, 74, 0, 0],
+      "Duration": { "Hours": 0, "Minutes": 1, "Seconds": 23, "Ticks": 7488000 },
+      "FrameRate": { "Den": 1080000, "Num": 27000000 },
+      "Geometry": { "Height": 576, "PAR": { "Den": 45, "Num": 64 }, "Width": 720 },
+      "Index": 10,
+      "InterlaceDetected": false,
+      "LooseCrop": [74, 74, 0, 0],
+      "Metadata": {},
+      "Name": "BLOODSHOT",
+      "Path": "/dev/sr0",
+      "Playlist": -1,
+      "SubtitleList": [
+        {
+          "Attributes": {
+            "4By3": false,
+            "Children": false,
+            "ClosedCaption": false,
+            "Commentary": false,
+            "Default": false,
+            "Forced": false,
+            "Large": false,
+            "Letterbox": false,
+            "Normal": false,
+            "PanScan": false,
+            "Wide": true
+          },
+          "Format": "bitmap",
+          "Language": "English (Wide Screen) [VOBSUB]",
+          "LanguageCode": "eng",
+          "Source": 0,
+          "SourceName": "VOBSUB",
+          "TrackNumber": 1
+        },
+        {
+          "Attributes": {
+            "4By3": false,
+            "Children": false,
+            "ClosedCaption": false,
+            "Commentary": false,
+            "Default": false,
+            "Forced": false,
+            "Large": false,
+            "Letterbox": false,
+            "Normal": false,
+            "PanScan": false,
+            "Wide": true
+          },
+          "Format": "bitmap",
+          "Language": "Deutsch (Wide Screen) [VOBSUB]",
+          "LanguageCode": "deu",
+          "Source": 0,
+          "SourceName": "VOBSUB",
+          "TrackNumber": 2
+        },
+        {
+          "Attributes": {
+            "4By3": false,
+            "Children": false,
+            "ClosedCaption": false,
+            "Commentary": false,
+            "Default": false,
+            "Forced": false,
+            "Large": false,
+            "Letterbox": false,
+            "Normal": false,
+            "PanScan": false,
+            "Wide": true
+          },
+          "Format": "bitmap",
+          "Language": "español (Wide Screen) [VOBSUB]",
+          "LanguageCode": "spa",
+          "Source": 0,
+          "SourceName": "VOBSUB",
+          "TrackNumber": 3
+        }
+      ],
+      "Type": 0,
+      "VideoCodec": "mpeg2video"
+    },
+    {
+      "AngleCount": 1,
+      "AudioList": [
+        {
+          "Attributes": {
+            "AltCommentary": false,
+            "Commentary": false,
+            "Default": false,
+            "Normal": false,
+            "Secondary": false,
+            "VisuallyImpaired": false
+          },
+          "BitRate": 448000,
+          "ChannelCount": 6,
+          "ChannelLayout": 1551,
+          "ChannelLayoutName": "5.1(side)",
+          "Codec": 2048,
+          "CodecName": "ac3",
+          "CodecParam": 86019,
+          "Description": "English (AC3) (5.1 ch) (448 kbps)",
+          "LFECount": 1,
+          "Language": "English",
+          "LanguageCode": "eng",
+          "SampleRate": 48000,
+          "TrackNumber": 1
+        }
+      ],
+      "ChapterList": [
+        { "Duration": { "Hours": 0, "Minutes": 2, "Seconds": 51, "Ticks": 15350400 }, "Name": "Chapter 1" },
+        { "Duration": { "Hours": 0, "Minutes": 0, "Seconds": 1, "Ticks": 54000 }, "Name": "Chapter 2" }
+      ],
+      "Color": { "ChromaLocation": 1, "Format": 0, "Matrix": 6, "Primary": 5, "Range": 1, "Transfer": 1 },
+      "Crop": [76, 74, 0, 0],
+      "Duration": { "Hours": 0, "Minutes": 2, "Seconds": 51, "Ticks": 15404400 },
+      "FrameRate": { "Den": 1080000, "Num": 27000000 },
+      "Geometry": { "Height": 576, "PAR": { "Den": 45, "Num": 64 }, "Width": 720 },
+      "Index": 11,
+      "InterlaceDetected": false,
+      "LooseCrop": [74, 72, 0, 0],
+      "Metadata": {},
+      "Name": "BLOODSHOT",
+      "Path": "/dev/sr0",
+      "Playlist": -1,
+      "SubtitleList": [
+        {
+          "Attributes": {
+            "4By3": false,
+            "Children": false,
+            "ClosedCaption": false,
+            "Commentary": false,
+            "Default": false,
+            "Forced": false,
+            "Large": false,
+            "Letterbox": false,
+            "Normal": false,
+            "PanScan": false,
+            "Wide": true
+          },
+          "Format": "bitmap",
+          "Language": "English (Wide Screen) [VOBSUB]",
+          "LanguageCode": "eng",
+          "Source": 0,
+          "SourceName": "VOBSUB",
+          "TrackNumber": 1
+        },
+        {
+          "Attributes": {
+            "4By3": false,
+            "Children": false,
+            "ClosedCaption": false,
+            "Commentary": false,
+            "Default": false,
+            "Forced": false,
+            "Large": false,
+            "Letterbox": false,
+            "Normal": false,
+            "PanScan": false,
+            "Wide": true
+          },
+          "Format": "bitmap",
+          "Language": "Deutsch (Wide Screen) [VOBSUB]",
+          "LanguageCode": "deu",
+          "Source": 0,
+          "SourceName": "VOBSUB",
+          "TrackNumber": 2
+        },
+        {
+          "Attributes": {
+            "4By3": false,
+            "Children": false,
+            "ClosedCaption": false,
+            "Commentary": false,
+            "Default": false,
+            "Forced": false,
+            "Large": false,
+            "Letterbox": false,
+            "Normal": false,
+            "PanScan": false,
+            "Wide": true
+          },
+          "Format": "bitmap",
+          "Language": "español (Wide Screen) [VOBSUB]",
+          "LanguageCode": "spa",
+          "Source": 0,
+          "SourceName": "VOBSUB",
+          "TrackNumber": 3
+        }
+      ],
+      "Type": 0,
+      "VideoCodec": "mpeg2video"
+    },
+    {
+      "AngleCount": 1,
+      "AudioList": [
+        {
+          "Attributes": {
+            "AltCommentary": false,
+            "Commentary": false,
+            "Default": false,
+            "Normal": false,
+            "Secondary": false,
+            "VisuallyImpaired": false
+          },
+          "BitRate": 448000,
+          "ChannelCount": 6,
+          "ChannelLayout": 1551,
+          "ChannelLayoutName": "5.1(side)",
+          "Codec": 2048,
+          "CodecName": "ac3",
+          "CodecParam": 86019,
+          "Description": "English (AC3) (5.1 ch) (448 kbps)",
+          "LFECount": 1,
+          "Language": "English",
+          "LanguageCode": "eng",
+          "SampleRate": 48000,
+          "TrackNumber": 1
+        }
+      ],
+      "ChapterList": [
+        { "Duration": { "Hours": 0, "Minutes": 0, "Seconds": 32, "Ticks": 2869200 }, "Name": "Chapter 1" },
+        { "Duration": { "Hours": 0, "Minutes": 0, "Seconds": 1, "Ticks": 54000 }, "Name": "Chapter 2" }
+      ],
+      "Color": { "ChromaLocation": 1, "Format": 0, "Matrix": 6, "Primary": 5, "Range": 1, "Transfer": 1 },
+      "Crop": [76, 74, 0, 0],
+      "Duration": { "Hours": 0, "Minutes": 0, "Seconds": 32, "Ticks": 2923200 },
+      "FrameRate": { "Den": 1080000, "Num": 27000000 },
+      "Geometry": { "Height": 576, "PAR": { "Den": 45, "Num": 64 }, "Width": 720 },
+      "Index": 12,
+      "InterlaceDetected": false,
+      "LooseCrop": [76, 74, 0, 0],
+      "Metadata": {},
+      "Name": "BLOODSHOT",
+      "Path": "/dev/sr0",
+      "Playlist": -1,
+      "SubtitleList": [
+        {
+          "Attributes": {
+            "4By3": false,
+            "Children": false,
+            "ClosedCaption": false,
+            "Commentary": false,
+            "Default": false,
+            "Forced": false,
+            "Large": false,
+            "Letterbox": false,
+            "Normal": false,
+            "PanScan": false,
+            "Wide": true
+          },
+          "Format": "bitmap",
+          "Language": "English (Wide Screen) [VOBSUB]",
+          "LanguageCode": "eng",
+          "Source": 0,
+          "SourceName": "VOBSUB",
+          "TrackNumber": 1
+        },
+        {
+          "Attributes": {
+            "4By3": false,
+            "Children": false,
+            "ClosedCaption": false,
+            "Commentary": false,
+            "Default": false,
+            "Forced": false,
+            "Large": false,
+            "Letterbox": false,
+            "Normal": false,
+            "PanScan": false,
+            "Wide": true
+          },
+          "Format": "bitmap",
+          "Language": "Deutsch (Wide Screen) [VOBSUB]",
+          "LanguageCode": "deu",
+          "Source": 0,
+          "SourceName": "VOBSUB",
+          "TrackNumber": 2
+        },
+        {
+          "Attributes": {
+            "4By3": false,
+            "Children": false,
+            "ClosedCaption": false,
+            "Commentary": false,
+            "Default": false,
+            "Forced": false,
+            "Large": false,
+            "Letterbox": false,
+            "Normal": false,
+            "PanScan": false,
+            "Wide": true
+          },
+          "Format": "bitmap",
+          "Language": "español (Wide Screen) [VOBSUB]",
+          "LanguageCode": "spa",
+          "Source": 0,
+          "SourceName": "VOBSUB",
+          "TrackNumber": 3
+        }
+      ],
+      "Type": 0,
+      "VideoCodec": "mpeg2video"
+    },
+    {
+      "AngleCount": 1,
+      "AudioList": [
+        {
+          "Attributes": {
+            "AltCommentary": false,
+            "Commentary": false,
+            "Default": false,
+            "Normal": false,
+            "Secondary": false,
+            "VisuallyImpaired": false
+          },
+          "BitRate": 448000,
+          "ChannelCount": 6,
+          "ChannelLayout": 1551,
+          "ChannelLayoutName": "5.1(side)",
+          "Codec": 2048,
+          "CodecName": "ac3",
+          "CodecParam": 86019,
+          "Description": "English (AC3) (5.1 ch) (448 kbps)",
+          "LFECount": 1,
+          "Language": "English",
+          "LanguageCode": "eng",
+          "SampleRate": 48000,
+          "TrackNumber": 1
+        }
+      ],
+      "ChapterList": [
+        { "Duration": { "Hours": 0, "Minutes": 3, "Seconds": 18, "Ticks": 17834400 }, "Name": "Chapter 1" },
+        { "Duration": { "Hours": 0, "Minutes": 0, "Seconds": 1, "Ticks": 54000 }, "Name": "Chapter 2" }
+      ],
+      "Color": { "ChromaLocation": 1, "Format": 0, "Matrix": 6, "Primary": 5, "Range": 1, "Transfer": 1 },
+      "Crop": [76, 74, 0, 0],
+      "Duration": { "Hours": 0, "Minutes": 3, "Seconds": 18, "Ticks": 17888400 },
+      "FrameRate": { "Den": 1080000, "Num": 27000000 },
+      "Geometry": { "Height": 576, "PAR": { "Den": 45, "Num": 64 }, "Width": 720 },
+      "Index": 13,
+      "InterlaceDetected": false,
+      "LooseCrop": [74, 74, 0, 0],
+      "Metadata": {},
+      "Name": "BLOODSHOT",
+      "Path": "/dev/sr0",
+      "Playlist": -1,
+      "SubtitleList": [
+        {
+          "Attributes": {
+            "4By3": false,
+            "Children": false,
+            "ClosedCaption": false,
+            "Commentary": false,
+            "Default": false,
+            "Forced": false,
+            "Large": false,
+            "Letterbox": false,
+            "Normal": false,
+            "PanScan": false,
+            "Wide": true
+          },
+          "Format": "bitmap",
+          "Language": "English (Wide Screen) [VOBSUB]",
+          "LanguageCode": "eng",
+          "Source": 0,
+          "SourceName": "VOBSUB",
+          "TrackNumber": 1
+        },
+        {
+          "Attributes": {
+            "4By3": false,
+            "Children": false,
+            "ClosedCaption": false,
+            "Commentary": false,
+            "Default": false,
+            "Forced": false,
+            "Large": false,
+            "Letterbox": false,
+            "Normal": false,
+            "PanScan": false,
+            "Wide": true
+          },
+          "Format": "bitmap",
+          "Language": "Deutsch (Wide Screen) [VOBSUB]",
+          "LanguageCode": "deu",
+          "Source": 0,
+          "SourceName": "VOBSUB",
+          "TrackNumber": 2
+        },
+        {
+          "Attributes": {
+            "4By3": false,
+            "Children": false,
+            "ClosedCaption": false,
+            "Commentary": false,
+            "Default": false,
+            "Forced": false,
+            "Large": false,
+            "Letterbox": false,
+            "Normal": false,
+            "PanScan": false,
+            "Wide": true
+          },
+          "Format": "bitmap",
+          "Language": "español (Wide Screen) [VOBSUB]",
+          "LanguageCode": "spa",
+          "Source": 0,
+          "SourceName": "VOBSUB",
+          "TrackNumber": 3
+        }
+      ],
+      "Type": 0,
+      "VideoCodec": "mpeg2video"
+    },
+    {
+      "AngleCount": 1,
+      "AudioList": [
+        {
+          "Attributes": {
+            "AltCommentary": false,
+            "Commentary": false,
+            "Default": false,
+            "Normal": false,
+            "Secondary": false,
+            "VisuallyImpaired": false
+          },
+          "BitRate": 448000,
+          "ChannelCount": 6,
+          "ChannelLayout": 1551,
+          "ChannelLayoutName": "5.1(side)",
+          "Codec": 2048,
+          "CodecName": "ac3",
+          "CodecParam": 86019,
+          "Description": "English (AC3) (5.1 ch) (448 kbps)",
+          "LFECount": 1,
+          "Language": "English",
+          "LanguageCode": "eng",
+          "SampleRate": 48000,
+          "TrackNumber": 1
+        }
+      ],
+      "ChapterList": [
+        { "Duration": { "Hours": 0, "Minutes": 4, "Seconds": 26, "Ticks": 23983200 }, "Name": "Chapter 1" },
+        { "Duration": { "Hours": 0, "Minutes": 0, "Seconds": 1, "Ticks": 54000 }, "Name": "Chapter 2" }
+      ],
+      "Color": { "ChromaLocation": 1, "Format": 0, "Matrix": 6, "Primary": 5, "Range": 1, "Transfer": 1 },
+      "Crop": [76, 74, 0, 0],
+      "Duration": { "Hours": 0, "Minutes": 4, "Seconds": 27, "Ticks": 24037200 },
+      "FrameRate": { "Den": 1080000, "Num": 27000000 },
+      "Geometry": { "Height": 576, "PAR": { "Den": 45, "Num": 64 }, "Width": 720 },
+      "Index": 14,
+      "InterlaceDetected": false,
+      "LooseCrop": [0, 0, 0, 0],
+      "Metadata": {},
+      "Name": "BLOODSHOT",
+      "Path": "/dev/sr0",
+      "Playlist": -1,
+      "SubtitleList": [
+        {
+          "Attributes": {
+            "4By3": false,
+            "Children": false,
+            "ClosedCaption": false,
+            "Commentary": false,
+            "Default": false,
+            "Forced": false,
+            "Large": false,
+            "Letterbox": false,
+            "Normal": false,
+            "PanScan": false,
+            "Wide": true
+          },
+          "Format": "bitmap",
+          "Language": "English (Wide Screen) [VOBSUB]",
+          "LanguageCode": "eng",
+          "Source": 0,
+          "SourceName": "VOBSUB",
+          "TrackNumber": 1
+        },
+        {
+          "Attributes": {
+            "4By3": false,
+            "Children": false,
+            "ClosedCaption": false,
+            "Commentary": false,
+            "Default": false,
+            "Forced": false,
+            "Large": false,
+            "Letterbox": false,
+            "Normal": false,
+            "PanScan": false,
+            "Wide": true
+          },
+          "Format": "bitmap",
+          "Language": "Deutsch (Wide Screen) [VOBSUB]",
+          "LanguageCode": "deu",
+          "Source": 0,
+          "SourceName": "VOBSUB",
+          "TrackNumber": 2
+        },
+        {
+          "Attributes": {
+            "4By3": false,
+            "Children": false,
+            "ClosedCaption": false,
+            "Commentary": false,
+            "Default": false,
+            "Forced": false,
+            "Large": false,
+            "Letterbox": false,
+            "Normal": false,
+            "PanScan": false,
+            "Wide": true
+          },
+          "Format": "bitmap",
+          "Language": "español (Wide Screen) [VOBSUB]",
+          "LanguageCode": "spa",
+          "Source": 0,
+          "SourceName": "VOBSUB",
+          "TrackNumber": 3
+        }
+      ],
+      "Type": 0,
+      "VideoCodec": "mpeg2video"
+    },
+    {
+      "AngleCount": 1,
+      "AudioList": [
+        {
+          "Attributes": {
+            "AltCommentary": false,
+            "Commentary": false,
+            "Default": false,
+            "Normal": false,
+            "Secondary": false,
+            "VisuallyImpaired": false
+          },
+          "BitRate": 448000,
+          "ChannelCount": 6,
+          "ChannelLayout": 1551,
+          "ChannelLayoutName": "5.1(side)",
+          "Codec": 2048,
+          "CodecName": "ac3",
+          "CodecParam": 86019,
+          "Description": "English (AC3) (5.1 ch) (448 kbps)",
+          "LFECount": 1,
+          "Language": "English",
+          "LanguageCode": "eng",
+          "SampleRate": 48000,
+          "TrackNumber": 1
+        }
+      ],
+      "ChapterList": [
+        { "Duration": { "Hours": 0, "Minutes": 1, "Seconds": 23, "Ticks": 7434000 }, "Name": "Chapter 1" },
+        { "Duration": { "Hours": 0, "Minutes": 2, "Seconds": 51, "Ticks": 15350400 }, "Name": "Chapter 2" },
+        { "Duration": { "Hours": 0, "Minutes": 0, "Seconds": 32, "Ticks": 2869200 }, "Name": "Chapter 3" },
+        { "Duration": { "Hours": 0, "Minutes": 3, "Seconds": 18, "Ticks": 17834400 }, "Name": "Chapter 4" },
+        { "Duration": { "Hours": 0, "Minutes": 4, "Seconds": 26, "Ticks": 23983200 }, "Name": "Chapter 5" },
+        { "Duration": { "Hours": 0, "Minutes": 0, "Seconds": 1, "Ticks": 54000 }, "Name": "Chapter 6" }
+      ],
+      "Color": { "ChromaLocation": 1, "Format": 0, "Matrix": 6, "Primary": 5, "Range": 1, "Transfer": 1 },
+      "Crop": [76, 74, 0, 0],
+      "Duration": { "Hours": 0, "Minutes": 12, "Seconds": 30, "Ticks": 67525200 },
+      "FrameRate": { "Den": 1080000, "Num": 27000000 },
+      "Geometry": { "Height": 576, "PAR": { "Den": 45, "Num": 64 }, "Width": 720 },
+      "Index": 15,
+      "InterlaceDetected": false,
+      "LooseCrop": [74, 74, 0, 0],
+      "Metadata": {},
+      "Name": "BLOODSHOT",
+      "Path": "/dev/sr0",
+      "Playlist": -1,
+      "SubtitleList": [
+        {
+          "Attributes": {
+            "4By3": false,
+            "Children": false,
+            "ClosedCaption": false,
+            "Commentary": false,
+            "Default": false,
+            "Forced": false,
+            "Large": false,
+            "Letterbox": false,
+            "Normal": false,
+            "PanScan": false,
+            "Wide": true
+          },
+          "Format": "bitmap",
+          "Language": "English (Wide Screen) [VOBSUB]",
+          "LanguageCode": "eng",
+          "Source": 0,
+          "SourceName": "VOBSUB",
+          "TrackNumber": 1
+        },
+        {
+          "Attributes": {
+            "4By3": false,
+            "Children": false,
+            "ClosedCaption": false,
+            "Commentary": false,
+            "Default": false,
+            "Forced": false,
+            "Large": false,
+            "Letterbox": false,
+            "Normal": false,
+            "PanScan": false,
+            "Wide": true
+          },
+          "Format": "bitmap",
+          "Language": "Deutsch (Wide Screen) [VOBSUB]",
+          "LanguageCode": "deu",
+          "Source": 0,
+          "SourceName": "VOBSUB",
+          "TrackNumber": 2
+        },
+        {
+          "Attributes": {
+            "4By3": false,
+            "Children": false,
+            "ClosedCaption": false,
+            "Commentary": false,
+            "Default": false,
+            "Forced": false,
+            "Large": false,
+            "Letterbox": false,
+            "Normal": false,
+            "PanScan": false,
+            "Wide": true
+          },
+          "Format": "bitmap",
+          "Language": "español (Wide Screen) [VOBSUB]",
+          "LanguageCode": "spa",
+          "Source": 0,
+          "SourceName": "VOBSUB",
+          "TrackNumber": 3
+        }
+      ],
+      "Type": 0,
+      "VideoCodec": "mpeg2video"
+    },
+    {
+      "AngleCount": 1,
+      "AudioList": [
+        {
+          "Attributes": {
+            "AltCommentary": false,
+            "Commentary": false,
+            "Default": false,
+            "Normal": false,
+            "Secondary": false,
+            "VisuallyImpaired": false
+          },
+          "BitRate": 384000,
+          "ChannelCount": 6,
+          "ChannelLayout": 1551,
+          "ChannelLayoutName": "5.1(side)",
+          "Codec": 2048,
+          "CodecName": "ac3",
+          "CodecParam": 86019,
+          "Description": "Unknown (AC3) (5.1 ch) (384 kbps)",
+          "LFECount": 1,
+          "Language": "Unknown",
+          "LanguageCode": "und",
+          "SampleRate": 48000,
+          "TrackNumber": 1
+        }
+      ],
+      "ChapterList": [
+        { "Duration": { "Hours": 0, "Minutes": 0, "Seconds": 14, "Ticks": 1292400 }, "Name": "Chapter 1" },
+        { "Duration": { "Hours": 0, "Minutes": 0, "Seconds": 1, "Ticks": 54000 }, "Name": "Chapter 2" }
+      ],
+      "Color": { "ChromaLocation": 1, "Format": 0, "Matrix": 5, "Primary": 5, "Range": 1, "Transfer": 5 },
+      "Crop": [0, 0, 0, 0],
+      "Duration": { "Hours": 0, "Minutes": 0, "Seconds": 14, "Ticks": 1346400 },
+      "FrameRate": { "Den": 1080000, "Num": 27000000 },
+      "Geometry": { "Height": 576, "PAR": { "Den": 45, "Num": 64 }, "Width": 720 },
+      "Index": 37,
+      "InterlaceDetected": false,
+      "LooseCrop": [0, 0, 0, 0],
+      "Metadata": {},
+      "Name": "BLOODSHOT",
+      "Path": "/dev/sr0",
+      "Playlist": -1,
+      "SubtitleList": [],
+      "Type": 0,
+      "VideoCodec": "mpeg2video"
+    },
+    {
+      "AngleCount": 1,
+      "AudioList": [
+        {
+          "Attributes": {
+            "AltCommentary": false,
+            "Commentary": false,
+            "Default": false,
+            "Normal": false,
+            "Secondary": false,
+            "VisuallyImpaired": false
+          },
+          "BitRate": 192000,
+          "ChannelCount": 2,
+          "ChannelLayout": 3,
+          "ChannelLayoutName": "stereo",
+          "Codec": 2048,
+          "CodecName": "ac3",
+          "CodecParam": 86019,
+          "Description": "English (AC3) (2.0 ch) (192 kbps)",
+          "LFECount": 0,
+          "Language": "English",
+          "LanguageCode": "eng",
+          "SampleRate": 48000,
+          "TrackNumber": 1
+        }
+      ],
+      "ChapterList": [
+        { "Duration": { "Hours": 0, "Minutes": 0, "Seconds": 10, "Ticks": 900000 }, "Name": "Chapter 1" },
+        { "Duration": { "Hours": 0, "Minutes": 0, "Seconds": 1, "Ticks": 54000 }, "Name": "Chapter 2" }
+      ],
+      "Color": { "ChromaLocation": 1, "Format": 0, "Matrix": 6, "Primary": 5, "Range": 1, "Transfer": 1 },
+      "Crop": [0, 0, 0, 0],
+      "Duration": { "Hours": 0, "Minutes": 0, "Seconds": 10, "Ticks": 954000 },
+      "FrameRate": { "Den": 1080000, "Num": 27000000 },
+      "Geometry": { "Height": 576, "PAR": { "Den": 45, "Num": 64 }, "Width": 720 },
+      "Index": 38,
+      "InterlaceDetected": false,
+      "LooseCrop": [0, 0, 0, 0],
+      "Metadata": {},
+      "Name": "BLOODSHOT",
+      "Path": "/dev/sr0",
+      "Playlist": -1,
+      "SubtitleList": [],
+      "Type": 0,
+      "VideoCodec": "mpeg2video"
+    },
+    {
+      "AngleCount": 1,
+      "AudioList": [
+        {
+          "Attributes": {
+            "AltCommentary": false,
+            "Commentary": false,
+            "Default": false,
+            "Normal": false,
+            "Secondary": false,
+            "VisuallyImpaired": false
+          },
+          "BitRate": 192000,
+          "ChannelCount": 2,
+          "ChannelLayout": 3,
+          "ChannelLayoutName": "stereo",
+          "Codec": 2048,
+          "CodecName": "ac3",
+          "CodecParam": 86019,
+          "Description": "English (AC3) (2.0 ch) (192 kbps)",
+          "LFECount": 0,
+          "Language": "English",
+          "LanguageCode": "eng",
+          "SampleRate": 48000,
+          "TrackNumber": 1
+        }
+      ],
+      "ChapterList": [
+        { "Duration": { "Hours": 0, "Minutes": 0, "Seconds": 37, "Ticks": 3362400 }, "Name": "Chapter 1" },
+        { "Duration": { "Hours": 0, "Minutes": 0, "Seconds": 1, "Ticks": 54000 }, "Name": "Chapter 2" }
+      ],
+      "Color": { "ChromaLocation": 1, "Format": 0, "Matrix": 6, "Primary": 5, "Range": 1, "Transfer": 5 },
+      "Crop": [12, 12, 0, 0],
+      "Duration": { "Hours": 0, "Minutes": 0, "Seconds": 37, "Ticks": 3416400 },
+      "FrameRate": { "Den": 1080000, "Num": 27000000 },
+      "Geometry": { "Height": 576, "PAR": { "Den": 45, "Num": 64 }, "Width": 720 },
+      "Index": 39,
+      "InterlaceDetected": false,
+      "LooseCrop": [0, 0, 0, 0],
+      "Metadata": {},
+      "Name": "BLOODSHOT",
+      "Path": "/dev/sr0",
+      "Playlist": -1,
+      "SubtitleList": [],
+      "Type": 0,
+      "VideoCodec": "mpeg2video"
+    },
+    {
+      "AngleCount": 1,
+      "AudioList": [
+        {
+          "Attributes": {
+            "AltCommentary": false,
+            "Commentary": false,
+            "Default": false,
+            "Normal": false,
+            "Secondary": false,
+            "VisuallyImpaired": false
+          },
+          "BitRate": 192000,
+          "ChannelCount": 2,
+          "ChannelLayout": 3,
+          "ChannelLayoutName": "stereo",
+          "Codec": 2048,
+          "CodecName": "ac3",
+          "CodecParam": 86019,
+          "Description": "Unknown (AC3) (2.0 ch) (192 kbps)",
+          "LFECount": 0,
+          "Language": "Unknown",
+          "LanguageCode": "und",
+          "SampleRate": 48000,
+          "TrackNumber": 1
+        }
+      ],
+      "ChapterList": [
+        { "Duration": { "Hours": 0, "Minutes": 0, "Seconds": 10, "Ticks": 867600 }, "Name": "Chapter 1" },
+        { "Duration": { "Hours": 0, "Minutes": 0, "Seconds": 1, "Ticks": 54000 }, "Name": "Chapter 2" },
+        { "Duration": { "Hours": 0, "Minutes": 0, "Seconds": 1, "Ticks": 54000 }, "Name": "Chapter 3" }
+      ],
+      "Color": { "ChromaLocation": 1, "Format": 0, "Matrix": 6, "Primary": 5, "Range": 1, "Transfer": 5 },
+      "Crop": [0, 0, 0, 0],
+      "Duration": { "Hours": 0, "Minutes": 0, "Seconds": 10, "Ticks": 975600 },
+      "FrameRate": { "Den": 1080000, "Num": 27000000 },
+      "Geometry": { "Height": 576, "PAR": { "Den": 45, "Num": 64 }, "Width": 720 },
+      "Index": 42,
+      "InterlaceDetected": false,
+      "LooseCrop": [0, 0, 0, 0],
+      "Metadata": {},
+      "Name": "BLOODSHOT",
+      "Path": "/dev/sr0",
+      "Playlist": -1,
+      "SubtitleList": [],
+      "Type": 0,
+      "VideoCodec": "mpeg2video"
+    }
+  ]
+}
