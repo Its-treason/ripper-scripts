@@ -178,7 +178,7 @@ export function showDvdData(data: DvdMetadataSchema) {
     lines.push(textLines.filter(Boolean).join('\n'));
   }
 
-  console.log(Logger.textPrimary(`DVD contents${dvdName ? ` of ${dvdName}` : ''}:`));
+  console.log(Logger.textPrimary(`DVD contents${dvdName ? ` of "${dvdName}"` : ''}:`));
   console.log(lines.join('\n'));
 }
 

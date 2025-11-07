@@ -12,7 +12,7 @@ async function main() {
 
   let dvdData: DvdMetadataSchema;
   try {
-    dvdData = await scanDisk();
+    dvdData = await scanDisk(config.dvdPath);
   } catch (error) {
     throw new UserError(`Could not read DVD data: ${error}`);
   }

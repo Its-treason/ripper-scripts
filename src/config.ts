@@ -31,6 +31,7 @@ const RipConfigSchema = z.object({
   tmdbToken: z.string().default(tmdbToken() ?? ''),
   movieDir: z.string(),
   showDir: z.string(),
+  dvdPath: z.string().default('/dev/sr0'),
 });
 export type RipConfigSchema = z.infer<typeof RipConfigSchema>;
 

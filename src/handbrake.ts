@@ -5,7 +5,7 @@ import { localDebug, localHandbrakeOutput } from './config';
 import { DvdMetadataSchema } from './dvdMetadata';
 import { Logger } from './logger';
 
-export async function scanDisk(): Promise<DvdMetadataSchema> {
+export async function scanDisk(dvdPath: string): Promise<DvdMetadataSchema> {
   if (localDebug()) {
     const testFile = fs.readFileSync(localHandbrakeOutput()!, {
       encoding: 'utf-8',
@@ -17,7 +17,7 @@ export async function scanDisk(): Promise<DvdMetadataSchema> {
   spinner.setSpinnerString(18);
   spinner.start();
 
-  const { stdout, stderr, exitCode } = await $`HandBrakeCLI -i /dev/sr0 --title 0 --json --verbose=0`.quiet();
+  const { stdout, stderr, exitCode } = await $`HandBrakeCLI -i ${dvdPath} --title 0 --json --verbose=0`.quiet();
 
   spinner.stop(true);
 
