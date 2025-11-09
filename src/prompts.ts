@@ -167,7 +167,6 @@ async function getShowCurrentEpisode(seasonPath: string): Promise<number> {
       continue;
     }
 
-    console.log(filename);
     if (episode > lastEpisode) {
       lastEpisode = episode;
     }
