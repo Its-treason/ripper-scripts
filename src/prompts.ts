@@ -123,6 +123,7 @@ export async function promptShowInfo(showBasePath: string, wantedPaths: number):
   }
 
   const seasonList = await fs.readdir(showPath);
+  seasonList.sort();
   const { season } = await enq.prompt<{ season: string }>({
     name: 'season',
     type: 'autocomplete',

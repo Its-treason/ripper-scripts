@@ -56,7 +56,7 @@ export type TitleRipConfig = {
   outputFile: string;
 };
 
-export async function ripDvdTitles(titles: TitleRipConfig[]): Promise<void> {
+export async function ripDvdTitles(titles: TitleRipConfig[], dvdPath: string): Promise<void> {
   for (const title of titles) {
     if (localDebug()) {
       Logger.success(`Not ripping title ${title.titleIndex} to ${title.outputFile}`);
@@ -71,7 +71,7 @@ export async function ripDvdTitles(titles: TitleRipConfig[]): Promise<void> {
       [
         'HandBrakeCLI',
         '-i',
-        '/dev/sr0',
+        dvdPath,
         '--title',
         title.titleIndex.toString(),
         '--encoder',

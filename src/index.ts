@@ -35,7 +35,7 @@ async function main() {
 
       const outputFile = path.join(dirPath, `${name}.mkv`);
 
-      await ripDvdTitles([{ outputFile, titleIndex: selectedTitles.titleIndex }]);
+      await ripDvdTitles([{ outputFile, titleIndex: selectedTitles.titleIndex }], config.dvdPath);
       break;
     }
     case 'show': {
@@ -46,7 +46,7 @@ async function main() {
         outputFile: showPaths[i]!,
       }));
 
-      await ripDvdTitles(ripConfig);
+      await ripDvdTitles(ripConfig, config.dvdPath);
       break;
     }
   }
