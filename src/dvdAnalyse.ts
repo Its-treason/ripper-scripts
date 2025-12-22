@@ -70,7 +70,7 @@ export function detectDvdType(dvdMeta: DvdMetadataSchema): MovieConfiguration | 
       // To the length match for about 10 percent?
       const aDuration = durationToSeconds(aTitle);
       const bDuration = durationToSeconds(bTitle);
-      if (aDuration > bDuration * 1.1 || aDuration < bDuration * 0.9) {
+      if (aDuration > bDuration * 1.15 || aDuration < bDuration * 0.85) {
         continue;
       }
 
