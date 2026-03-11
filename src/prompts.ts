@@ -69,6 +69,7 @@ export async function promptDvdType(
     console.log(`DVD detected as ${Logger.textPrimary('Movie')} with target ${textTitle}`);
   } else {
     console.log(`Detected DVD as ${Logger.textPrimary('Show')} with the following titles:`);
+    autodetected.showIndexes.sort(); // Ensure all titles are sorted by id asc
     for (const titleIndex of autodetected.showIndexes) {
       const title = dvdMeta.TitleList.find((title) => title.Index === titleIndex)!;
       console.log(`${figures.triangleLeftSmall} ${createShortTitleName(title, dvdMeta.MainFeature)}`);
